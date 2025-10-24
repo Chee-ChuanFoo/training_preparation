@@ -1,0 +1,47 @@
+product_id,product_name,category,subcategory,cost_price,retail_price,stock_quantity,supplier,weight_kg,is_active,profit_margin
+PRD001,Laptop A,Electronics,Laptop,268.17,331.98,10,Supplier A,3.48,False,19.22
+PRD002,Laptop B,Electronics,Laptop,183.28,74.94,129,Supplier D,3.54,True,-144.57
+PRD003,Smartphone A,Electronics,Smartphone,281.12,320.7,154,Supplier D,3.34,True,12.34
+PRD004,Smartphone B,Electronics,Smartphone,252.89,354.85,214,Supplier A,2.61,True,28.73
+PRD005,Tablet A,Electronics,Tablet,120.26,395.61,254,Supplier B,3.08,True,69.6
+PRD006,Tablet B,Electronics,Tablet,334.28,486.96,183,Supplier D,1.55,True,31.35
+PRD007,Headphones A,Electronics,Headphones,223.77,456.52,352,Supplier D,1.72,True,50.98
+PRD008,Headphones B,Electronics,Headphones,14.97,58.17,56,Supplier D,0.83,True,74.27
+PRD009,Smart Watch A,Electronics,Smart Watch,314.02,51.4,370,Supplier A,4.53,True,-510.93
+PRD010,Smart Watch B,Electronics,Smart Watch,188.13,488.99,135,Supplier D,0.35,True,61.53
+PRD011,Camera A,Electronics,Camera,350.91,428.34,184,Supplier C,2.19,True,18.08
+PRD012,Camera B,Electronics,Camera,47.05,382.73,23,Supplier A,4.27,True,87.71
+PRD013,Furniture A,Home & Garden,Furniture,138.18,448.85,489,Supplier C,4.4,True,69.21
+PRD014,Furniture B,Home & Garden,Furniture,155.32,181.22,58,Supplier D,2.06,False,14.29
+PRD015,Lighting A,Home & Garden,Lighting,116.01,202.07,435,Supplier D,4.02,True,42.59
+PRD016,Lighting B,Home & Garden,Lighting,54.09,352.64,30,Supplier B,0.61,False,84.66
+PRD017,Decor A,Home & Garden,Decor,322.88,344.02,92,Supplier D,3.92,True,6.14
+PRD018,Decor B,Home & Garden,Decor,346.4,441.78,372,Supplier B,2.47,False,21.59
+PRD019,Kitchen Appliances A,Home & Garden,Kitchen Appliances,54.05,214.47,23,Supplier A,1.38,True,74.8
+PRD020,Kitchen Appliances B,Home & Garden,Kitchen Appliances,14.82,436.14,268,Supplier B,4.89,True,96.6
+PRD021,Bedding A,Home & Garden,Bedding,212.45,348.8,316,Supplier A,2.22,True,39.09
+PRD022,Bedding B,Home & Garden,Bedding,197.95,336.9,328,Supplier D,0.83,True,41.24
+PRD023,Fitness Equipment A,Sports,Fitness Equipment,14.54,468.17,258,Supplier D,4.27,True,96.89
+PRD024,Fitness Equipment B,Sports,Fitness Equipment,39.2,253.45,123,Supplier C,4.85,True,84.53
+PRD025,Outdoor Gear A,Sports,Outdoor Gear,207.7,281.99,193,Supplier D,4.1,True,26.34
+PRD026,Outdoor Gear B,Sports,Outdoor Gear,189.05,403.61,229,Supplier A,4.3,False,53.16
+PRD027,Athletic Wear A,Sports,Athletic Wear,133.26,490.63,381,Supplier A,0.6,False,72.84
+PRD028,Athletic Wear B,Sports,Athletic Wear,23.97,281.31,422,Supplier A,3.98,True,91.48
+PRD029,Sports Accessories A,Sports,Sports Accessories,357.14,287.73,335,Supplier D,4.76,True,-24.12
+PRD030,Sports Accessories B,Sports,Sports Accessories,331.87,411.05,432,Supplier D,1.73,False,19.26
+PRD031,Fiction A,Books,Fiction,289.5,191.2,231,Supplier A,0.58,True,-51.41
+PRD032,Fiction B,Books,Fiction,10.86,187.24,324,Supplier C,2.78,True,94.2
+PRD033,Non-Fiction A,Books,Non-Fiction,283.82,37.2,84,Supplier D,0.79,False,-662.96
+PRD034,Non-Fiction B,Books,Non-Fiction,51.71,311.26,96,Supplier A,4.66,False,83.39
+PRD035,Educational A,Books,Educational,94.08,414.91,97,Supplier C,0.63,False,77.33
+PRD036,Educational B,Books,Educational,28.14,322.12,344,Supplier A,3.88,False,91.26
+PRD037,Children's Books A,Books,Children's Books,188.38,300.82,258,Supplier B,4.82,True,37.38
+PRD038,Children's Books B,Books,Children's Books,216.84,38.56,478,Supplier D,4.21,False,-462.34
+PRD039,Men's Wear A,Clothing,Men's Wear,370.5,393.82,466,Supplier B,3.49,True,5.92
+PRD040,Men's Wear B,Clothing,Men's Wear,294.89,77.27,198,Supplier C,2.57,False,-281.64
+PRD041,Women's Wear A,Clothing,Women's Wear,173.28,310.36,354,Supplier B,1.44,True,44.17
+PRD042,Women's Wear B,Clothing,Women's Wear,388.49,234.63,68,Supplier B,2.12,True,-65.58
+PRD043,Accessories A,Clothing,Accessories,338.8,280.69,160,Supplier B,1.08,True,-20.7
+PRD044,Accessories B,Clothing,Accessories,277.78,461.78,67,Supplier B,2.57,True,39.85
+PRD045,Shoes A,Clothing,Shoes,287.04,383.98,287,Supplier D,2.96,False,25.25
+PRD046,Shoes B,Clothing,Shoes,272.95,448.53,273,Supplier C,4.4,False,39.15

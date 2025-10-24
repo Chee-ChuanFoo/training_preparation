@@ -1,0 +1,501 @@
+response_id,submission_date,age_group,gender,satisfaction_score,product_quality,customer_service,would_recommend,annual_income,region,comments
+RESP00250,2024-01-01,56-65,Male,3,Excellent,Excellent,Yes,$50k-$75k,West,
+RESP00102,2024-01-01,36-45,Male,4,Good,Excellent,Yes,$75k-$100k,South,Very satisfied
+RESP00351,2024-01-01,36-45,Female,5,Very Good,Fair,Yes,$25k-$50k,South,
+RESP00222,2024-01-01,18-25,Female,4,Very Good,Very Good,Yes,$50k-$75k,West,Very satisfied
+RESP00124,2024-01-01,46-55,Male,5,Very Good,Excellent,No,,East,
+RESP00110,2024-01-01,26-35,Male,5,Good,Excellent,No,$50k-$75k,East,
+RESP00238,2024-01-02,36-45,Female,,Very Good,Very Good,Yes,$75k-$100k,South,Not what I expected
+RESP00384,2024-01-02,65+,Male,5,,Fair,Yes,>$100k,East,Average
+RESP00105,2024-01-02,36-45,Male,3,Very Good,Excellent,No,$25k-$50k,Central,
+RESP00285,2024-01-03,18-25,Male,,Very Good,Very Good,Yes,$25k-$50k,South,Excellent experience
+RESP00364,2024-01-03,46-55,Female,4,Excellent,Good,Maybe,<$25k,North,
+RESP00258,2024-01-04,46-55,Male,4,Excellent,Very Good,Yes,>$100k,Central,Average
+RESP00463,2024-01-04,,Male,4,Excellent,Excellent,,$50k-$75k,Central,Could be better
+RESP00294,2024-01-04,18-25,Female,4,Excellent,Excellent,Yes,$75k-$100k,Central,Had some issues
+RESP00409,2024-01-04,36-45,Male,5,Excellent,Excellent,No,$50k-$75k,East,Not what I expected
+RESP00053,2024-01-04,36-45,Female,2,Very Good,Excellent,Yes,$50k-$75k,East,Could be better
+RESP00330,2024-01-04,46-55,Other,4,Excellent,Very Good,Yes,,Central,
+RESP00224,2024-01-04,36-45,Male,3,Very Good,Excellent,No,$50k-$75k,North,
+RESP00266,2024-01-05,56-65,Female,4,Good,Excellent,Yes,$50k-$75k,Central,Had some issues
+RESP00138,2024-01-05,56-65,Other,4,Excellent,Fair,Yes,$50k-$75k,West,Could be better
+RESP00140,2024-01-05,56-65,Male,4,Good,Very Good,Yes,$75k-$100k,South,
+RESP00325,2024-01-05,65+,,4,Good,Excellent,Yes,$25k-$50k,Central,Very satisfied
+RESP00165,2024-01-05,,Prefer not to say,,Fair,Very Good,Maybe,$25k-$50k,East,Not what I expected
+RESP00346,2024-01-05,36-45,Male,1,Very Good,Good,Yes,$25k-$50k,South,Could be better
+RESP00310,2024-01-05,56-65,Female,,Poor,Excellent,Maybe,>$100k,West,
+RESP00007,2024-01-05,26-35,Female,4,Excellent,Very Good,Yes,,North,Had some issues
+RESP00353,2024-01-06,46-55,Male,4,Good,Excellent,Yes,>$100k,West,Great service!
+RESP00082,2024-01-06,26-35,Female,3,Very Good,Excellent,Maybe,$75k-$100k,North,Very satisfied
+RESP00232,2024-01-06,18-25,,3,Good,Fair,Yes,$50k-$75k,South,Not what I expected
+RESP00012,2024-01-06,36-45,Male,4,Very Good,Very Good,Yes,$50k-$75k,Central,Could be better
+RESP00359,2024-01-06,46-55,Male,5,Excellent,Very Good,No,$25k-$50k,North,Not what I expected
+RESP00017,2024-01-06,36-45,Male,,Very Good,Excellent,No,<$25k,East,
+RESP00412,2024-01-07,46-55,Female,4,Excellent,Poor,Maybe,$25k-$50k,South,Excellent experience
+RESP00022,2024-01-07,,Male,5,Good,Good,Maybe,$25k-$50k,South,Not what I expected
+RESP00415,2024-01-07,26-35,Female,4,Excellent,Fair,Yes,>$100k,East,
+RESP00091,2024-01-07,36-45,Female,4,Very Good,Excellent,Yes,>$100k,Central,Excellent experience
+RESP00034,2024-01-07,26-35,Male,5,Excellent,Very Good,,$50k-$75k,West,
+RESP00407,2024-01-07,36-45,Male,4,Excellent,Fair,Yes,$75k-$100k,North,Had some issues
+RESP00147,2024-01-07,26-35,Male,5,Very Good,Fair,Yes,<$25k,East,Could be better
+RESP00132,2024-01-07,36-45,Female,5,Good,Excellent,Yes,$50k-$75k,North,
+RESP00135,2024-01-08,46-55,Male,3,Excellent,Fair,Yes,,North,Could be better
+RESP00189,2024-01-08,18-25,Female,4,Good,Very Good,Maybe,$50k-$75k,North,Could be better
+RESP00277,2024-01-08,36-45,Male,5,Good,Good,Yes,,North,Great service!
+RESP00291,2024-01-09,36-45,Female,4,Excellent,Very Good,,>$100k,South,Could be better
+RESP00497,2024-01-09,46-55,Male,4,Very Good,Very Good,Yes,$25k-$50k,East,Could be better
+RESP00464,2024-01-09,56-65,Other,5,Excellent,Very Good,Maybe,$50k-$75k,North,
+RESP00174,2024-01-09,36-45,Male,4,Good,,Yes,<$25k,East,Excellent experience
+RESP00244,2024-01-09,36-45,Female,3,Very Good,Good,Yes,<$25k,East,Not what I expected
+RESP00171,2024-01-09,36-45,Male,4,Fair,Excellent,Yes,$25k-$50k,South,
+RESP00483,2024-01-10,26-35,Male,4,Excellent,Very Good,Maybe,$75k-$100k,North,Had some issues
+RESP00401,2024-01-10,56-65,Male,4,Very Good,Excellent,Yes,$50k-$75k,East,Had some issues
+RESP00072,2024-01-11,26-35,Female,4,,Very Good,Yes,$50k-$75k,North,Not what I expected
+RESP00434,2024-01-11,26-35,Female,4,Very Good,Good,Yes,>$100k,East,
+RESP00121,2024-01-11,26-35,Female,,Fair,Very Good,Yes,$50k-$75k,North,
+RESP00416,2024-01-12,56-65,Male,4,Excellent,Excellent,No,$50k-$75k,East,Great service!
+RESP00313,2024-01-12,65+,Female,5,Good,Good,Maybe,$50k-$75k,West,Average
+RESP00438,2024-01-12,18-25,Male,,Good,Good,Yes,$25k-$50k,East,Great service!
+RESP00356,2024-01-12,26-35,Female,4,Excellent,Good,Yes,$75k-$100k,East,Excellent experience
+RESP00066,2024-01-12,18-25,Male,5,Good,,Yes,$75k-$100k,East,
+RESP00041,2024-01-12,56-65,Male,3,Poor,Excellent,Yes,$75k-$100k,East,Not what I expected
+RESP00166,2024-01-12,26-35,Prefer not to say,3,Very Good,Excellent,Yes,<$25k,West,Average
+RESP00146,2024-01-12,46-55,Female,4,Excellent,Good,Yes,$50k-$75k,South,
+RESP00194,2024-01-12,56-65,Female,1,Excellent,Excellent,Yes,$75k-$100k,Central,Excellent experience
+RESP00059,2024-01-12,18-25,Male,3,Excellent,Good,Maybe,$25k-$50k,South,Very satisfied
+RESP00327,2024-01-12,46-55,Female,3,Very Good,Excellent,Maybe,$50k-$75k,South,Could be better
+RESP00441,2024-01-13,46-55,,4,Good,Good,Maybe,$50k-$75k,West,Great service!
+RESP00341,2024-01-13,46-55,Male,5,Excellent,Excellent,Yes,<$25k,West,
+RESP00388,2024-01-14,36-45,Female,5,Good,Good,Maybe,$75k-$100k,Central,Had some issues
+RESP00009,2024-01-14,36-45,Female,3,Very Good,,Yes,$50k-$75k,Central,Could be better
+RESP00148,2024-01-14,,Male,5,Very Good,Good,Yes,$50k-$75k,North,Had some issues
+RESP00477,2024-01-14,36-45,Male,5,Very Good,Very Good,Yes,<$25k,North,Not what I expected
+RESP00413,2024-01-14,18-25,Prefer not to say,3,Excellent,Good,Yes,,North,
+RESP00479,2024-01-14,26-35,Male,4,Very Good,Good,Yes,<$25k,Central,Average
+RESP00190,2024-01-14,18-25,Female,4,Excellent,Very Good,Yes,$25k-$50k,West,Excellent experience
+RESP00360,2024-01-14,56-65,Female,2,Very Good,Good,,>$100k,West,
+RESP00067,2024-01-15,26-35,Female,1,Very Good,Good,Yes,$25k-$50k,West,Average
+RESP00305,2024-01-15,18-25,Male,4,Good,Excellent,Yes,>$100k,South,Very satisfied
+RESP00251,2024-01-15,36-45,Male,3,Good,Good,No,<$25k,West,Great service!
+RESP00466,2024-01-15,26-35,Female,3,Excellent,Very Good,Yes,$25k-$50k,West,Very satisfied
+RESP00350,2024-01-15,36-45,Prefer not to say,5,Very Good,Very Good,Maybe,<$25k,East,Great service!
+RESP00383,2024-01-15,36-45,Female,4,Good,Excellent,Yes,$25k-$50k,North,
+RESP00043,2024-01-15,46-55,Female,4,Excellent,Fair,Yes,<$25k,East,
+RESP00323,2024-01-15,46-55,Female,4,Good,,Maybe,<$25k,East,Excellent experience
+RESP00178,2024-01-16,56-65,Female,2,Good,Poor,Yes,$50k-$75k,Central,Very satisfied
+RESP00378,2024-01-16,26-35,Female,4,Very Good,Fair,Yes,$75k-$100k,East,Excellent experience
+RESP00223,2024-01-16,26-35,Female,5,Excellent,Very Good,,$75k-$100k,East,Had some issues
+RESP00227,2024-01-16,46-55,Male,3,Fair,Good,Yes,$25k-$50k,West,Excellent experience
+RESP00065,2024-01-16,56-65,Female,,Good,Fair,Yes,$75k-$100k,East,Great service!
+RESP00099,2024-01-16,18-25,Male,2,Good,Excellent,Yes,<$25k,South,Not what I expected
+RESP00208,2024-01-17,26-35,Male,5,Excellent,Very Good,Maybe,$25k-$50k,North,
+RESP00344,2024-01-17,65+,Male,5,Poor,Good,Maybe,$50k-$75k,East,Great service!
+RESP00475,2024-01-17,36-45,Male,3,Excellent,Good,No,,North,Excellent experience
+RESP00437,2024-01-17,46-55,Male,4,Excellent,Very Good,Yes,>$100k,South,
+RESP00408,2024-01-17,46-55,Female,4,Excellent,Very Good,No,$50k-$75k,East,
+RESP00100,2024-01-17,26-35,Male,5,Excellent,Excellent,Yes,,West,Very satisfied
+RESP00268,2024-01-18,36-45,Female,2,Good,Very Good,Yes,>$100k,Central,Had some issues
+RESP00177,2024-01-18,65+,Male,5,Very Good,,Yes,<$25k,West,
+RESP00048,2024-01-18,65+,Male,4,Very Good,Very Good,No,$50k-$75k,North,Excellent experience
+RESP00134,2024-01-19,18-25,Female,5,Excellent,Fair,Yes,$75k-$100k,East,Average
+RESP00037,2024-01-19,,Female,1,Good,Good,No,$50k-$75k,South,Very satisfied
+RESP00395,2024-01-19,26-35,Female,5,Good,,Maybe,>$100k,Central,Not what I expected
+RESP00089,2024-01-19,26-35,Female,4,Very Good,Good,No,$75k-$100k,East,Not what I expected
+RESP00451,2024-01-19,56-65,Male,4,Very Good,Good,,$25k-$50k,South,Could be better
+RESP00340,2024-01-19,65+,Female,3,Poor,Excellent,Yes,$75k-$100k,South,Could be better
+RESP00139,2024-01-19,36-45,Female,4,Excellent,Good,No,<$25k,Central,Very satisfied
+RESP00333,2024-01-20,18-25,Female,2,Very Good,Very Good,Maybe,$50k-$75k,East,
+RESP00087,2024-01-20,36-45,Male,4,Very Good,Excellent,Maybe,$25k-$50k,West,Not what I expected
+RESP00380,2024-01-20,56-65,Female,2,Very Good,Good,Maybe,$75k-$100k,North,Great service!
+RESP00270,2024-01-20,26-35,Male,1,Good,Very Good,Yes,$75k-$100k,Central,Average
+RESP00292,2024-01-20,18-25,Male,4,Very Good,Very Good,Yes,>$100k,East,Great service!
+RESP00494,2024-01-21,26-35,,5,Good,Very Good,Maybe,$75k-$100k,South,Great service!
+RESP00064,2024-01-21,26-35,Female,3,,Very Good,Maybe,,South,Great service!
+RESP00381,2024-01-21,18-25,Female,4,Excellent,,Yes,$25k-$50k,East,Could be better
+RESP00078,2024-01-21,26-35,,,Very Good,Good,Yes,>$100k,East,Not what I expected
+RESP00088,2024-01-21,36-45,Female,3,Good,Good,Yes,<$25k,North,Average
+RESP00151,2024-01-21,36-45,Male,,Very Good,Good,Yes,$50k-$75k,South,
+RESP00400,2024-01-22,65+,Male,3,Very Good,Excellent,Yes,<$25k,South,
+RESP00470,2024-01-22,36-45,Female,5,Very Good,Excellent,Maybe,$25k-$50k,South,
+RESP00299,2024-01-22,26-35,Prefer not to say,2,Excellent,,Yes,$75k-$100k,West,
+RESP00030,2024-01-22,26-35,Other,5,Very Good,Very Good,Yes,<$25k,North,Great service!
+RESP00083,2024-01-22,26-35,Male,5,Very Good,Very Good,No,,South,
+RESP00150,2024-01-23,,Male,5,Very Good,Very Good,Yes,>$100k,East,Could be better
+RESP00054,2024-01-23,18-25,Female,3,Good,Good,,,Central,
+RESP00259,2024-01-23,36-45,Female,4,Excellent,Fair,Yes,$50k-$75k,East,Excellent experience
+RESP00090,2024-01-23,18-25,Prefer not to say,4,Good,,Maybe,$50k-$75k,Central,Very satisfied
+RESP00322,2024-01-23,36-45,Male,5,Very Good,Excellent,Yes,$25k-$50k,Central,Great service!
+RESP00419,2024-01-23,36-45,Other,4,Good,Good,Yes,$75k-$100k,North,Great service!
+RESP00161,2024-01-23,36-45,Male,3,Good,Fair,Yes,$25k-$50k,South,
+RESP00098,2024-01-24,36-45,Male,5,Excellent,Very Good,No,>$100k,South,
+RESP00456,2024-01-24,36-45,Female,4,Good,Excellent,Yes,<$25k,South,Had some issues
+RESP00303,2024-01-24,36-45,Female,4,,Excellent,Maybe,>$100k,North,Very satisfied
+RESP00216,2024-01-24,65+,Male,1,Excellent,Very Good,No,$50k-$75k,East,Very satisfied
+RESP00044,2024-01-24,26-35,Female,4,Excellent,Fair,Yes,$50k-$75k,West,
+RESP00133,2024-01-24,36-45,Female,1,Excellent,Excellent,Yes,$75k-$100k,North,
+RESP00023,2024-01-25,46-55,Female,2,Excellent,Excellent,Yes,>$100k,West,Could be better
+RESP00221,2024-01-25,56-65,Female,4,Excellent,Excellent,Yes,$50k-$75k,East,
+RESP00334,2024-01-25,36-45,Male,4,,Very Good,Yes,$25k-$50k,West,Could be better
+RESP00260,2024-01-25,18-25,Male,4,Very Good,,Yes,>$100k,Central,Excellent experience
+RESP00371,2024-01-25,,Female,5,Very Good,Very Good,Maybe,>$100k,Central,Not what I expected
+RESP00431,2024-01-26,26-35,Female,5,Very Good,Very Good,Yes,>$100k,West,Could be better
+RESP00326,2024-01-26,46-55,Female,3,Very Good,Good,No,$50k-$75k,Central,
+RESP00240,2024-01-26,65+,Male,1,Very Good,Good,No,$50k-$75k,North,
+RESP00101,2024-01-26,36-45,Female,5,Very Good,Good,Yes,,North,Could be better
+RESP00370,2024-01-26,,Female,4,Good,Good,Yes,>$100k,North,Great service!
+RESP00057,2024-01-26,26-35,Female,3,Good,Good,Maybe,$50k-$75k,Central,
+RESP00187,2024-01-27,56-65,Female,5,Excellent,Poor,Yes,$50k-$75k,South,Very satisfied
+RESP00185,2024-01-27,26-35,Female,,Very Good,Very Good,Yes,$75k-$100k,West,
+RESP00131,2024-01-27,26-35,Female,4,Good,Very Good,Yes,,North,Great service!
+RESP00389,2024-01-27,36-45,Male,4,Very Good,Very Good,Yes,$25k-$50k,North,Very satisfied
+RESP00368,2024-01-27,26-35,Female,4,,Good,Maybe,$75k-$100k,South,
+RESP00499,2024-01-27,36-45,Male,3,Very Good,Very Good,Yes,$25k-$50k,West,Excellent experience
+RESP00345,2024-01-27,56-65,Female,3,Fair,Very Good,Maybe,$50k-$75k,South,Could be better
+RESP00228,2024-01-27,36-45,Prefer not to say,2,,Good,Yes,$50k-$75k,North,Could be better
+RESP00286,2024-01-27,56-65,Female,4,Very Good,Excellent,Yes,$25k-$50k,West,Excellent experience
+RESP00237,2024-01-28,26-35,Male,4,Very Good,Good,No,$50k-$75k,Central,Had some issues
+RESP00114,2024-01-28,46-55,Female,3,Good,Excellent,Yes,$75k-$100k,West,Not what I expected
+RESP00319,2024-01-28,36-45,Female,2,Very Good,Very Good,Yes,,West,Not what I expected
+RESP00450,2024-01-29,26-35,Male,2,Good,Good,Yes,,South,Could be better
+RESP00449,2024-01-30,46-55,Female,,Excellent,Good,No,,Central,
+RESP00218,2024-01-30,46-55,Male,5,Good,Excellent,Yes,>$100k,Central,Not what I expected
+RESP00315,2024-01-31,26-35,Male,5,Very Good,Good,Yes,$50k-$75k,North,Very satisfied
+RESP00490,2024-01-31,18-25,Male,3,Good,Very Good,Yes,,Central,Very satisfied
+RESP00113,2024-01-31,,Female,4,Good,Excellent,Yes,,North,
+RESP00492,2024-02-01,18-25,Female,3,Very Good,Good,,$50k-$75k,East,
+RESP00125,2024-02-01,,Male,5,Fair,Good,No,,East,Excellent experience
+RESP00399,2024-02-01,26-35,Male,2,Good,Excellent,Maybe,>$100k,West,Could be better
+RESP00013,2024-02-01,46-55,Female,4,Good,Good,Maybe,<$25k,East,
+RESP00060,2024-02-02,26-35,Female,,Very Good,Very Good,Yes,$25k-$50k,Central,Excellent experience
+RESP00104,2024-02-02,26-35,Male,3,Excellent,Very Good,Yes,$25k-$50k,Central,
+RESP00243,2024-02-02,36-45,Prefer not to say,2,Very Good,Excellent,No,$75k-$100k,East,
+RESP00453,2024-02-03,18-25,Other,,Very Good,Very Good,Maybe,$50k-$75k,South,
+RESP00203,2024-02-03,46-55,Female,5,Very Good,Good,Yes,$75k-$100k,West,
+RESP00394,2024-02-04,26-35,Female,4,Excellent,Very Good,Yes,$25k-$50k,East,Excellent experience
+RESP00311,2024-02-04,46-55,Male,2,Very Good,Good,Yes,$50k-$75k,Central,Excellent experience
+RESP00379,2024-02-04,26-35,Female,,,Good,Maybe,$50k-$75k,South,Not what I expected
+RESP00180,2024-02-05,26-35,Male,,Excellent,Excellent,,$25k-$50k,East,Great service!
+RESP00127,2024-02-05,36-45,Female,3,Good,Good,Maybe,,West,
+RESP00293,2024-02-05,36-45,Male,2,Excellent,Very Good,No,$50k-$75k,Central,
+RESP00373,2024-02-05,36-45,Female,5,Excellent,Good,,$50k-$75k,West,Could be better
+RESP00382,2024-02-05,65+,Female,3,Excellent,Very Good,Yes,$50k-$75k,Central,Average
+RESP00372,2024-02-06,46-55,Male,4,Very Good,Very Good,Yes,$50k-$75k,Central,
+RESP00199,2024-02-06,65+,Male,1,Very Good,Very Good,Yes,$75k-$100k,Central,
+RESP00242,2024-02-06,56-65,Male,4,Good,Very Good,Yes,>$100k,East,Very satisfied
+RESP00397,2024-02-06,56-65,Male,3,Very Good,Good,Yes,,North,Average
+RESP00096,2024-02-06,26-35,Male,2,Good,Good,No,$25k-$50k,East,Great service!
+RESP00471,2024-02-06,26-35,Male,3,Very Good,Good,Yes,$50k-$75k,Central,Very satisfied
+RESP00153,2024-02-06,36-45,Female,,Excellent,Good,Yes,>$100k,West,Excellent experience
+RESP00028,2024-02-06,56-65,Male,3,Very Good,Very Good,No,$75k-$100k,East,Average
+RESP00032,2024-02-07,65+,Female,2,Very Good,Excellent,Maybe,$75k-$100k,East,Had some issues
+RESP00024,2024-02-07,26-35,Male,1,Fair,Very Good,Yes,$25k-$50k,East,
+RESP00220,2024-02-07,36-45,Female,4,Good,Poor,Yes,$50k-$75k,West,Had some issues
+RESP00175,2024-02-07,26-35,Male,1,Fair,Very Good,Maybe,$25k-$50k,South,Great service!
+RESP00279,2024-02-08,46-55,Female,2,Good,Very Good,,$25k-$50k,South,Could be better
+RESP00167,2024-02-08,26-35,Male,4,Excellent,Good,Yes,>$100k,North,Excellent experience
+RESP00027,2024-02-08,18-25,Female,5,Very Good,,Maybe,$75k-$100k,Central,Not what I expected
+RESP00318,2024-02-08,26-35,Female,2,,Poor,Yes,$75k-$100k,South,Great service!
+RESP00484,2024-02-08,36-45,Male,5,Very Good,Fair,Yes,<$25k,West,
+RESP00246,2024-02-08,,Prefer not to say,4,Very Good,Very Good,Maybe,>$100k,East,Excellent experience
+RESP00321,2024-02-08,18-25,Female,3,Fair,Very Good,Yes,,Central,Average
+RESP00144,2024-02-08,18-25,Male,4,Very Good,Very Good,Yes,$50k-$75k,South,Could be better
+RESP00093,2024-02-09,26-35,Male,4,Fair,Very Good,Maybe,,North,Very satisfied
+RESP00338,2024-02-09,36-45,Male,5,Very Good,Very Good,Yes,$25k-$50k,East,Had some issues
+RESP00306,2024-02-09,65+,Female,4,Very Good,Very Good,Yes,$50k-$75k,West,Excellent experience
+RESP00094,2024-02-09,56-65,,4,Excellent,Very Good,Maybe,$50k-$75k,North,Great service!
+RESP00443,2024-02-09,26-35,Male,5,Very Good,Good,Yes,$75k-$100k,East,Great service!
+RESP00402,2024-02-09,18-25,Male,4,Excellent,Excellent,Yes,$75k-$100k,East,Very satisfied
+RESP00363,2024-02-09,46-55,Female,3,Excellent,Very Good,Maybe,<$25k,South,
+RESP00366,2024-02-09,,Other,5,Good,Very Good,Yes,$75k-$100k,North,Not what I expected
+RESP00429,2024-02-09,26-35,Male,5,Good,Excellent,Yes,<$25k,North,
+RESP00245,2024-02-09,26-35,Female,3,Very Good,Excellent,Yes,>$100k,North,Great service!
+RESP00352,2024-02-09,46-55,Female,1,Poor,Excellent,Maybe,<$25k,North,Very satisfied
+RESP00202,2024-02-10,26-35,Female,,Excellent,Good,,>$100k,East,Very satisfied
+RESP00282,2024-02-10,36-45,Male,4,Excellent,Good,Yes,$75k-$100k,North,
+RESP00375,2024-02-10,,Male,3,Very Good,Very Good,Yes,$50k-$75k,South,
+RESP00393,2024-02-10,65+,Prefer not to say,,Very Good,Very Good,Yes,$75k-$100k,Central,Had some issues
+RESP00308,2024-02-10,56-65,Female,5,Excellent,Excellent,Yes,$75k-$100k,South,
+RESP00460,2024-02-11,46-55,Female,5,Excellent,,Maybe,$50k-$75k,North,Average
+RESP00249,2024-02-11,,Other,3,Excellent,Excellent,Yes,,North,Average
+RESP00061,2024-02-11,26-35,Male,4,Good,Very Good,Yes,$50k-$75k,Central,Great service!
+RESP00051,2024-02-11,46-55,Male,5,Fair,Excellent,Yes,$25k-$50k,Central,Not what I expected
+RESP00339,2024-02-11,26-35,Female,4,Very Good,Excellent,Yes,$75k-$100k,East,
+RESP00480,2024-02-11,36-45,Female,4,Excellent,Very Good,,$75k-$100k,Central,
+RESP00168,2024-02-11,36-45,Male,2,Excellent,Good,Maybe,,South,Excellent experience
+RESP00369,2024-02-11,26-35,Male,4,Excellent,Excellent,Yes,>$100k,West,Had some issues
+RESP00084,2024-02-12,,Female,2,Good,Excellent,Maybe,$75k-$100k,East,Very satisfied
+RESP00181,2024-02-12,18-25,Male,4,Very Good,Excellent,Yes,$25k-$50k,East,Excellent experience
+RESP00253,2024-02-12,46-55,Female,,Excellent,Very Good,Yes,<$25k,South,
+RESP00430,2024-02-12,46-55,Male,,Very Good,,Yes,$50k-$75k,East,Had some issues
+RESP00261,2024-02-12,56-65,Female,5,Very Good,Excellent,Yes,<$25k,South,Could be better
+RESP00274,2024-02-12,65+,Male,5,Excellent,Good,Yes,$25k-$50k,South,Great service!
+RESP00233,2024-02-12,26-35,Female,1,Very Good,Very Good,Yes,$75k-$100k,South,
+RESP00145,2024-02-12,56-65,Prefer not to say,4,Excellent,Excellent,Maybe,$75k-$100k,Central,
+RESP00289,2024-02-12,36-45,Male,3,Very Good,Good,No,$25k-$50k,South,Great service!
+RESP00357,2024-02-12,26-35,Female,2,,Excellent,Yes,$50k-$75k,Central,Very satisfied
+RESP00459,2024-02-12,26-35,Female,4,Poor,Excellent,No,,North,Not what I expected
+RESP00404,2024-02-13,65+,Female,3,Very Good,Good,Yes,$25k-$50k,South,Had some issues
+RESP00262,2024-02-13,26-35,Female,4,Very Good,Very Good,Maybe,>$100k,South,Excellent experience
+RESP00254,2024-02-13,26-35,Female,5,,Fair,,$25k-$50k,North,Average
+RESP00335,2024-02-13,36-45,Male,4,Good,Very Good,No,$25k-$50k,East,Very satisfied
+RESP00295,2024-02-13,26-35,Female,2,Excellent,Very Good,Yes,$75k-$100k,West,
+RESP00498,2024-02-13,18-25,Female,5,Very Good,Excellent,No,$75k-$100k,North,
+RESP00467,2024-02-14,46-55,Female,3,Very Good,Very Good,,$50k-$75k,West,Average
+RESP00234,2024-02-14,18-25,Female,4,,Very Good,Yes,$25k-$50k,North,Excellent experience
+RESP00137,2024-02-14,36-45,,4,Excellent,Good,Yes,$25k-$50k,West,
+RESP00391,2024-02-14,46-55,Male,4,Excellent,Excellent,No,$50k-$75k,South,Great service!
+RESP00472,2024-02-14,36-45,Female,4,Excellent,Very Good,Yes,$50k-$75k,South,Average
+RESP00428,2024-02-15,18-25,Female,4,Good,Very Good,Yes,$50k-$75k,North,Very satisfied
+RESP00290,2024-02-15,46-55,Female,4,Fair,Very Good,Yes,$50k-$75k,North,
+RESP00207,2024-02-15,46-55,Male,4,Excellent,,Yes,$50k-$75k,North,Had some issues
+RESP00164,2024-02-16,46-55,Female,3,Excellent,Very Good,No,$25k-$50k,East,Average
+RESP00071,2024-02-16,46-55,Prefer not to say,4,Excellent,Very Good,Yes,$25k-$50k,South,Had some issues
+RESP00454,2024-02-16,26-35,Male,5,Very Good,Fair,Yes,<$25k,East,
+RESP00169,2024-02-17,36-45,Male,3,Poor,Good,Yes,$75k-$100k,Central,Very satisfied
+RESP00316,2024-02-17,56-65,Female,2,Excellent,Very Good,Yes,$75k-$100k,West,Could be better
+RESP00324,2024-02-17,56-65,Male,4,Good,Good,Yes,$50k-$75k,Central,Excellent experience
+RESP00170,2024-02-18,56-65,Female,1,Excellent,Excellent,,>$100k,Central,Great service!
+RESP00296,2024-02-18,65+,Male,4,Fair,Fair,Yes,$50k-$75k,South,Could be better
+RESP00081,2024-02-18,36-45,Male,3,Good,Very Good,Yes,<$25k,Central,Had some issues
+RESP00079,2024-02-18,26-35,Male,5,Very Good,Very Good,Yes,$50k-$75k,East,Not what I expected
+RESP00302,2024-02-19,46-55,Male,5,Good,Very Good,Maybe,$50k-$75k,South,
+RESP00019,2024-02-19,,Female,5,Good,Very Good,Yes,$50k-$75k,North,
+RESP00348,2024-02-19,18-25,Female,4,Very Good,Very Good,Yes,<$25k,Central,Excellent experience
+RESP00414,2024-02-19,36-45,Female,3,Very Good,Good,,$25k-$50k,North,
+RESP00075,2024-02-19,56-65,Female,2,Very Good,Fair,Maybe,>$100k,South,Average
+RESP00496,2024-02-19,26-35,Female,4,Good,Very Good,Yes,$25k-$50k,East,Very satisfied
+RESP00016,2024-02-20,36-45,Female,5,Very Good,Excellent,Yes,<$25k,Central,Average
+RESP00049,2024-02-20,65+,Female,5,Very Good,Fair,Maybe,$75k-$100k,Central,
+RESP00418,2024-02-20,36-45,Male,5,,Excellent,Maybe,$25k-$50k,South,Average
+RESP00026,2024-02-20,18-25,Female,4,Fair,Excellent,Maybe,,West,
+RESP00455,2024-02-20,26-35,Female,5,Excellent,Excellent,Yes,$75k-$100k,South,
+RESP00255,2024-02-20,36-45,Female,,,Excellent,,$75k-$100k,South,Not what I expected
+RESP00487,2024-02-21,26-35,Male,5,Poor,Fair,Yes,$50k-$75k,Central,Could be better
+RESP00478,2024-02-21,56-65,Female,4,Very Good,Good,Yes,$75k-$100k,West,Very satisfied
+RESP00312,2024-02-22,26-35,Female,,Very Good,Very Good,No,$75k-$100k,Central,Not what I expected
+RESP00050,2024-02-22,56-65,Prefer not to say,5,Excellent,Excellent,Maybe,$50k-$75k,East,Excellent experience
+RESP00489,2024-02-22,36-45,Female,3,Very Good,Good,Yes,$50k-$75k,South,Not what I expected
+RESP00183,2024-02-22,46-55,Female,4,Poor,Excellent,Yes,$25k-$50k,East,Great service!
+RESP00276,2024-02-22,36-45,Female,2,Very Good,Very Good,Yes,>$100k,North,Could be better
+RESP00119,2024-02-22,36-45,Male,5,Good,Excellent,Yes,$25k-$50k,North,
+RESP00231,2024-02-22,36-45,Female,3,Very Good,Good,No,$50k-$75k,Central,
+RESP00230,2024-02-23,36-45,Female,1,Very Good,Very Good,Yes,$50k-$75k,Central,Very satisfied
+RESP00092,2024-02-23,36-45,Male,4,Good,Good,No,$75k-$100k,South,Very satisfied
+RESP00149,2024-02-23,36-45,Female,1,Good,Good,Yes,$50k-$75k,South,
+RESP00172,2024-02-24,26-35,Male,5,Very Good,Excellent,Maybe,>$100k,North,Excellent experience
+RESP00031,2024-02-24,36-45,Male,5,Excellent,Very Good,Yes,$75k-$100k,South,Could be better
+RESP00417,2024-02-24,26-35,Prefer not to say,5,,Excellent,Yes,$50k-$75k,East,Great service!
+RESP00200,2024-02-24,56-65,Male,4,Very Good,Good,Yes,$75k-$100k,East,Very satisfied
+RESP00406,2024-02-26,56-65,Female,5,Excellent,Good,Yes,$25k-$50k,North,
+RESP00025,2024-02-26,46-55,Male,5,Very Good,,No,$50k-$75k,North,Could be better
+RESP00120,2024-02-26,56-65,Male,2,Fair,Fair,No,>$100k,North,Great service!
+RESP00328,2024-02-26,36-45,Prefer not to say,3,Fair,Excellent,Yes,$75k-$100k,West,
+RESP00376,2024-02-26,46-55,Male,5,Good,Good,No,$75k-$100k,South,Average
+RESP00095,2024-02-27,26-35,Female,5,Very Good,Very Good,Yes,$50k-$75k,East,Could be better
+RESP00010,2024-02-27,36-45,Female,4,Very Good,Very Good,No,$50k-$75k,East,
+RESP00052,2024-02-27,56-65,Male,5,Very Good,,Yes,$50k-$75k,South,Average
+RESP00040,2024-02-27,36-45,Male,2,Excellent,Good,Maybe,>$100k,West,Excellent experience
+RESP00069,2024-02-27,46-55,Male,5,Very Good,Very Good,No,$25k-$50k,South,Excellent experience
+RESP00426,2024-02-27,65+,Female,4,Very Good,Good,,$75k-$100k,South,
+RESP00317,2024-02-27,18-25,Male,1,Poor,Good,Yes,$75k-$100k,Central,Excellent experience
+RESP00058,2024-02-28,56-65,Male,5,Very Good,Good,Yes,$25k-$50k,East,Not what I expected
+RESP00011,2024-02-28,56-65,Male,2,Excellent,,Yes,$75k-$100k,South,
+RESP00055,2024-02-28,26-35,Male,2,Good,Good,Yes,$50k-$75k,East,Great service!
+RESP00106,2024-02-28,36-45,Female,3,Very Good,Very Good,Maybe,<$25k,North,Not what I expected
+RESP00162,2024-02-28,46-55,Male,4,Excellent,Very Good,Yes,$50k-$75k,West,
+RESP00442,2024-02-28,36-45,Male,4,Good,Good,Maybe,>$100k,North,Very satisfied
+RESP00461,2024-02-28,36-45,Female,4,Good,Good,No,$50k-$75k,East,Not what I expected
+RESP00272,2024-02-28,18-25,Prefer not to say,4,Excellent,Good,Yes,$50k-$75k,South,Average
+RESP00347,2024-02-28,18-25,Male,5,Very Good,Very Good,Yes,$25k-$50k,Central,
+RESP00118,2024-02-28,,Female,3,Very Good,Good,No,>$100k,West,Not what I expected
+RESP00447,2024-02-29,36-45,Female,4,Excellent,Very Good,Yes,$25k-$50k,Central,
+RESP00440,2024-02-29,26-35,Male,5,Very Good,Excellent,Yes,$50k-$75k,Central,Very satisfied
+RESP00358,2024-02-29,18-25,Male,5,Good,Good,Yes,$25k-$50k,East,Average
+RESP00038,2024-02-29,36-45,Male,1,,Very Good,No,$50k-$75k,North,
+RESP00029,2024-02-29,46-55,Female,4,Good,Good,Yes,$50k-$75k,East,
+RESP00486,2024-02-29,46-55,Female,5,Fair,Very Good,,$25k-$50k,East,Very satisfied
+RESP00469,2024-02-29,18-25,Female,2,Very Good,Excellent,Yes,$25k-$50k,West,Great service!
+RESP00225,2024-02-29,26-35,Female,2,Good,Very Good,Yes,$75k-$100k,South,Average
+RESP00275,2024-02-29,26-35,Male,5,Good,Excellent,Maybe,,Central,Great service!
+RESP00435,2024-02-29,26-35,Female,4,Excellent,Good,Yes,$25k-$50k,North,Great service!
+RESP00448,2024-03-01,26-35,Male,5,Very Good,Poor,Yes,$25k-$50k,South,Very satisfied
+RESP00176,2024-03-01,36-45,Male,5,Excellent,Excellent,Yes,$50k-$75k,South,
+RESP00117,2024-03-01,46-55,Female,5,Very Good,Excellent,No,$75k-$100k,East,Very satisfied
+RESP00465,2024-03-01,46-55,Female,2,Excellent,Good,Yes,$50k-$75k,North,
+RESP00410,2024-03-01,46-55,Female,4,Very Good,Good,Maybe,$25k-$50k,North,Could be better
+RESP00265,2024-03-01,65+,Female,5,Poor,Good,Yes,$25k-$50k,Central,
+RESP00331,2024-03-02,,Male,3,Fair,Good,Yes,>$100k,East,Not what I expected
+RESP00336,2024-03-02,46-55,Male,5,,,Maybe,$50k-$75k,East,
+RESP00195,2024-03-02,,Male,4,Very Good,Excellent,Yes,$25k-$50k,South,Excellent experience
+RESP00264,2024-03-02,,Male,5,Good,Excellent,Maybe,$50k-$75k,Central,Not what I expected
+RESP00495,2024-03-02,18-25,Female,3,Good,Excellent,Maybe,<$25k,South,Great service!
+RESP00468,2024-03-02,,Female,5,Very Good,Very Good,,$50k-$75k,East,Had some issues
+RESP00269,2024-03-02,26-35,Female,4,Excellent,Very Good,Yes,$50k-$75k,Central,
+RESP00462,2024-03-03,,Female,5,Very Good,Very Good,Yes,,West,Average
+RESP00108,2024-03-04,56-65,Male,4,Excellent,Good,Yes,<$25k,Central,Very satisfied
+RESP00112,2024-03-04,56-65,Female,3,Good,Excellent,Yes,$50k-$75k,North,
+RESP00314,2024-03-04,26-35,Female,4,Very Good,Excellent,Maybe,$25k-$50k,East,Excellent experience
+RESP00107,2024-03-04,26-35,Male,,Very Good,Good,Yes,$50k-$75k,Central,
+RESP00211,2024-03-04,46-55,Male,2,Excellent,Excellent,Yes,$50k-$75k,West,Great service!
+RESP00214,2024-03-04,46-55,Female,5,Good,Excellent,Maybe,$25k-$50k,South,Very satisfied
+RESP00215,2024-03-04,46-55,Male,4,Good,Excellent,Yes,>$100k,West,
+RESP00247,2024-03-05,26-35,Other,4,Very Good,Excellent,No,$75k-$100k,East,
+RESP00332,2024-03-05,46-55,Female,5,Excellent,Excellent,Maybe,$25k-$50k,Central,Very satisfied
+RESP00042,2024-03-05,36-45,Female,5,,Good,Yes,$50k-$75k,North,
+RESP00329,2024-03-05,18-25,Male,5,Very Good,Fair,No,$75k-$100k,West,Had some issues
+RESP00387,2024-03-06,36-45,Male,5,,Very Good,Yes,<$25k,North,Excellent experience
+RESP00076,2024-03-06,18-25,Female,4,Excellent,Good,Yes,$25k-$50k,East,Not what I expected
+RESP00476,2024-03-06,,Male,3,Poor,Excellent,Yes,$50k-$75k,South,Very satisfied
+RESP00014,2024-03-07,18-25,Other,4,Excellent,Very Good,Yes,$50k-$75k,West,
+RESP00349,2024-03-07,26-35,Male,3,Good,Very Good,Yes,>$100k,West,
+RESP00036,2024-03-07,26-35,Male,4,Excellent,Excellent,Yes,$25k-$50k,East,Very satisfied
+RESP00278,2024-03-07,56-65,Male,4,,Good,Maybe,$25k-$50k,West,Not what I expected
+RESP00020,2024-03-07,56-65,Female,,Fair,Very Good,No,$50k-$75k,North,Very satisfied
+RESP00212,2024-03-07,36-45,Male,3,Very Good,Very Good,Yes,$50k-$75k,South,Average
+RESP00008,2024-03-07,56-65,Female,4,Very Good,Good,Maybe,>$100k,West,Very satisfied
+RESP00342,2024-03-07,26-35,Female,4,Very Good,Fair,Yes,$50k-$75k,Central,Excellent experience
+RESP00361,2024-03-07,46-55,Male,5,Very Good,Very Good,Maybe,,Central,Great service!
+RESP00337,2024-03-08,46-55,,5,Very Good,Excellent,,$75k-$100k,North,Not what I expected
+RESP00320,2024-03-08,56-65,Female,4,Good,Good,Yes,$75k-$100k,West,Not what I expected
+RESP00004,2024-03-08,36-45,Male,2,Good,Very Good,Yes,$75k-$100k,North,
+RESP00193,2024-03-08,18-25,Female,4,Excellent,Good,Maybe,$50k-$75k,Central,
+RESP00184,2024-03-08,26-35,Male,4,Excellent,Excellent,No,$25k-$50k,North,Excellent experience
+RESP00073,2024-03-08,26-35,Female,3,Good,Excellent,Yes,$75k-$100k,Central,
+RESP00204,2024-03-08,46-55,Male,5,Excellent,Good,Maybe,$25k-$50k,West,Average
+RESP00182,2024-03-08,36-45,Prefer not to say,4,Good,Excellent,Yes,,West,
+RESP00015,2024-03-09,26-35,Male,5,Very Good,Fair,Yes,$75k-$100k,Central,
+RESP00374,2024-03-09,36-45,Female,4,Excellent,Good,No,$50k-$75k,East,
+RESP00298,2024-03-09,65+,Female,,Excellent,Excellent,Yes,$75k-$100k,East,Could be better
+RESP00485,2024-03-09,36-45,Female,3,Excellent,Good,No,$75k-$100k,South,Great service!
+RESP00433,2024-03-09,18-25,Male,1,Excellent,Excellent,Yes,$75k-$100k,North,Very satisfied
+RESP00003,2024-03-09,26-35,Prefer not to say,4,Good,Excellent,Yes,$50k-$75k,West,Not what I expected
+RESP00273,2024-03-09,,Male,3,Excellent,Very Good,Yes,,East,
+RESP00284,2024-03-09,26-35,Female,4,Very Good,Good,Maybe,>$100k,East,Had some issues
+RESP00047,2024-03-10,65+,Female,5,,Good,Yes,,South,Average
+RESP00109,2024-03-10,36-45,Prefer not to say,3,Very Good,Very Good,Yes,$75k-$100k,Central,
+RESP00390,2024-03-10,,Male,3,Very Good,Very Good,Yes,,South,
+RESP00405,2024-03-10,18-25,Prefer not to say,5,Very Good,Excellent,Yes,$50k-$75k,East,Great service!
+RESP00493,2024-03-11,18-25,Male,1,Very Good,Excellent,Yes,<$25k,North,Could be better
+RESP00126,2024-03-11,46-55,Female,5,Very Good,Very Good,Yes,$25k-$50k,East,Not what I expected
+RESP00248,2024-03-11,36-45,Female,5,Poor,Good,No,$75k-$100k,Central,Not what I expected
+RESP00392,2024-03-11,26-35,Female,,Excellent,Fair,Maybe,$25k-$50k,East,Not what I expected
+RESP00173,2024-03-11,46-55,Female,3,Very Good,Excellent,Yes,$50k-$75k,South,
+RESP00080,2024-03-11,46-55,Male,3,Very Good,,Maybe,$50k-$75k,Central,
+RESP00235,2024-03-12,46-55,Female,4,Good,Very Good,Maybe,,Central,
+RESP00018,2024-03-12,,Female,,Excellent,Excellent,Yes,$25k-$50k,East,Could be better
+RESP00130,2024-03-12,36-45,Male,5,Very Good,Good,Yes,$50k-$75k,East,Great service!
+RESP00160,2024-03-12,56-65,Female,1,Excellent,Very Good,No,$50k-$75k,East,
+RESP00386,2024-03-12,46-55,Male,4,Excellent,Excellent,No,$25k-$50k,South,
+RESP00481,2024-03-12,36-45,Male,4,Very Good,Very Good,Maybe,$75k-$100k,South,Very satisfied
+RESP00283,2024-03-12,,Male,5,Excellent,Good,,$25k-$50k,South,Average
+RESP00085,2024-03-13,56-65,Male,5,Excellent,Good,Maybe,>$100k,South,Had some issues
+RESP00256,2024-03-13,26-35,Female,4,Excellent,Fair,Yes,$50k-$75k,North,
+RESP00436,2024-03-13,36-45,Male,5,Good,Excellent,Yes,$25k-$50k,East,
+RESP00280,2024-03-13,26-35,Female,4,Very Good,Very Good,No,<$25k,West,
+RESP00210,2024-03-13,18-25,Prefer not to say,4,Good,Excellent,Maybe,$25k-$50k,South,
+RESP00474,2024-03-14,36-45,Male,4,Excellent,Good,Yes,$25k-$50k,South,Could be better
+RESP00398,2024-03-14,26-35,Male,,Very Good,Very Good,Yes,$75k-$100k,East,
+RESP00001,2024-03-14,26-35,Female,4,Very Good,Excellent,Maybe,,East,
+RESP00365,2024-03-14,26-35,Male,1,Good,Excellent,Yes,$75k-$100k,North,Not what I expected
+RESP00191,2024-03-14,18-25,Male,,Very Good,Very Good,Yes,$50k-$75k,West,Excellent experience
+RESP00287,2024-03-14,56-65,Female,2,Fair,Very Good,Yes,$50k-$75k,Central,Had some issues
+RESP00159,2024-03-14,26-35,Male,2,Good,Excellent,Maybe,>$100k,West,
+RESP00205,2024-03-14,18-25,Other,4,Excellent,Good,Yes,,South,Very satisfied
+RESP00142,2024-03-14,,Female,3,Fair,Very Good,Yes,$25k-$50k,North,
+RESP00300,2024-03-14,26-35,Male,4,Very Good,Very Good,Maybe,$75k-$100k,South,Very satisfied
+RESP00163,2024-03-15,,Male,4,Excellent,Very Good,,$25k-$50k,East,
+RESP00045,2024-03-15,18-25,Female,3,Fair,Very Good,Yes,$75k-$100k,Central,Had some issues
+RESP00056,2024-03-16,,,1,Good,Excellent,Yes,,East,
+RESP00115,2024-03-16,26-35,Male,,Very Good,Excellent,Yes,$50k-$75k,East,Average
+RESP00488,2024-03-16,26-35,Female,5,Fair,Excellent,No,,Central,
+RESP00422,2024-03-16,46-55,Female,4,Good,Good,No,<$25k,South,Not what I expected
+RESP00421,2024-03-17,36-45,Male,1,Good,Good,Maybe,$50k-$75k,South,Great service!
+RESP00123,2024-03-17,65+,Female,4,Excellent,,Yes,$25k-$50k,South,Had some issues
+RESP00158,2024-03-17,26-35,Male,3,Excellent,Poor,Yes,$50k-$75k,West,Great service!
+RESP00304,2024-03-17,56-65,Female,2,Good,,Maybe,$25k-$50k,South,Could be better
+RESP00355,2024-03-17,18-25,Male,3,Excellent,Excellent,No,$50k-$75k,Central,Not what I expected
+RESP00002,2024-03-17,26-35,Male,3,Very Good,Fair,Maybe,$75k-$100k,East,Not what I expected
+RESP00122,2024-03-17,36-45,Female,5,Good,Excellent,Maybe,,North,
+RESP00197,2024-03-18,36-45,Female,4,,Very Good,No,$50k-$75k,West,Great service!
+RESP00143,2024-03-18,26-35,Female,5,Very Good,Good,Yes,>$100k,South,
+RESP00201,2024-03-18,18-25,Female,5,Very Good,Good,Yes,$25k-$50k,West,
+RESP00111,2024-03-18,65+,Male,5,Good,,Yes,$25k-$50k,East,Not what I expected
+RESP00301,2024-03-18,36-45,Female,4,Very Good,Very Good,Yes,$75k-$100k,North,Not what I expected
+RESP00473,2024-03-18,36-45,Male,5,Very Good,Very Good,Yes,<$25k,South,Could be better
+RESP00209,2024-03-19,56-65,Male,4,Very Good,Excellent,Yes,$50k-$75k,East,Very satisfied
+RESP00033,2024-03-19,46-55,Male,5,Excellent,Poor,Maybe,$25k-$50k,South,Very satisfied
+RESP00217,2024-03-19,26-35,Male,5,Excellent,Poor,Yes,$50k-$75k,South,
+RESP00257,2024-03-19,26-35,Male,4,Good,Good,Maybe,$75k-$100k,North,Excellent experience
+RESP00427,2024-03-19,18-25,Female,5,Excellent,Excellent,No,$50k-$75k,East,
+RESP00077,2024-03-19,36-45,Female,1,Very Good,Good,Yes,$50k-$75k,Central,Not what I expected
+RESP00154,2024-03-19,26-35,Female,4,Good,Excellent,Maybe,$75k-$100k,East,
+RESP00403,2024-03-19,46-55,Female,4,Fair,Fair,Maybe,$75k-$100k,North,Great service!
+RESP00229,2024-03-19,56-65,Female,3,Very Good,Excellent,No,$25k-$50k,West,Great service!
+RESP00452,2024-03-19,26-35,Male,4,Excellent,Good,Yes,$25k-$50k,North,Could be better
+RESP00188,2024-03-19,46-55,,4,Very Good,Very Good,Yes,>$100k,South,
+RESP00206,2024-03-20,36-45,Female,4,Excellent,Very Good,Yes,$75k-$100k,South,Excellent experience
+RESP00491,2024-03-20,26-35,Male,5,,Good,Yes,<$25k,Central,Great service!
+RESP00128,2024-03-20,36-45,Male,4,Very Good,Good,Yes,<$25k,South,
+RESP00103,2024-03-20,36-45,Male,1,Excellent,Good,Yes,$50k-$75k,North,Not what I expected
+RESP00385,2024-03-20,26-35,Other,,Poor,Good,Yes,$50k-$75k,West,Could be better
+RESP00129,2024-03-21,65+,Male,5,Very Good,Good,No,$25k-$50k,East,Average
+RESP00021,2024-03-21,26-35,Male,5,Excellent,,Yes,$25k-$50k,Central,Excellent experience
+RESP00097,2024-03-21,18-25,Female,4,Fair,Good,Yes,$50k-$75k,South,Very satisfied
+RESP00192,2024-03-21,36-45,Female,5,Very Good,Excellent,Yes,$75k-$100k,South,Very satisfied
+RESP00226,2024-03-21,65+,Male,1,Excellent,Very Good,,$75k-$100k,East,Great service!
+RESP00271,2024-03-21,36-45,Female,1,Excellent,Fair,Yes,$25k-$50k,Central,Very satisfied
+RESP00297,2024-03-21,26-35,Female,5,Good,Very Good,Maybe,$75k-$100k,North,Could be better
+RESP00423,2024-03-21,18-25,Male,5,Excellent,Very Good,Maybe,>$100k,North,Could be better
+RESP00213,2024-03-21,26-35,Male,5,Good,Good,Maybe,$75k-$100k,West,Could be better
+RESP00236,2024-03-22,36-45,Male,2,Excellent,Very Good,No,$50k-$75k,East,
+RESP00070,2024-03-22,36-45,Female,2,Very Good,Fair,Maybe,>$100k,West,Great service!
+RESP00239,2024-03-22,26-35,Male,5,Good,Excellent,Yes,>$100k,West,Not what I expected
+RESP00367,2024-03-22,26-35,Male,4,Very Good,Good,Yes,>$100k,Central,Could be better
+RESP00005,2024-03-23,56-65,Male,1,Very Good,Very Good,Yes,<$25k,Central,Average
+RESP00445,2024-03-23,56-65,Male,2,Fair,Excellent,Yes,$50k-$75k,West,Could be better
+RESP00267,2024-03-23,26-35,,4,Very Good,Good,Yes,>$100k,West,
+RESP00039,2024-03-23,36-45,Female,4,Excellent,Good,No,>$100k,Central,
+RESP00136,2024-03-24,18-25,Female,3,Fair,Good,No,>$100k,East,
+RESP00063,2024-03-24,18-25,Female,4,Excellent,Fair,Maybe,$50k-$75k,South,
+RESP00482,2024-03-24,26-35,Male,3,Excellent,Good,Yes,$75k-$100k,Central,
+RESP00086,2024-03-25,56-65,Female,5,Good,Excellent,No,$50k-$75k,South,
+RESP00155,2024-03-25,36-45,Male,4,Very Good,Fair,Yes,>$100k,Central,Great service!
+RESP00116,2024-03-25,26-35,Female,4,Good,Fair,Yes,>$100k,North,Had some issues
+RESP00362,2024-03-25,56-65,Female,5,Good,Good,,$50k-$75k,North,
+RESP00432,2024-03-26,56-65,Male,4,,Good,Yes,<$25k,West,Great service!
+RESP00141,2024-03-26,26-35,Female,3,Excellent,Very Good,Yes,$25k-$50k,North,Excellent experience
+RESP00377,2024-03-26,65+,Female,4,Excellent,Good,Maybe,$25k-$50k,North,Average
+RESP00458,2024-03-26,46-55,Female,4,Excellent,Fair,Yes,$50k-$75k,West,Had some issues
+RESP00411,2024-03-27,18-25,Female,4,Good,Very Good,Maybe,$50k-$75k,East,
+RESP00152,2024-03-27,36-45,Female,4,Good,Very Good,Yes,$50k-$75k,East,
+RESP00343,2024-03-27,26-35,Female,2,Fair,Good,Maybe,>$100k,North,Could be better
+RESP00281,2024-03-27,36-45,Male,4,Excellent,Good,Yes,$75k-$100k,West,Could be better
+RESP00263,2024-03-27,,Female,3,Very Good,Excellent,Maybe,>$100k,West,
+RESP00354,2024-03-28,18-25,Male,5,Fair,Very Good,Yes,<$25k,East,Great service!
+RESP00288,2024-03-28,56-65,Female,4,Excellent,Excellent,Yes,<$25k,West,Great service!
+RESP00444,2024-03-28,56-65,Female,3,Excellent,Good,Yes,$50k-$75k,East,Excellent experience
+RESP00252,2024-03-28,,Male,4,Very Good,Good,No,$50k-$75k,East,Could be better
+RESP00500,2024-03-29,65+,Prefer not to say,5,Very Good,Very Good,Yes,>$100k,South,Not what I expected
+RESP00179,2024-03-29,36-45,,4,Excellent,Very Good,No,<$25k,Central,
+RESP00196,2024-03-29,26-35,Female,,Good,Very Good,Yes,$75k-$100k,East,Excellent experience
+RESP00062,2024-03-29,18-25,Male,3,Good,Good,Yes,<$25k,South,Average
+RESP00156,2024-03-29,36-45,Female,3,Excellent,Very Good,Yes,,East,Average
+RESP00035,2024-03-29,18-25,Male,3,,Good,Yes,>$100k,East,Great service!
+RESP00241,2024-03-29,18-25,Male,5,,Very Good,Yes,$75k-$100k,Central,Excellent experience
+RESP00424,2024-03-29,26-35,Female,4,Very Good,Excellent,Yes,,West,Had some issues
+RESP00157,2024-03-30,18-25,Male,4,Excellent,Good,No,>$100k,South,
+RESP00457,2024-03-30,26-35,Male,3,Excellent,Very Good,,<$25k,West,Could be better
+RESP00425,2024-03-30,36-45,Male,4,Very Good,Fair,Yes,$50k-$75k,North,
+RESP00046,2024-03-30,65+,Male,5,Good,Very Good,Yes,$75k-$100k,East,Had some issues
+RESP00186,2024-03-30,65+,Male,,Very Good,Poor,Yes,>$100k,West,Could be better
+RESP00439,2024-03-30,65+,Female,3,Excellent,Very Good,Maybe,$25k-$50k,North,Had some issues
+RESP00396,2024-03-31,18-25,Male,3,Good,Excellent,Yes,$50k-$75k,North,Could be better
+RESP00006,2024-03-31,26-35,,4,Very Good,Good,Yes,$50k-$75k,North,
+RESP00446,2024-03-31,26-35,Female,4,Very Good,Very Good,Yes,,North,
+RESP00420,2024-03-31,46-55,Male,5,Very Good,Very Good,Maybe,$75k-$100k,West,Average
+RESP00198,2024-03-31,46-55,Male,3,Very Good,Excellent,Yes,$50k-$75k,North,Could be better
+RESP00307,2024-03-31,26-35,Male,5,Good,Fair,,$25k-$50k,South,Excellent experience
+RESP00068,2024-03-31,18-25,,5,Excellent,Very Good,,$50k-$75k,East,Could be better
+RESP00074,2024-03-31,46-55,Male,5,,Excellent,No,$50k-$75k,North,Not what I expected
+RESP00219,2024-03-31,36-45,Male,4,Excellent,Good,Yes,$75k-$100k,Central,Not what I expected
+RESP00309,2024-03-31,36-45,Male,3,Poor,Very Good,Yes,$50k-$75k,West,Could be better

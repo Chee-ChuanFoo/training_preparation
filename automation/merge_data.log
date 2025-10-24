@@ -1,0 +1,624 @@
+2025-10-21 15:37:22,367 - INFO - ======================================================================
+2025-10-21 15:37:22,368 - INFO - DATA MERGING AUTOMATION SCRIPT
+2025-10-21 15:37:22,368 - INFO - ======================================================================
+2025-10-21 15:37:22,368 - INFO - Loading data files...
+2025-10-21 15:37:22,368 - INFO - Loading sales data from: ../datasets/sales_data.csv
+2025-10-21 15:37:22,375 - INFO - Loading customer data from: ../datasets/customer_data.csv
+2025-10-21 15:37:22,379 - INFO - Loading product data from: ../datasets/product_catalog.csv
+2025-10-21 15:37:22,383 - INFO - 
+Merging data...
+2025-10-21 15:37:22,383 - INFO - Step 1: Left joining sales data with customer data on 'customer_id'...
+2025-10-21 15:37:22,388 - INFO - Step 2: Left joining combined data with product data on 'product_id'...
+2025-10-21 15:37:22,393 - INFO - 
+======================================================================
+2025-10-21 15:37:22,393 - INFO - COLUMN INFORMATION
+2025-10-21 15:37:22,394 - INFO - ======================================================================
+2025-10-21 15:37:22,394 - INFO - Total columns: 30
+
+2025-10-21 15:37:22,394 - INFO - From Sales Data:
+2025-10-21 15:37:22,394 - INFO -   - transaction_id
+2025-10-21 15:37:22,395 - INFO -   - date
+2025-10-21 15:37:22,395 - INFO -   - product_id
+2025-10-21 15:37:22,395 - INFO -   - customer_id
+2025-10-21 15:37:22,395 - INFO -   - quantity
+2025-10-21 15:37:22,395 - INFO -   - unit_price
+2025-10-21 15:37:22,395 - INFO -   - region
+2025-10-21 15:37:22,395 - INFO -   - sales_rep
+2025-10-21 15:37:22,395 - INFO -   - payment_method
+2025-10-21 15:37:22,395 - INFO -   - total_amount
+2025-10-21 15:37:22,395 - INFO - 
+From Customer Data:
+2025-10-21 15:37:22,396 - INFO -   - first_name
+2025-10-21 15:37:22,396 - INFO -   - last_name
+2025-10-21 15:37:22,396 - INFO -   - email
+2025-10-21 15:37:22,396 - INFO -   - phone
+2025-10-21 15:37:22,396 - INFO -   - city
+2025-10-21 15:37:22,396 - INFO -   - state
+2025-10-21 15:37:22,396 - INFO -   - signup_date
+2025-10-21 15:37:22,396 - INFO -   - customer_segment
+2025-10-21 15:37:22,396 - INFO -   - total_purchases
+2025-10-21 15:37:22,396 - INFO -   - lifetime_value
+2025-10-21 15:37:22,396 - INFO - 
+From Product Data:
+2025-10-21 15:37:22,396 - INFO -   - product_name
+2025-10-21 15:37:22,396 - INFO -   - category
+2025-10-21 15:37:22,396 - INFO -   - subcategory
+2025-10-21 15:37:22,396 - INFO -   - cost_price
+2025-10-21 15:37:22,396 - INFO -   - retail_price
+2025-10-21 15:37:22,396 - INFO -   - stock_quantity
+2025-10-21 15:37:22,398 - INFO -   - supplier
+2025-10-21 15:37:22,398 - INFO -   - weight_kg
+2025-10-21 15:37:22,398 - INFO -   - is_active
+2025-10-21 15:37:22,398 - INFO -   - profit_margin
+2025-10-21 15:37:22,398 - INFO - ======================================================================
+2025-10-21 15:37:22,398 - INFO - 
+Generating summary statistics...
+2025-10-21 15:37:22,399 - INFO - 
+======================================================================
+2025-10-21 15:37:22,400 - INFO - SUMMARY STATISTICS
+2025-10-21 15:37:22,400 - INFO - ======================================================================
+2025-10-21 15:37:22,400 - INFO - Total Records................. 1000
+2025-10-21 15:37:22,400 - INFO - Unique Transactions........... 1000
+2025-10-21 15:37:22,400 - INFO - Unique Customers.............. 199
+2025-10-21 15:37:22,400 - INFO - Unique Products............... 50
+2025-10-21 15:37:22,400 - INFO - Total Columns................. 30
+2025-10-21 15:37:22,401 - INFO - Date Range.................... 2024-01-01 to 2024-09-27
+2025-10-21 15:37:22,401 - INFO - Total Sales Amount............ $1,246,787.04
+2025-10-21 15:37:22,401 - INFO - Average Transaction........... $1,246.79
+2025-10-21 15:37:22,401 - INFO - Missing Customer Info......... 0
+2025-10-21 15:37:22,402 - INFO - Missing Product Info.......... 78
+2025-10-21 15:37:22,402 - INFO - Timestamp..................... 2025-10-21 15:37:22
+2025-10-21 15:37:22,402 - INFO - ======================================================================
+2025-10-21 15:37:22,402 - INFO - 
+Saving combined data to: ./combined_data.csv
+2025-10-21 15:37:22,424 - INFO - 
+======================================================================
+2025-10-21 15:37:22,426 - INFO - ======================================================================
+2025-10-21 15:37:22,426 - INFO - 
+Output file: C:\Users\Acer\OneDrive\Freelance\Dreamcatcher\01 Conducted Training\20251020 Sandisk Shanghai python for data analysis beginner\training_preparation\automation\combined_data.csv
+2025-10-21 15:39:12,576 - INFO - ======================================================================
+2025-10-21 15:39:12,577 - INFO - DATA MERGING AUTOMATION SCRIPT
+2025-10-21 15:39:12,577 - INFO - ======================================================================
+2025-10-21 15:39:12,577 - INFO - Loading data files...
+2025-10-21 15:39:12,578 - INFO - Loading sales data from: ../datasets/sales_data.csv
+2025-10-21 15:39:12,585 - INFO - Loading customer data from: ../datasets/customer_data.csv
+2025-10-21 15:39:12,588 - INFO - Loading product data from: ../datasets/product_catalog.csv
+2025-10-21 15:39:12,590 - INFO - 
+Merging data...
+2025-10-21 15:39:12,590 - INFO - Step 1: Left joining sales data with customer data on 'customer_id'...
+2025-10-21 15:39:12,593 - INFO - Step 2: Left joining combined data with product data on 'product_id'...
+2025-10-21 15:39:12,596 - INFO - 
+======================================================================
+2025-10-21 15:39:12,596 - INFO - COLUMN INFORMATION
+2025-10-21 15:39:12,597 - INFO - ======================================================================
+2025-10-21 15:39:12,597 - INFO - Total columns: 30
+
+2025-10-21 15:39:12,597 - INFO - From Sales Data:
+2025-10-21 15:39:12,597 - INFO -   - transaction_id
+2025-10-21 15:39:12,597 - INFO -   - date
+2025-10-21 15:39:12,597 - INFO -   - product_id
+2025-10-21 15:39:12,597 - INFO -   - customer_id
+2025-10-21 15:39:12,597 - INFO -   - quantity
+2025-10-21 15:39:12,597 - INFO -   - unit_price
+2025-10-21 15:39:12,598 - INFO -   - region
+2025-10-21 15:39:12,598 - INFO -   - sales_rep
+2025-10-21 15:39:12,598 - INFO -   - payment_method
+2025-10-21 15:39:12,598 - INFO -   - total_amount
+2025-10-21 15:39:12,598 - INFO - 
+From Customer Data:
+2025-10-21 15:39:12,598 - INFO -   - first_name
+2025-10-21 15:39:12,598 - INFO -   - last_name
+2025-10-21 15:39:12,598 - INFO -   - email
+2025-10-21 15:39:12,600 - INFO -   - phone
+2025-10-21 15:39:12,600 - INFO -   - city
+2025-10-21 15:39:12,600 - INFO -   - state
+2025-10-21 15:39:12,600 - INFO -   - signup_date
+2025-10-21 15:39:12,600 - INFO -   - customer_segment
+2025-10-21 15:39:12,601 - INFO -   - total_purchases
+2025-10-21 15:39:12,601 - INFO -   - lifetime_value
+2025-10-21 15:39:12,601 - INFO - 
+From Product Data:
+2025-10-21 15:39:12,601 - INFO -   - product_name
+2025-10-21 15:39:12,601 - INFO -   - category
+2025-10-21 15:39:12,601 - INFO -   - subcategory
+2025-10-21 15:39:12,602 - INFO -   - cost_price
+2025-10-21 15:39:12,602 - INFO -   - retail_price
+2025-10-21 15:39:12,602 - INFO -   - stock_quantity
+2025-10-21 15:39:12,602 - INFO -   - supplier
+2025-10-21 15:39:12,602 - INFO -   - weight_kg
+2025-10-21 15:39:12,602 - INFO -   - is_active
+2025-10-21 15:39:12,602 - INFO -   - profit_margin
+2025-10-21 15:39:12,602 - INFO - ======================================================================
+2025-10-21 15:39:12,602 - INFO - 
+Generating summary statistics...
+2025-10-21 15:39:12,604 - INFO - 
+======================================================================
+2025-10-21 15:39:12,604 - INFO - SUMMARY STATISTICS
+2025-10-21 15:39:12,604 - INFO - ======================================================================
+2025-10-21 15:39:12,604 - INFO - Total Records................. 1000
+2025-10-21 15:39:12,604 - INFO - Unique Transactions........... 1000
+2025-10-21 15:39:12,605 - INFO - Unique Customers.............. 199
+2025-10-21 15:39:12,605 - INFO - Unique Products............... 50
+2025-10-21 15:39:12,605 - INFO - Total Columns................. 30
+2025-10-21 15:39:12,605 - INFO - Date Range.................... 2024-01-01 to 2024-09-27
+2025-10-21 15:39:12,606 - INFO - Total Sales Amount............ $1,246,787.04
+2025-10-21 15:39:12,606 - INFO - Average Transaction........... $1,246.79
+2025-10-21 15:39:12,606 - INFO - Missing Customer Info......... 0
+2025-10-21 15:39:12,606 - INFO - Missing Product Info.......... 78
+2025-10-21 15:39:12,606 - INFO - Timestamp..................... 2025-10-21 15:39:12
+2025-10-21 15:39:12,606 - INFO - ======================================================================
+2025-10-21 15:39:12,607 - INFO - 
+Saving combined data to: ./combined_data.csv
+2025-10-21 15:39:12,621 - INFO - 
+======================================================================
+2025-10-21 15:39:12,621 - INFO - ======================================================================
+2025-10-21 15:39:12,621 - INFO - 
+Output file: C:\Users\Acer\OneDrive\Freelance\Dreamcatcher\01 Conducted Training\20251020 Sandisk Shanghai python for data analysis beginner\training_preparation\automation\combined_data.csv
+2025-10-21 15:39:35,013 - INFO - ======================================================================
+2025-10-21 15:39:35,013 - INFO - DATA MERGING AUTOMATION SCRIPT
+2025-10-21 15:39:35,013 - INFO - ======================================================================
+2025-10-21 15:39:35,014 - INFO - Loading data files...
+2025-10-21 15:39:35,014 - INFO - Loading sales data from: ../datasets/sales_data.csv
+2025-10-21 15:39:35,024 - INFO - Loading customer data from: ../datasets/customer_data.csv
+2025-10-21 15:39:35,027 - INFO - Loading product data from: ../datasets/product_catalog.csv
+2025-10-21 15:39:35,030 - INFO - 
+Merging data...
+2025-10-21 15:39:35,030 - INFO - Step 1: Left joining sales data with customer data on 'customer_id'...
+2025-10-21 15:39:35,034 - INFO - Step 2: Left joining combined data with product data on 'product_id'...
+2025-10-21 15:39:35,037 - INFO - 
+======================================================================
+2025-10-21 15:39:35,037 - INFO - COLUMN INFORMATION
+2025-10-21 15:39:35,037 - INFO - ======================================================================
+2025-10-21 15:39:35,037 - INFO - Total columns: 30
+
+2025-10-21 15:39:35,038 - INFO - From Sales Data:
+2025-10-21 15:39:35,038 - INFO -   - transaction_id
+2025-10-21 15:39:35,038 - INFO -   - date
+2025-10-21 15:39:35,038 - INFO -   - product_id
+2025-10-21 15:39:35,039 - INFO -   - customer_id
+2025-10-21 15:39:35,039 - INFO -   - quantity
+2025-10-21 15:39:35,039 - INFO -   - unit_price
+2025-10-21 15:39:35,039 - INFO -   - region
+2025-10-21 15:39:35,039 - INFO -   - sales_rep
+2025-10-21 15:39:35,039 - INFO -   - payment_method
+2025-10-21 15:39:35,039 - INFO -   - total_amount
+2025-10-21 15:39:35,040 - INFO - 
+From Customer Data:
+2025-10-21 15:39:35,040 - INFO -   - first_name
+2025-10-21 15:39:35,040 - INFO -   - last_name
+2025-10-21 15:39:35,040 - INFO -   - email
+2025-10-21 15:39:35,040 - INFO -   - phone
+2025-10-21 15:39:35,040 - INFO -   - city
+2025-10-21 15:39:35,040 - INFO -   - state
+2025-10-21 15:39:35,040 - INFO -   - signup_date
+2025-10-21 15:39:35,040 - INFO -   - customer_segment
+2025-10-21 15:39:35,041 - INFO -   - total_purchases
+2025-10-21 15:39:35,041 - INFO -   - lifetime_value
+2025-10-21 15:39:35,041 - INFO - 
+From Product Data:
+2025-10-21 15:39:35,041 - INFO -   - product_name
+2025-10-21 15:39:35,041 - INFO -   - category
+2025-10-21 15:39:35,041 - INFO -   - subcategory
+2025-10-21 15:39:35,041 - INFO -   - cost_price
+2025-10-21 15:39:35,041 - INFO -   - retail_price
+2025-10-21 15:39:35,041 - INFO -   - stock_quantity
+2025-10-21 15:39:35,041 - INFO -   - supplier
+2025-10-21 15:39:35,041 - INFO -   - weight_kg
+2025-10-21 15:39:35,042 - INFO -   - is_active
+2025-10-21 15:39:35,042 - INFO -   - profit_margin
+2025-10-21 15:39:35,042 - INFO - ======================================================================
+2025-10-21 15:39:35,042 - INFO - 
+Generating summary statistics...
+2025-10-21 15:39:35,043 - INFO - 
+======================================================================
+2025-10-21 15:39:35,043 - INFO - SUMMARY STATISTICS
+2025-10-21 15:39:35,043 - INFO - ======================================================================
+2025-10-21 15:39:35,043 - INFO - Total Records................. 1000
+2025-10-21 15:39:35,043 - INFO - Unique Transactions........... 1000
+2025-10-21 15:39:35,043 - INFO - Unique Customers.............. 199
+2025-10-21 15:39:35,044 - INFO - Unique Products............... 50
+2025-10-21 15:39:35,044 - INFO - Total Columns................. 30
+2025-10-21 15:39:35,044 - INFO - Date Range.................... 2024-01-01 to 2024-09-27
+2025-10-21 15:39:35,044 - INFO - Total Sales Amount............ $1,246,787.04
+2025-10-21 15:39:35,044 - INFO - Average Transaction........... $1,246.79
+2025-10-21 15:39:35,044 - INFO - Missing Customer Info......... 0
+2025-10-21 15:39:35,044 - INFO - Missing Product Info.......... 78
+2025-10-21 15:39:35,044 - INFO - Timestamp..................... 2025-10-21 15:39:35
+2025-10-21 15:39:35,044 - INFO - ======================================================================
+2025-10-21 15:39:35,044 - INFO - 
+Saving combined data to: ./combined_data.csv
+2025-10-21 15:39:35,055 - INFO - 
+======================================================================
+2025-10-21 15:39:35,056 - INFO - ======================================================================
+2025-10-21 15:39:35,056 - INFO - 
+Output file: C:\Users\Acer\OneDrive\Freelance\Dreamcatcher\01 Conducted Training\20251020 Sandisk Shanghai python for data analysis beginner\training_preparation\automation\combined_data.csv
+2025-10-21 15:39:50,287 - INFO - ======================================================================
+2025-10-21 15:39:50,287 - INFO - DATA MERGING AUTOMATION SCRIPT
+2025-10-21 15:39:50,288 - INFO - ======================================================================
+2025-10-21 15:39:50,288 - INFO - Loading data files...
+2025-10-21 15:39:50,288 - INFO - Loading sales data from: ../datasets/sales_data.csv
+2025-10-21 15:39:50,294 - INFO - Loading customer data from: ../datasets/customer_data.csv
+2025-10-21 15:39:50,297 - INFO - Loading product data from: ../datasets/product_catalog.csv
+2025-10-21 15:39:50,299 - INFO - 
+Merging data...
+2025-10-21 15:39:50,299 - INFO - Step 1: Left joining sales data with customer data on 'customer_id'...
+2025-10-21 15:39:50,304 - INFO - Step 2: Left joining combined data with product data on 'product_id'...
+2025-10-21 15:39:50,308 - INFO - 
+======================================================================
+2025-10-21 15:39:50,308 - INFO - COLUMN INFORMATION
+2025-10-21 15:39:50,308 - INFO - ======================================================================
+2025-10-21 15:39:50,308 - INFO - Total columns: 30
+
+2025-10-21 15:39:50,309 - INFO - From Sales Data:
+2025-10-21 15:39:50,309 - INFO -   - transaction_id
+2025-10-21 15:39:50,309 - INFO -   - date
+2025-10-21 15:39:50,309 - INFO -   - product_id
+2025-10-21 15:39:50,309 - INFO -   - customer_id
+2025-10-21 15:39:50,309 - INFO -   - quantity
+2025-10-21 15:39:50,311 - INFO -   - unit_price
+2025-10-21 15:39:50,311 - INFO -   - region
+2025-10-21 15:39:50,311 - INFO -   - sales_rep
+2025-10-21 15:39:50,311 - INFO -   - payment_method
+2025-10-21 15:39:50,311 - INFO -   - total_amount
+2025-10-21 15:39:50,311 - INFO - 
+From Customer Data:
+2025-10-21 15:39:50,311 - INFO -   - first_name
+2025-10-21 15:39:50,311 - INFO -   - last_name
+2025-10-21 15:39:50,311 - INFO -   - email
+2025-10-21 15:39:50,312 - INFO -   - phone
+2025-10-21 15:39:50,312 - INFO -   - city
+2025-10-21 15:39:50,312 - INFO -   - state
+2025-10-21 15:39:50,312 - INFO -   - signup_date
+2025-10-21 15:39:50,312 - INFO -   - customer_segment
+2025-10-21 15:39:50,312 - INFO -   - total_purchases
+2025-10-21 15:39:50,312 - INFO -   - lifetime_value
+2025-10-21 15:39:50,312 - INFO - 
+From Product Data:
+2025-10-21 15:39:50,312 - INFO -   - product_name
+2025-10-21 15:39:50,313 - INFO -   - category
+2025-10-21 15:39:50,313 - INFO -   - subcategory
+2025-10-21 15:39:50,313 - INFO -   - cost_price
+2025-10-21 15:39:50,313 - INFO -   - retail_price
+2025-10-21 15:39:50,313 - INFO -   - stock_quantity
+2025-10-21 15:39:50,313 - INFO -   - supplier
+2025-10-21 15:39:50,313 - INFO -   - weight_kg
+2025-10-21 15:39:50,313 - INFO -   - is_active
+2025-10-21 15:39:50,313 - INFO -   - profit_margin
+2025-10-21 15:39:50,313 - INFO - ======================================================================
+2025-10-21 15:39:50,314 - INFO - 
+Generating summary statistics...
+2025-10-21 15:39:50,315 - INFO - 
+======================================================================
+2025-10-21 15:39:50,316 - INFO - SUMMARY STATISTICS
+2025-10-21 15:39:50,316 - INFO - ======================================================================
+2025-10-21 15:39:50,316 - INFO - Total Records................. 1000
+2025-10-21 15:39:50,316 - INFO - Unique Transactions........... 1000
+2025-10-21 15:39:50,316 - INFO - Unique Customers.............. 199
+2025-10-21 15:39:50,316 - INFO - Unique Products............... 50
+2025-10-21 15:39:50,316 - INFO - Total Columns................. 30
+2025-10-21 15:39:50,316 - INFO - Date Range.................... 2024-01-01 to 2024-09-27
+2025-10-21 15:39:50,316 - INFO - Total Sales Amount............ $1,246,787.04
+2025-10-21 15:39:50,316 - INFO - Average Transaction........... $1,246.79
+2025-10-21 15:39:50,316 - INFO - Missing Customer Info......... 0
+2025-10-21 15:39:50,316 - INFO - Missing Product Info.......... 78
+2025-10-21 15:39:50,316 - INFO - Timestamp..................... 2025-10-21 15:39:50
+2025-10-21 15:39:50,316 - INFO - ======================================================================
+2025-10-21 15:39:50,316 - INFO - 
+Saving combined data to: ./combined_data.csv
+2025-10-21 15:39:50,328 - INFO - 
+======================================================================
+2025-10-21 15:39:50,328 - INFO - ======================================================================
+2025-10-21 15:39:50,328 - INFO - 
+Output file: C:\Users\Acer\OneDrive\Freelance\Dreamcatcher\01 Conducted Training\20251020 Sandisk Shanghai python for data analysis beginner\training_preparation\automation\combined_data.csv
+2025-10-21 16:25:23,338 - INFO - ======================================================================
+2025-10-21 16:25:23,338 - INFO - DATA MERGING AUTOMATION SCRIPT
+2025-10-21 16:25:23,339 - INFO - ======================================================================
+2025-10-21 16:25:23,339 - INFO - Loading data files...
+2025-10-21 16:25:23,339 - INFO - Loading sales data from: ../datasets/sales_data.csv
+2025-10-21 16:25:23,346 - INFO - Loading customer data from: ../datasets/customer_data.csv
+2025-10-21 16:25:23,349 - INFO - Loading product data from: ../datasets/product_catalog.csv
+2025-10-21 16:25:23,353 - INFO - 
+Merging data...
+2025-10-21 16:25:23,353 - INFO - Step 1: Left joining sales data with customer data on 'customer_id'...
+2025-10-21 16:25:23,363 - INFO - Step 2: Left joining combined data with product data on 'product_id'...
+2025-10-21 16:25:23,369 - INFO - 
+======================================================================
+2025-10-21 16:25:23,369 - INFO - COLUMN INFORMATION
+2025-10-21 16:25:23,370 - INFO - ======================================================================
+2025-10-21 16:25:23,371 - INFO - Total columns: 30
+
+2025-10-21 16:25:23,371 - INFO - From Sales Data:
+2025-10-21 16:25:23,371 - INFO -   - transaction_id
+2025-10-21 16:25:23,371 - INFO -   - date
+2025-10-21 16:25:23,371 - INFO -   - product_id
+2025-10-21 16:25:23,371 - INFO -   - customer_id
+2025-10-21 16:25:23,372 - INFO -   - quantity
+2025-10-21 16:25:23,372 - INFO -   - unit_price
+2025-10-21 16:25:23,372 - INFO -   - region
+2025-10-21 16:25:23,372 - INFO -   - sales_rep
+2025-10-21 16:25:23,372 - INFO -   - payment_method
+2025-10-21 16:25:23,372 - INFO -   - total_amount
+2025-10-21 16:25:23,372 - INFO - 
+From Customer Data:
+2025-10-21 16:25:23,373 - INFO -   - first_name
+2025-10-21 16:25:23,373 - INFO -   - last_name
+2025-10-21 16:25:23,373 - INFO -   - email
+2025-10-21 16:25:23,373 - INFO -   - phone
+2025-10-21 16:25:23,373 - INFO -   - city
+2025-10-21 16:25:23,373 - INFO -   - state
+2025-10-21 16:25:23,373 - INFO -   - signup_date
+2025-10-21 16:25:23,373 - INFO -   - customer_segment
+2025-10-21 16:25:23,373 - INFO -   - total_purchases
+2025-10-21 16:25:23,373 - INFO -   - lifetime_value
+2025-10-21 16:25:23,373 - INFO - 
+From Product Data:
+2025-10-21 16:25:23,373 - INFO -   - product_name
+2025-10-21 16:25:23,373 - INFO -   - category
+2025-10-21 16:25:23,373 - INFO -   - subcategory
+2025-10-21 16:25:23,373 - INFO -   - cost_price
+2025-10-21 16:25:23,374 - INFO -   - retail_price
+2025-10-21 16:25:23,374 - INFO -   - stock_quantity
+2025-10-21 16:25:23,374 - INFO -   - supplier
+2025-10-21 16:25:23,374 - INFO -   - weight_kg
+2025-10-21 16:25:23,374 - INFO -   - is_active
+2025-10-21 16:25:23,374 - INFO -   - profit_margin
+2025-10-21 16:25:23,374 - INFO - ======================================================================
+2025-10-21 16:25:23,374 - INFO - 
+Generating summary statistics...
+2025-10-21 16:25:23,375 - INFO - 
+======================================================================
+2025-10-21 16:25:23,375 - INFO - SUMMARY STATISTICS
+2025-10-21 16:25:23,375 - INFO - ======================================================================
+2025-10-21 16:25:23,375 - INFO - Total Records................. 1000
+2025-10-21 16:25:23,375 - INFO - Unique Transactions........... 1000
+2025-10-21 16:25:23,375 - INFO - Unique Customers.............. 199
+2025-10-21 16:25:23,375 - INFO - Unique Products............... 50
+2025-10-21 16:25:23,375 - INFO - Total Columns................. 30
+2025-10-21 16:25:23,375 - INFO - Date Range.................... 2024-01-01 to 2024-09-27
+2025-10-21 16:25:23,375 - INFO - Total Sales Amount............ $1,246,787.04
+2025-10-21 16:25:23,375 - INFO - Average Transaction........... $1,246.79
+2025-10-21 16:25:23,375 - INFO - Missing Customer Info......... 0
+2025-10-21 16:25:23,375 - INFO - Missing Product Info.......... 78
+2025-10-21 16:25:23,375 - INFO - Timestamp..................... 2025-10-21 16:25:23
+2025-10-21 16:25:23,375 - INFO - ======================================================================
+2025-10-21 16:25:23,376 - INFO - 
+Saving combined data to: ./combined_data.csv
+2025-10-21 16:25:23,394 - INFO - 
+======================================================================
+2025-10-21 16:25:23,395 - INFO - ======================================================================
+2025-10-21 16:25:23,395 - INFO - 
+Output file: C:\Users\Acer\OneDrive\Freelance\Dreamcatcher\01 Conducted Training\20251020 Sandisk Shanghai python for data analysis beginner\training_preparation\automation\combined_data.csv
+2025-10-21 16:33:14,474 - INFO - ======================================================================
+2025-10-21 16:33:14,474 - INFO - DATA MERGING AUTOMATION SCRIPT
+2025-10-21 16:33:14,474 - INFO - ======================================================================
+2025-10-21 16:33:14,475 - INFO - Loading data files...
+2025-10-21 16:33:14,475 - INFO - Loading sales data from: ../datasets/sales_data.csv
+2025-10-21 16:33:14,484 - INFO - Loading customer data from: ../datasets/customer_data.csv
+2025-10-21 16:33:14,487 - INFO - Loading product data from: ../datasets/product_catalog.csv
+2025-10-21 16:33:14,490 - INFO - 
+Merging data...
+2025-10-21 16:33:14,490 - INFO - Step 1: Left joining sales data with customer data on 'customer_id'...
+2025-10-21 16:33:14,498 - INFO - Step 2: Left joining combined data with product data on 'product_id'...
+2025-10-21 16:33:14,504 - INFO - 
+======================================================================
+2025-10-21 16:33:14,505 - INFO - COLUMN INFORMATION
+2025-10-21 16:33:14,505 - INFO - ======================================================================
+2025-10-21 16:33:14,506 - INFO - Total columns: 30
+
+2025-10-21 16:33:14,506 - INFO - From Sales Data:
+2025-10-21 16:33:14,506 - INFO -   - transaction_id
+2025-10-21 16:33:14,506 - INFO -   - date
+2025-10-21 16:33:14,506 - INFO -   - product_id
+2025-10-21 16:33:14,506 - INFO -   - customer_id
+2025-10-21 16:33:14,506 - INFO -   - quantity
+2025-10-21 16:33:14,506 - INFO -   - unit_price
+2025-10-21 16:33:14,506 - INFO -   - region
+2025-10-21 16:33:14,506 - INFO -   - sales_rep
+2025-10-21 16:33:14,506 - INFO -   - payment_method
+2025-10-21 16:33:14,506 - INFO -   - total_amount
+2025-10-21 16:33:14,506 - INFO - 
+From Customer Data:
+2025-10-21 16:33:14,506 - INFO -   - first_name
+2025-10-21 16:33:14,506 - INFO -   - last_name
+2025-10-21 16:33:14,506 - INFO -   - email
+2025-10-21 16:33:14,506 - INFO -   - phone
+2025-10-21 16:33:14,508 - INFO -   - city
+2025-10-21 16:33:14,508 - INFO -   - state
+2025-10-21 16:33:14,508 - INFO -   - signup_date
+2025-10-21 16:33:14,508 - INFO -   - customer_segment
+2025-10-21 16:33:14,508 - INFO -   - total_purchases
+2025-10-21 16:33:14,508 - INFO -   - lifetime_value
+2025-10-21 16:33:14,508 - INFO - 
+From Product Data:
+2025-10-21 16:33:14,508 - INFO -   - product_name
+2025-10-21 16:33:14,508 - INFO -   - category
+2025-10-21 16:33:14,508 - INFO -   - subcategory
+2025-10-21 16:33:14,508 - INFO -   - cost_price
+2025-10-21 16:33:14,508 - INFO -   - retail_price
+2025-10-21 16:33:14,508 - INFO -   - stock_quantity
+2025-10-21 16:33:14,509 - INFO -   - supplier
+2025-10-21 16:33:14,509 - INFO -   - weight_kg
+2025-10-21 16:33:14,509 - INFO -   - is_active
+2025-10-21 16:33:14,509 - INFO -   - profit_margin
+2025-10-21 16:33:14,509 - INFO - ======================================================================
+2025-10-21 16:33:14,509 - INFO - 
+Generating summary statistics...
+2025-10-21 16:33:14,510 - INFO - 
+======================================================================
+2025-10-21 16:33:14,510 - INFO - SUMMARY STATISTICS
+2025-10-21 16:33:14,510 - INFO - ======================================================================
+2025-10-21 16:33:14,510 - INFO - Total Records................. 1000
+2025-10-21 16:33:14,510 - INFO - Unique Transactions........... 1000
+2025-10-21 16:33:14,510 - INFO - Unique Customers.............. 199
+2025-10-21 16:33:14,511 - INFO - Unique Products............... 50
+2025-10-21 16:33:14,511 - INFO - Total Columns................. 30
+2025-10-21 16:33:14,511 - INFO - Date Range.................... 2024-01-01 to 2024-09-27
+2025-10-21 16:33:14,511 - INFO - Total Sales Amount............ $1,246,787.04
+2025-10-21 16:33:14,511 - INFO - Average Transaction........... $1,246.79
+2025-10-21 16:33:14,511 - INFO - Missing Customer Info......... 0
+2025-10-21 16:33:14,511 - INFO - Missing Product Info.......... 78
+2025-10-21 16:33:14,512 - INFO - Timestamp..................... 2025-10-21 16:33:14
+2025-10-21 16:33:14,512 - INFO - ======================================================================
+2025-10-21 16:33:14,512 - INFO - 
+Saving combined data to: ./combined_data.csv
+2025-10-21 16:33:14,526 - INFO - 
+======================================================================
+2025-10-21 16:33:14,527 - INFO - ======================================================================
+2025-10-21 16:33:14,527 - INFO - 
+Output file: C:\Users\Acer\OneDrive\Freelance\Dreamcatcher\01 Conducted Training\20251020 Sandisk Shanghai python for data analysis beginner\training_preparation\automation\combined_data.csv
+2025-10-21 16:35:25,434 - INFO - ======================================================================
+2025-10-21 16:35:25,435 - INFO - DATA MERGING AUTOMATION SCRIPT
+2025-10-21 16:35:25,435 - INFO - ======================================================================
+2025-10-21 16:35:25,435 - INFO - Loading data files...
+2025-10-21 16:35:25,435 - INFO - Loading sales data from: ../datasets/sales_data.csv
+2025-10-21 16:35:25,441 - INFO - Loading customer data from: ../datasets/customer_data.csv
+2025-10-21 16:35:25,445 - INFO - Loading product data from: ../datasets/product_catalog.csv
+2025-10-21 16:35:25,448 - INFO - 
+Merging data...
+2025-10-21 16:35:25,449 - INFO - Step 1: Left joining sales data with customer data on 'customer_id'...
+2025-10-21 16:35:25,452 - INFO - Step 2: Left joining combined data with product data on 'product_id'...
+2025-10-21 16:35:25,457 - INFO - 
+======================================================================
+2025-10-21 16:35:25,457 - INFO - COLUMN INFORMATION
+2025-10-21 16:35:25,457 - INFO - ======================================================================
+2025-10-21 16:35:25,457 - INFO - Total columns: 30
+
+2025-10-21 16:35:25,457 - INFO - From Sales Data:
+2025-10-21 16:35:25,457 - INFO -   - transaction_id
+2025-10-21 16:35:25,457 - INFO -   - date
+2025-10-21 16:35:25,458 - INFO -   - product_id
+2025-10-21 16:35:25,458 - INFO -   - customer_id
+2025-10-21 16:35:25,458 - INFO -   - quantity
+2025-10-21 16:35:25,458 - INFO -   - unit_price
+2025-10-21 16:35:25,458 - INFO -   - region
+2025-10-21 16:35:25,458 - INFO -   - sales_rep
+2025-10-21 16:35:25,458 - INFO -   - payment_method
+2025-10-21 16:35:25,458 - INFO -   - total_amount
+2025-10-21 16:35:25,458 - INFO - 
+From Customer Data:
+2025-10-21 16:35:25,460 - INFO -   - first_name
+2025-10-21 16:35:25,460 - INFO -   - last_name
+2025-10-21 16:35:25,460 - INFO -   - email
+2025-10-21 16:35:25,460 - INFO -   - phone
+2025-10-21 16:35:25,460 - INFO -   - city
+2025-10-21 16:35:25,460 - INFO -   - state
+2025-10-21 16:35:25,460 - INFO -   - signup_date
+2025-10-21 16:35:25,460 - INFO -   - customer_segment
+2025-10-21 16:35:25,460 - INFO -   - total_purchases
+2025-10-21 16:35:25,460 - INFO -   - lifetime_value
+2025-10-21 16:35:25,460 - INFO - 
+From Product Data:
+2025-10-21 16:35:25,460 - INFO -   - product_name
+2025-10-21 16:35:25,461 - INFO -   - category
+2025-10-21 16:35:25,461 - INFO -   - subcategory
+2025-10-21 16:35:25,461 - INFO -   - cost_price
+2025-10-21 16:35:25,461 - INFO -   - retail_price
+2025-10-21 16:35:25,461 - INFO -   - stock_quantity
+2025-10-21 16:35:25,461 - INFO -   - supplier
+2025-10-21 16:35:25,461 - INFO -   - weight_kg
+2025-10-21 16:35:25,461 - INFO -   - is_active
+2025-10-21 16:35:25,461 - INFO -   - profit_margin
+2025-10-21 16:35:25,461 - INFO - ======================================================================
+2025-10-21 16:35:25,461 - INFO - 
+Generating summary statistics...
+2025-10-21 16:35:25,462 - INFO - 
+======================================================================
+2025-10-21 16:35:25,462 - INFO - SUMMARY STATISTICS
+2025-10-21 16:35:25,462 - INFO - ======================================================================
+2025-10-21 16:35:25,462 - INFO - Total Records................. 1000
+2025-10-21 16:35:25,462 - INFO - Unique Transactions........... 1000
+2025-10-21 16:35:25,462 - INFO - Unique Customers.............. 199
+2025-10-21 16:35:25,463 - INFO - Unique Products............... 50
+2025-10-21 16:35:25,463 - INFO - Total Columns................. 30
+2025-10-21 16:35:25,463 - INFO - Date Range.................... 2024-01-01 to 2024-09-27
+2025-10-21 16:35:25,463 - INFO - Total Sales Amount............ $1,246,787.04
+2025-10-21 16:35:25,463 - INFO - Average Transaction........... $1,246.79
+2025-10-21 16:35:25,463 - INFO - Missing Customer Info......... 0
+2025-10-21 16:35:25,463 - INFO - Missing Product Info.......... 78
+2025-10-21 16:35:25,463 - INFO - Timestamp..................... 2025-10-21 16:35:25
+2025-10-21 16:35:25,463 - INFO - ======================================================================
+2025-10-21 16:35:25,463 - INFO - 
+Saving combined data to: ./combined_data.csv
+2025-10-21 16:35:25,478 - INFO - 
+======================================================================
+2025-10-21 16:35:25,478 - INFO - ======================================================================
+2025-10-21 16:35:25,479 - INFO - 
+Output file: C:\Users\Acer\OneDrive\Freelance\Dreamcatcher\01 Conducted Training\20251020 Sandisk Shanghai python for data analysis beginner\training_preparation\automation\combined_data.csv
+2025-10-21 16:39:37,181 - INFO - ======================================================================
+2025-10-21 16:39:37,182 - INFO - DATA MERGING AUTOMATION SCRIPT
+2025-10-21 16:39:37,182 - INFO - ======================================================================
+2025-10-21 16:39:37,182 - INFO - Loading data files...
+2025-10-21 16:39:37,182 - INFO - Loading sales data from: ../datasets/sales_data.csv
+2025-10-21 16:39:37,208 - INFO - Loading customer data from: ../datasets/customer_data.csv
+2025-10-21 16:39:37,212 - INFO - Loading product data from: ../datasets/product_catalog.csv
+2025-10-21 16:39:37,214 - INFO - 
+Merging data...
+2025-10-21 16:39:37,214 - INFO - Step 1: Left joining sales data with customer data on 'customer_id'...
+2025-10-21 16:39:37,265 - INFO - Step 2: Left joining combined data with product data on 'product_id'...
+2025-10-21 16:39:37,270 - INFO - 
+======================================================================
+2025-10-21 16:39:37,271 - INFO - COLUMN INFORMATION
+2025-10-21 16:39:37,271 - INFO - ======================================================================
+2025-10-21 16:39:37,271 - INFO - Total columns: 30
+
+2025-10-21 16:39:37,271 - INFO - From Sales Data:
+2025-10-21 16:39:37,271 - INFO -   - transaction_id
+2025-10-21 16:39:37,271 - INFO -   - date
+2025-10-21 16:39:37,271 - INFO -   - product_id
+2025-10-21 16:39:37,272 - INFO -   - customer_id
+2025-10-21 16:39:37,273 - INFO -   - quantity
+2025-10-21 16:39:37,273 - INFO -   - unit_price
+2025-10-21 16:39:37,273 - INFO -   - region
+2025-10-21 16:39:37,273 - INFO -   - sales_rep
+2025-10-21 16:39:37,274 - INFO -   - payment_method
+2025-10-21 16:39:37,274 - INFO -   - total_amount
+2025-10-21 16:39:37,274 - INFO - 
+From Customer Data:
+2025-10-21 16:39:37,274 - INFO -   - first_name
+2025-10-21 16:39:37,274 - INFO -   - last_name
+2025-10-21 16:39:37,274 - INFO -   - email
+2025-10-21 16:39:37,275 - INFO -   - phone
+2025-10-21 16:39:37,275 - INFO -   - city
+2025-10-21 16:39:37,275 - INFO -   - state
+2025-10-21 16:39:37,275 - INFO -   - signup_date
+2025-10-21 16:39:37,275 - INFO -   - customer_segment
+2025-10-21 16:39:37,276 - INFO -   - total_purchases
+2025-10-21 16:39:37,276 - INFO -   - lifetime_value
+2025-10-21 16:39:37,276 - INFO - 
+From Product Data:
+2025-10-21 16:39:37,276 - INFO -   - product_name
+2025-10-21 16:39:37,276 - INFO -   - category
+2025-10-21 16:39:37,276 - INFO -   - subcategory
+2025-10-21 16:39:37,277 - INFO -   - cost_price
+2025-10-21 16:39:37,277 - INFO -   - retail_price
+2025-10-21 16:39:37,277 - INFO -   - stock_quantity
+2025-10-21 16:39:37,278 - INFO -   - supplier
+2025-10-21 16:39:37,278 - INFO -   - weight_kg
+2025-10-21 16:39:37,278 - INFO -   - is_active
+2025-10-21 16:39:37,278 - INFO -   - profit_margin
+2025-10-21 16:39:37,278 - INFO - ======================================================================
+2025-10-21 16:39:37,278 - INFO - 
+Generating summary statistics...
+2025-10-21 16:39:37,280 - INFO - 
+======================================================================
+2025-10-21 16:39:37,281 - INFO - SUMMARY STATISTICS
+2025-10-21 16:39:37,281 - INFO - ======================================================================
+2025-10-21 16:39:37,281 - INFO - Total Records................. 1000
+2025-10-21 16:39:37,281 - INFO - Unique Transactions........... 1000
+2025-10-21 16:39:37,281 - INFO - Unique Customers.............. 199
+2025-10-21 16:39:37,282 - INFO - Unique Products............... 50
+2025-10-21 16:39:37,282 - INFO - Total Columns................. 30
+2025-10-21 16:39:37,282 - INFO - Date Range.................... 2024-01-01 to 2024-09-27
+2025-10-21 16:39:37,282 - INFO - Total Sales Amount............ $1,246,787.04
+2025-10-21 16:39:37,282 - INFO - Average Transaction........... $1,246.79
+2025-10-21 16:39:37,282 - INFO - Missing Customer Info......... 0
+2025-10-21 16:39:37,283 - INFO - Missing Product Info.......... 78
+2025-10-21 16:39:37,283 - INFO - Timestamp..................... 2025-10-21 16:39:37
+2025-10-21 16:39:37,283 - INFO - ======================================================================
+2025-10-21 16:39:37,284 - INFO - 
+Saving combined data to: ./combined_data.csv
+2025-10-21 16:39:37,304 - INFO - 
+======================================================================
+2025-10-21 16:39:37,306 - INFO - ======================================================================
+2025-10-21 16:39:37,306 - INFO - 
+Output file: C:\Users\Acer\OneDrive\Freelance\Dreamcatcher\01 Conducted Training\20251020 Sandisk Shanghai python for data analysis beginner\training_preparation\automation\combined_data.csv

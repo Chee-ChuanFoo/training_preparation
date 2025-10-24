@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date,customer_segment,total_purchases,lifetime_value
+CUST0001,Karen,Garcia,david.davis@email.com,(717) 336-7461,San Antonio,CA,2022-06-06,Standard,38,6490.79
+CUST0002,Karen,Davis,nancy.gonzalez@email.com,(276) 806-2020,San Antonio,TX,2022-03-10,Standard,14,1642.16
+CUST0003,David,Taylor,jessica.jones@email.com,(645) 878-3141,Philadelphia,FL,2022-05-03,Standard,8,5515.75
+CUST0004,Richard,Garcia,charles.lee@email.com,(442) 498-5276,San Diego,AZ,2022-04-18,Standard,27,965.72
+CUST0005,James,Moore,william.lee@email.com,(522) 602-6345,Philadelphia,PA,2023-03-18,Standard,2,3835.9
+CUST0006,Elizabeth,Garcia,susan.gonzalez@email.com,(525) 663-5455,San Jose,CA,2023-03-02,Premium,17,4193.81
+CUST0007,Susan,Hernandez,joseph.williams@email.com,(439) 276-4321,Chicago,IL,2022-01-31,Standard,37,494.13
+CUST0008,Richard,Moore,christopher.williams@email.com,(339) 998-2785,Houston,FL,2023-09-13,Standard,14,2812.48
+CUST0009,John,Wilson,richard.taylor@email.com,(359) 308-3693,Chicago,CA,2022-08-26,Basic,25,9560.93
+CUST0010,Lisa,Anderson,lisa.rodriguez@email.com,(660) 677-6145,New York,PA,2023-10-28,Premium,30,9540.96
+CUST0011,Sarah,Davis,daniel.lopez@email.com,(616) 323-9780,San Jose,AZ,2023-01-22,Standard,29,3588.04
+CUST0012,Linda,Gonzalez,joseph.thomas@email.com,(566) 988-4401,Phoenix,GA,2023-03-24,Basic,20,526.69
+CUST0013,Charles,Lee,david.jackson@email.com,(662) 515-8591,New York,NY,2022-03-17,Premium,21,1873.04
+CUST0014,Thomas,Garcia,james.williams@email.com,(471) 322-2481,New York,GA,2023-02-03,Standard,22,3982.96
+CUST0015,Jennifer,Garcia,lisa.anderson@email.com,(361) 902-5984,Los Angeles,TX,2023-03-24,Premium,35,9483.02
+CUST0016,Nancy,Lee,christopher.thompson@email.com,(921) 913-1660,Houston,CA,2023-04-09,Standard,37,1497.87
+CUST0017,Richard,Thompson,daniel.lopez@email.com,(420) 535-3430,Philadelphia,TX,2022-03-01,Standard,16,7658.81
+CUST0018,Jennifer,Wilson,john.moore@email.com,(293) 928-5066,San Diego,NY,2022-01-03,Standard,49,1175.96
+CUST0019,Robert,Gonzalez,richard.miller@email.com,(564) 605-9412,Chicago,CA,2022-03-05,Standard,43,9814.45
+CUST0020,William,Smith,susan.miller@email.com,(250) 893-5896,New York,OH,2023-03-02,Basic,17,3878.0
+CUST0021,Elizabeth,Martin,jessica.rodriguez@email.com,(466) 378-1509,Chicago,PA,2023-06-23,Premium,16,7774.82
+CUST0022,William,Miller,david.martinez@email.com,(614) 663-5093,Chicago,CA,2023-08-01,Premium,2,3491.65
+CUST0023,Jessica,Anderson,david.moore@email.com,(296) 673-2669,Phoenix,PA,2022-07-21,Basic,4,6313.92
+CUST0024,Robert,Jackson,charles.jones@email.com,(343) 324-1195,Houston,GA,2023-04-30,Standard,21,2000.96
+CUST0025,John,Wilson,charles.thomas@email.com,(263) 999-4641,Houston,NC,2023-11-04,Basic,39,1545.61
+CUST0026,Jennifer,Gonzalez,david.thompson@email.com,(333) 402-7563,Dallas,FL,2022-04-27,Standard,34,9386.83
+CUST0027,Susan,Smith,mary.johnson@email.com,(581) 902-2376,San Antonio,NC,2022-11-14,Basic,30,9184.71
+CUST0028,William,White,patricia.lee@email.com,(796) 800-5240,Houston,AZ,2022-02-24,Standard,6,8885.94
+CUST0029,Susan,Miller,joseph.smith@email.com,(276) 222-2056,Chicago,FL,2023-02-08,Basic,17,6291.79
+CUST0030,Elizabeth,Miller,patricia.garcia@email.com,(402) 861-8265,Philadelphia,FL,2022-02-03,Basic,39,8101.86
+CUST0031,Jessica,Rodriguez,joseph.anderson@email.com,(331) 294-6432,Chicago,IL,2023-08-11,Standard,25,783.47
+CUST0032,John,White,james.wilson@email.com,(325) 243-8552,Philadelphia,FL,2023-12-06,Premium,5,3414.41
+CUST0033,Barbara,Williams,michael.white@email.com,(251) 372-8096,Dallas,NY,2022-03-01,Standard,5,3205.66
+CUST0034,William,Jackson,robert.lee@email.com,(941) 604-9128,Philadelphia,NC,2022-08-10,Premium,20,6392.89
+CUST0035,Linda,Brown,elizabeth.garcia@email.com,(230) 591-7990,Houston,GA,2023-03-05,Standard,16,3623.98
+CUST0036,Lisa,Moore,william.williams@email.com,(376) 562-4517,Phoenix,PA,2023-04-11,Standard,41,1570.22
+CUST0037,Christopher,Garcia,christopher.lopez@email.com,(391) 481-5585,Philadelphia,AZ,2022-10-30,Standard,37,6005.02
+CUST0038,Jessica,Lopez,william.williams@email.com,(656) 352-1567,Chicago,FL,2022-11-13,Standard,40,8162.4
+CUST0039,Karen,Hernandez,barbara.thompson@email.com,(828) 834-5026,San Diego,AZ,2022-11-30,Standard,9,3883.02
+CUST0040,Karen,Miller,christopher.garcia@email.com,(862) 502-9173,Houston,GA,2023-11-26,Standard,5,1409.46
+CUST0041,Michael,Anderson,mary.gonzalez@email.com,(621) 763-8848,San Diego,AZ,2022-05-14,Premium,42,2047.21
+CUST0042,Joseph,Brown,christopher.martinez@email.com,(262) 289-5583,San Jose,GA,2022-01-06,Premium,2,2451.08
+CUST0043,Patricia,Rodriguez,lisa.white@email.com,(592) 340-7868,San Jose,FL,2022-05-26,Premium,9,3068.99
+CUST0044,Robert,Thompson,linda.wilson@email.com,(404) 858-9614,Chicago,GA,2023-06-21,Standard,43,6463.67
+CUST0045,Elizabeth,Thomas,christopher.williams@email.com,(455) 845-9907,San Jose,FL,2023-01-15,Standard,36,6049.36
+CUST0046,James,Taylor,daniel.brown@email.com,(219) 591-6883,San Antonio,IL,2022-01-01,Standard,22,6991.19
+CUST0047,Richard,Lee,james.miller@email.com,(691) 757-8940,Dallas,IL,2023-05-19,Standard,22,3688.77
+CUST0048,David,Hernandez,jessica.williams@email.com,(552) 779-9231,Houston,GA,2022-01-29,Basic,22,8257.58
+CUST0049,Karen,Martin,robert.jackson@email.com,(529) 597-5430,San Diego,IL,2022-07-03,Premium,34,2120.47
+CUST0050,Richard,Gonzalez,linda.taylor@email.com,(384) 226-6224,Chicago,PA,2022-03-19,Standard,29,4743.5
+CUST0051,David,Martin,nancy.anderson@email.com,(811) 424-1480,San Antonio,PA,2022-09-01,Standard,38,8029.29
+CUST0052,Joseph,Gonzalez,james.smith@email.com,(997) 487-1959,Chicago,IL,2022-02-13,Basic,46,1883.57
+CUST0053,David,Jackson,daniel.hernandez@email.com,(683) 742-6856,San Antonio,IL,2022-12-30,Basic,33,1187.64
+CUST0054,Susan,Brown,patricia.wilson@email.com,(985) 798-4813,San Jose,OH,2022-07-31,Premium,18,8848.47
+CUST0055,Christopher,Lopez,daniel.jones@email.com,(363) 302-5060,San Jose,OH,2023-02-28,Premium,7,3495.0
+CUST0056,Karen,Lopez,jessica.williams@email.com,(872) 446-5366,Philadelphia,FL,2023-07-11,Basic,1,6870.31
+CUST0057,Robert,Anderson,linda.gonzalez@email.com,(746) 954-1916,Los Angeles,GA,2022-02-27,Standard,33,350.95
+CUST0058,Elizabeth,Martin,john.brown@email.com,(982) 424-7363,Chicago,TX,2022-06-09,Standard,1,6931.46
+CUST0059,David,Garcia,patricia.hernandez@email.com,(563) 377-3885,Philadelphia,TX,2023-06-30,Standard,24,3229.4
+CUST0060,Karen,Thompson,barbara.martinez@email.com,(442) 806-6210,Houston,IL,2023-03-07,Standard,4,651.83
+CUST0061,Daniel,White,robert.gonzalez@email.com,(955) 914-6878,Philadelphia,AZ,2023-09-24,Basic,4,6137.15
+CUST0062,Michael,Martinez,robert.lee@email.com,(805) 228-6761,New York,IL,2022-09-06,Basic,18,2483.96
+CUST0063,Jessica,Martin,nancy.jones@email.com,(781) 777-3328,San Jose,OH,2023-08-23,Basic,27,3929.39
+CUST0064,David,Jackson,john.taylor@email.com,(776) 392-9064,New York,FL,2023-04-12,Standard,43,897.75
+CUST0065,Jennifer,Williams,charles.smith@email.com,(755) 516-3876,Chicago,IL,2022-06-08,Basic,32,1556.92
+CUST0066,Richard,Thompson,karen.lee@email.com,(702) 238-2478,San Diego,NC,2023-06-28,Premium,33,3049.97
+CUST0067,David,Jones,jennifer.anderson@email.com,(257) 438-4584,San Diego,AZ,2022-02-04,Standard,28,988.62
+CUST0068,Elizabeth,Hernandez,barbara.miller@email.com,(220) 739-8831,Houston,NC,2023-01-23,Basic,42,9117.18
+CUST0069,Lisa,Brown,christopher.jones@email.com,(200) 539-4300,Philadelphia,FL,2022-03-02,Standard,41,159.87
+CUST0070,Daniel,Davis,susan.martin@email.com,(333) 548-3907,San Diego,FL,2023-10-02,Standard,36,4890.22
+CUST0071,Christopher,Martinez,nancy.anderson@email.com,(531) 260-1359,San Antonio,PA,2023-05-19,Premium,6,1320.15
+CUST0072,Jessica,Brown,michael.williams@email.com,(351) 800-3320,San Antonio,CA,2023-01-03,Basic,16,3146.02
+CUST0073,Charles,Garcia,patricia.jones@email.com,(992) 313-9622,Houston,NC,2023-05-18,Standard,34,9267.99
+CUST0074,Linda,Lopez,patricia.jackson@email.com,(573) 274-7120,Dallas,PA,2023-02-21,Standard,23,1700.78
+CUST0075,David,White,lisa.gonzalez@email.com,(921) 878-7481,San Jose,OH,2022-10-28,Standard,42,9661.74
+CUST0076,Richard,Jones,barbara.wilson@email.com,(800) 303-6514,Philadelphia,NY,2023-01-27,Basic,24,2137.36
+CUST0077,William,Taylor,david.jones@email.com,(509) 530-3235,Chicago,AZ,2022-12-17,Basic,49,7441.5
+CUST0078,Richard,Gonzalez,linda.rodriguez@email.com,(361) 949-8157,Phoenix,NY,2023-04-10,Standard,13,5512.1
+CUST0079,Barbara,Wilson,christopher.williams@email.com,(854) 698-6198,Phoenix,GA,2022-05-12,Standard,18,8856.34
+CUST0080,Patricia,Martin,linda.moore@email.com,(378) 924-6846,Phoenix,OH,2023-03-06,Standard,13,5584.53
+CUST0081,Charles,Jones,karen.martin@email.com,(428) 881-3872,San Diego,OH,2022-09-14,Basic,49,5392.14
+CUST0082,Michael,Jackson,lisa.martin@email.com,(587) 514-5825,Dallas,NY,2023-09-03,Standard,37,2035.03
+CUST0083,Charles,Gonzalez,elizabeth.white@email.com,(330) 381-1029,Dallas,NC,2022-09-07,Basic,43,1745.67
+CUST0084,Sarah,Wilson,james.thompson@email.com,(918) 786-7415,Philadelphia,CA,2023-11-08,Standard,39,9173.24
+CUST0085,Jennifer,Garcia,elizabeth.miller@email.com,(989) 781-1530,Philadelphia,NC,2022-03-23,Basic,42,3345.6
+CUST0086,Nancy,Thomas,thomas.martin@email.com,(386) 816-6213,Dallas,NY,2022-05-14,Basic,17,3783.61
+CUST0087,Sarah,Lee,thomas.miller@email.com,(826) 426-2705,Houston,GA,2022-05-17,Standard,15,7622.25
+CUST0088,James,Moore,lisa.gonzalez@email.com,(708) 344-6425,Philadelphia,NC,2022-04-06,Basic,18,3454.35
+CUST0089,Lisa,White,elizabeth.lee@email.com,(963) 279-4899,Houston,TX,2023-10-21,Standard,23,9525.42
+CUST0090,Joseph,Lee,mary.davis@email.com,(555) 527-3750,New York,NC,2022-09-05,Premium,30,7405.48
+CUST0091,Daniel,Garcia,jessica.gonzalez@email.com,(851) 290-6500,San Antonio,FL,2023-06-16,Standard,34,6014.55
+CUST0092,Michael,Moore,patricia.davis@email.com,(657) 211-5345,San Jose,PA,2022-08-07,Basic,4,8820.86
+CUST0093,Joseph,Garcia,jessica.lee@email.com,(414) 455-2110,Philadelphia,AZ,2023-09-01,Standard,3,591.1
+CUST0094,Elizabeth,Thomas,karen.williams@email.com,(558) 462-2770,Dallas,NC,2022-02-03,Standard,7,2644.92
+CUST0095,Daniel,Martinez,thomas.smith@email.com,(937) 201-1788,San Antonio,CA,2022-12-07,Standard,18,4703.86
+CUST0096,John,Jones,barbara.hernandez@email.com,(595) 648-7875,San Antonio,CA,2022-07-08,Standard,42,2347.09
+CUST0097,Susan,Garcia,robert.gonzalez@email.com,(370) 623-9078,Los Angeles,NC,2023-03-02,Standard,7,7464.66
+CUST0098,Nancy,Hernandez,charles.wilson@email.com,(587) 559-9946,Dallas,IL,2022-11-04,Standard,40,9200.16
+CUST0099,Jessica,Anderson,barbara.moore@email.com,(584) 303-8855,San Jose,OH,2023-11-07,Basic,6,4295.32
+CUST0100,Robert,Martin,nancy.garcia@email.com,(791) 866-4695,Dallas,NC,2023-07-31,Standard,22,3487.11
+CUST0101,Christopher,Johnson,jessica.williams@email.com,(366) 662-2207,Philadelphia,OH,2023-08-14,Standard,1,9619.35
+CUST0102,Elizabeth,Lopez,james.jackson@email.com,(234) 501-1328,Chicago,TX,2023-06-10,Standard,4,4504.04
+CUST0103,Linda,Smith,john.smith@email.com,(526) 467-2715,New York,NY,2023-01-16,Premium,46,4941.58
+CUST0104,William,Thomas,william.miller@email.com,(275) 550-3787,Houston,TX,2022-11-08,Basic,49,3581.33
+CUST0105,Nancy,Jones,mary.johnson@email.com,(584) 364-2228,Chicago,NC,2022-05-28,Basic,43,9104.53
+CUST0106,Robert,Miller,richard.taylor@email.com,(760) 295-6536,New York,CA,2022-09-20,Standard,29,5732.66
+CUST0107,Daniel,Gonzalez,elizabeth.lee@email.com,(808) 828-8909,Chicago,IL,2023-08-08,Basic,21,7645.53
+CUST0108,Susan,Moore,daniel.taylor@email.com,(921) 231-8066,Houston,GA,2023-02-12,Basic,26,8136.89
+CUST0109,Richard,Taylor,susan.wilson@email.com,(869) 368-8113,San Diego,OH,2023-07-01,Basic,14,3484.31
+CUST0110,John,Lee,daniel.gonzalez@email.com,(360) 254-2659,Dallas,PA,2023-10-11,Premium,9,4393.57
+CUST0111,Joseph,Thomas,john.lee@email.com,(539) 410-4112,Chicago,OH,2022-08-20,Basic,47,8499.87
+CUST0112,Karen,Wilson,sarah.moore@email.com,(619) 913-9849,Philadelphia,FL,2023-01-26,Standard,12,3696.23
+CUST0113,Jessica,Thompson,karen.jones@email.com,(471) 876-5612,San Jose,AZ,2022-03-26,Standard,42,7959.96
+CUST0114,Charles,Thomas,william.williams@email.com,(504) 443-2571,Phoenix,NC,2023-07-04,Premium,6,9415.82
+CUST0115,Richard,Wilson,elizabeth.williams@email.com,(250) 602-9043,Philadelphia,TX,2023-02-15,Standard,20,6269.78
+CUST0116,Sarah,White,thomas.miller@email.com,(357) 255-6911,Houston,PA,2022-03-23,Premium,24,7442.11
+CUST0117,Thomas,Anderson,robert.moore@email.com,(203) 637-2435,San Jose,CA,2023-11-03,Standard,27,8070.46
+CUST0118,Daniel,Thomas,david.gonzalez@email.com,(501) 877-8869,Philadelphia,CA,2023-12-28,Standard,38,8465.89
+CUST0119,Susan,Garcia,charles.lee@email.com,(404) 299-1421,San Antonio,CA,2022-09-26,Basic,8,4011.03
+CUST0120,Sarah,Williams,christopher.thompson@email.com,(411) 374-5781,Dallas,GA,2023-03-27,Basic,1,607.51
+CUST0121,Mary,Jackson,christopher.williams@email.com,(283) 684-2892,San Jose,FL,2023-06-01,Standard,49,4078.58
+CUST0122,Barbara,Smith,elizabeth.white@email.com,(515) 607-8715,San Antonio,CA,2023-07-13,Basic,49,6770.19
+CUST0123,Daniel,Davis,susan.davis@email.com,(700) 876-5341,Philadelphia,CA,2022-05-21,Basic,24,4558.47
+CUST0124,Sarah,Martinez,mary.davis@email.com,(293) 857-9914,New York,NC,2023-07-23,Basic,47,7514.74
+CUST0125,Karen,Johnson,john.wilson@email.com,(596) 389-7078,Los Angeles,FL,2022-08-18,Premium,7,3634.13
+CUST0126,Christopher,Rodriguez,patricia.anderson@email.com,(590) 578-4056,New York,IL,2023-10-03,Standard,19,6383.97
+CUST0127,John,Davis,karen.martin@email.com,(656) 245-5313,Dallas,IL,2023-08-22,Basic,22,1945.56
+CUST0128,Patricia,Moore,mary.martinez@email.com,(650) 676-5315,San Jose,FL,2022-04-12,Standard,35,7518.76
+CUST0129,Linda,Martinez,nancy.thompson@email.com,(431) 475-2009,San Jose,AZ,2022-10-14,Standard,30,5502.39
+CUST0130,Nancy,Garcia,lisa.garcia@email.com,(354) 970-2584,Dallas,GA,2022-03-24,Standard,29,2120.24
+CUST0131,Nancy,Anderson,patricia.smith@email.com,(287) 884-6632,San Antonio,PA,2022-10-19,Standard,22,2989.92
+CUST0132,Barbara,Jackson,daniel.jones@email.com,(754) 623-4727,Los Angeles,OH,2022-11-14,Standard,11,7511.23
+CUST0133,Jennifer,Thomas,daniel.smith@email.com,(766) 262-7342,Philadelphia,NC,2022-10-19,Premium,20,4877.75
+CUST0134,Christopher,Moore,jennifer.thomas@email.com,(735) 628-9773,Houston,NY,2022-08-31,Standard,29,2238.71
+CUST0135,Karen,Taylor,barbara.taylor@email.com,(903) 686-4860,New York,IL,2022-12-05,Basic,41,9675.98
+CUST0136,Mary,Brown,thomas.rodriguez@email.com,(687) 506-2293,New York,FL,2023-12-28,Basic,42,7179.74
+CUST0137,Charles,Jackson,jennifer.lopez@email.com,(604) 931-1568,Phoenix,PA,2023-11-24,Premium,34,9575.63
+CUST0138,Christopher,Brown,robert.rodriguez@email.com,(714) 784-9467,Los Angeles,FL,2022-07-04,Basic,1,4328.34
+CUST0139,Nancy,Rodriguez,lisa.brown@email.com,(785) 893-3415,Houston,OH,2023-06-11,Standard,31,4803.49
+CUST0140,Christopher,Moore,james.hernandez@email.com,(323) 975-8357,New York,PA,2022-12-15,Standard,30,8989.76
+CUST0141,Richard,Lopez,susan.rodriguez@email.com,(377) 371-4471,Houston,IL,2023-12-18,Basic,48,5297.99
+CUST0142,David,Moore,thomas.williams@email.com,(397) 329-1699,Philadelphia,CA,2023-02-06,Basic,18,7102.06
+CUST0143,Susan,Johnson,william.white@email.com,(633) 280-8133,San Jose,FL,2022-07-07,Basic,17,2596.51
+CUST0144,Patricia,Anderson,charles.lee@email.com,(406) 842-3422,Houston,NY,2023-06-20,Standard,38,4522.59
+CUST0145,James,Moore,john.thomas@email.com,(809) 464-6238,New York,IL,2023-12-14,Basic,14,1322.15
+CUST0146,Patricia,Miller,joseph.taylor@email.com,(944) 268-2425,San Antonio,TX,2022-02-08,Premium,23,2139.2
+CUST0147,William,Wilson,barbara.johnson@email.com,(597) 769-7510,Los Angeles,NY,2023-12-28,Basic,25,109.34
+CUST0148,Linda,Brown,jessica.jackson@email.com,(765) 533-5525,Dallas,AZ,2022-03-31,Basic,15,488.72
+CUST0149,Thomas,Lee,jennifer.lopez@email.com,(732) 669-1202,Chicago,GA,2023-04-22,Standard,46,9775.11
+CUST0150,Lisa,Davis,jennifer.rodriguez@email.com,(917) 838-9561,San Diego,IL,2023-05-15,Standard,22,2499.3
+CUST0151,Thomas,Martinez,patricia.jackson@email.com,(629) 315-7790,San Diego,CA,2022-01-21,Basic,3,6666.78
+CUST0152,Sarah,Johnson,nancy.brown@email.com,(353) 351-2641,Chicago,IL,2023-01-14,Premium,19,8407.09
+CUST0153,Charles,Anderson,linda.taylor@email.com,(308) 776-2654,Houston,OH,2023-02-16,Premium,44,5551.54
+CUST0154,Daniel,Rodriguez,james.johnson@email.com,(492) 748-6633,Los Angeles,PA,2023-08-22,Basic,34,1616.13
+CUST0155,Charles,Lopez,james.davis@email.com,(620) 470-7275,Houston,FL,2023-09-18,Standard,35,7308.35
+CUST0156,Linda,Williams,mary.thomas@email.com,(870) 697-8750,Dallas,PA,2022-12-05,Basic,1,6042.49
+CUST0157,Joseph,Anderson,barbara.gonzalez@email.com,(238) 376-5512,Los Angeles,PA,2022-08-04,Standard,21,7339.38
+CUST0158,Barbara,Brown,robert.garcia@email.com,(612) 347-7581,Chicago,IL,2022-05-09,Premium,29,7720.49
+CUST0159,Richard,Davis,mary.moore@email.com,(239) 605-6431,Houston,OH,2023-02-22,Basic,6,9756.56
+CUST0160,Joseph,Miller,daniel.lee@email.com,(907) 443-1807,Phoenix,FL,2023-07-14,Standard,37,5778.28
+CUST0161,Nancy,Jackson,susan.davis@email.com,(963) 686-5400,New York,FL,2023-10-27,Premium,1,3482.25
+CUST0162,Charles,White,david.davis@email.com,(581) 220-6535,San Antonio,PA,2023-11-16,Basic,1,6519.8
+CUST0163,Daniel,Lopez,susan.hernandez@email.com,(510) 518-5593,San Jose,AZ,2023-03-02,Standard,27,777.56
+CUST0164,Thomas,White,william.williams@email.com,(703) 912-2609,San Antonio,GA,2023-03-10,Standard,21,8984.23
+CUST0165,Robert,Martin,charles.lopez@email.com,(433) 337-5923,Dallas,OH,2022-09-22,Standard,16,1281.87
+CUST0166,Barbara,Lee,patricia.taylor@email.com,(961) 653-6257,Houston,AZ,2022-07-18,Basic,44,3345.64
+CUST0167,James,Wilson,nancy.johnson@email.com,(475) 946-7828,Philadelphia,NC,2022-05-01,Basic,40,8175.88
+CUST0168,Jessica,Garcia,jennifer.davis@email.com,(819) 861-2462,Los Angeles,NC,2022-07-14,Basic,26,6013.39
+CUST0169,Patricia,Martin,thomas.johnson@email.com,(392) 652-4463,Houston,NY,2023-01-21,Premium,16,3996.99
+CUST0170,Elizabeth,Jones,richard.williams@email.com,(616) 958-8937,Los Angeles,PA,2022-10-14,Basic,28,4787.01
+CUST0171,Susan,Miller,joseph.martinez@email.com,(977) 728-7126,San Jose,FL,2022-01-28,Standard,1,8560.02
+CUST0172,John,Miller,elizabeth.hernandez@email.com,(257) 727-3604,Phoenix,IL,2023-08-17,Standard,36,3466.04
+CUST0173,Patricia,Johnson,john.moore@email.com,(267) 518-9303,San Antonio,FL,2023-01-16,Standard,10,8709.53
+CUST0174,Lisa,Jackson,joseph.smith@email.com,(613) 338-9589,New York,FL,2022-08-18,Basic,43,972.53
+CUST0175,Robert,Lopez,barbara.miller@email.com,(782) 229-3846,San Jose,CA,2022-12-30,Basic,17,7790.3
+CUST0176,Barbara,Moore,elizabeth.jackson@email.com,(397) 405-1944,San Jose,FL,2023-06-23,Premium,23,8490.72
+CUST0177,Elizabeth,Rodriguez,elizabeth.martin@email.com,(455) 233-8478,San Antonio,NY,2023-07-17,Standard,7,1899.99
+CUST0178,David,Martin,linda.anderson@email.com,(251) 569-4262,San Jose,AZ,2022-11-14,Basic,44,4360.43
+CUST0179,Joseph,Moore,barbara.jackson@email.com,(480) 577-8605,Philadelphia,NC,2023-12-13,Premium,7,1738.45
+CUST0180,Michael,Garcia,jessica.miller@email.com,(717) 606-3029,Philadelphia,FL,2023-05-13,Basic,44,7095.38
+CUST0181,Thomas,Hernandez,lisa.moore@email.com,(897) 231-4963,San Diego,FL,2023-05-17,Standard,15,5399.94
+CUST0182,Jessica,White,linda.jones@email.com,(581) 700-8308,San Diego,CA,2023-08-20,Standard,34,6389.7
+CUST0183,Barbara,Martinez,james.wilson@email.com,(381) 685-6730,Philadelphia,OH,2023-05-30,Standard,46,2045.22
+CUST0184,Jessica,Martinez,james.davis@email.com,(552) 367-5237,Chicago,IL,2023-12-10,Standard,45,2196.28
+CUST0185,Patricia,Jackson,sarah.lopez@email.com,(966) 905-2480,Phoenix,OH,2022-05-08,Basic,4,510.82
+CUST0186,Joseph,Rodriguez,christopher.white@email.com,(491) 228-7333,Los Angeles,IL,2022-08-03,Standard,14,3288.47
+CUST0187,Lisa,Taylor,james.hernandez@email.com,(250) 366-4511,Phoenix,GA,2023-07-12,Basic,14,5641.47
+CUST0188,Daniel,Thompson,james.thompson@email.com,(426) 862-4688,Dallas,FL,2023-08-28,Standard,16,8593.56
+CUST0189,Joseph,Brown,richard.martinez@email.com,(893) 411-5408,San Jose,CA,2022-12-22,Premium,7,6702.58
+CUST0190,David,Jones,patricia.miller@email.com,(867) 619-9409,New York,TX,2022-01-03,Premium,32,4410.42
+CUST0191,John,Wilson,thomas.davis@email.com,(220) 999-1145,San Jose,PA,2022-03-06,Standard,19,9535.89
+CUST0192,Elizabeth,Johnson,susan.thomas@email.com,(685) 335-3837,Phoenix,NC,2023-11-24,Basic,2,7220.53
+CUST0193,Mary,Rodriguez,mary.jones@email.com,(815) 208-4666,Philadelphia,AZ,2022-12-13,Standard,10,9308.64
+CUST0194,Daniel,Lee,daniel.rodriguez@email.com,(458) 822-6004,San Antonio,NC,2022-03-17,Standard,17,5323.12
+CUST0195,Patricia,Jones,john.johnson@email.com,(929) 926-5511,Dallas,AZ,2023-04-15,Standard,37,2663.15
+CUST0196,James,White,linda.taylor@email.com,(633) 585-6713,Philadelphia,GA,2022-07-03,Standard,12,622.98
+CUST0197,David,Jones,susan.white@email.com,(670) 458-4575,Phoenix,OH,2022-04-03,Standard,6,7288.24
+CUST0198,Christopher,Davis,barbara.anderson@email.com,(677) 509-9530,San Antonio,NY,2023-11-13,Basic,22,1300.9
+CUST0199,Patricia,Jones,lisa.williams@email.com,(838) 606-2676,New York,FL,2022-05-03,Standard,32,3097.47
+CUST0200,Nancy,White,charles.brown@email.com,(207) 723-7131,Phoenix,TX,2023-11-13,Standard,41,5371.46

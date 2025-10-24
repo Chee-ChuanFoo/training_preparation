@@ -1,0 +1,2001 @@
+visit_id,timestamp,page_url,session_duration_sec,device_type,browser,traffic_source,country,bounce,conversion,page_views
+VISIT001178,2024-01-01 00:00:00,/blog,394,Mobile,Chrome,Direct,France,True,False,6
+VISIT001577,2024-01-01 01:00:00,/blog,1641,Desktop,Safari,Organic Search,Japan,True,False,17
+VISIT000779,2024-01-01 02:00:00,/product/sports,1438,Tablet,Firefox,Paid Ads,Germany,False,False,11
+VISIT001423,2024-01-01 05:00:00,/products,1197,Mobile,Chrome,Direct,Japan,False,False,5
+VISIT000617,2024-01-01 09:00:00,/product/electronics,2710,Desktop,Chrome,Organic Search,Australia,True,False,4
+VISIT000811,2024-01-02 14:00:00,/cart,266,Desktop,Chrome,Email,Australia,True,False,12
+VISIT000359,2024-01-02 15:00:00,/blog,2792,Desktop,Safari,Email,Germany,False,False,13
+VISIT000288,2024-01-02 17:00:00,/cart,3044,Mobile,Edge,Social Media,USA,False,False,9
+VISIT000730,2024-01-02 19:00:00,/blog,1676,Desktop,Safari,Direct,Canada,True,False,13
+VISIT000654,2024-01-02 20:00:00,/blog,1751,Tablet,Firefox,Social Media,Japan,True,False,17
+VISIT000097,2024-01-02 22:00:00,/checkout,613,Desktop,Chrome,Organic Search,Australia,True,False,15
+VISIT000239,2024-01-03 00:00:00,/product/electronics,2631,Mobile,Safari,Paid Ads,Canada,True,False,14
+VISIT001586,2024-01-03 05:00:00,/about,1496,Desktop,Edge,Social Media,Germany,False,False,10
+VISIT000501,2024-01-03 06:00:00,/blog,2737,Desktop,Chrome,Paid Ads,USA,False,False,17
+VISIT000904,2024-01-03 06:00:00,/contact,304,Desktop,Chrome,Social Media,France,False,False,9
+VISIT000658,2024-01-03 10:00:00,/cart,3280,Mobile,Firefox,Social Media,Canada,False,False,5
+VISIT000663,2024-01-03 10:00:00,/product/sports,3311,Tablet,Chrome,Direct,Canada,False,False,17
+VISIT001198,2024-01-03 11:00:00,/blog,1097,Desktop,Edge,Direct,France,True,False,18
+VISIT000190,2024-01-03 12:00:00,/home,679,Mobile,Safari,Direct,Australia,True,False,14
+VISIT001260,2024-01-03 19:00:00,/home,2114,Desktop,Chrome,Direct,Japan,True,False,16
+VISIT000944,2024-01-03 20:00:00,/checkout,1617,Desktop,Chrome,Direct,UK,True,False,17
+VISIT001807,2024-01-03 20:00:00,/products,3110,Desktop,Chrome,Social Media,USA,False,False,14
+VISIT001186,2024-01-03 20:00:00,/products,1720,Desktop,Safari,Direct,USA,False,False,6
+VISIT000150,2024-01-04 00:00:00,/checkout,1369,Desktop,Chrome,Direct,Canada,False,False,2
+VISIT001345,2024-01-04 01:00:00,/product/clothing,3509,Mobile,Firefox,Social Media,Japan,False,False,19
+VISIT001192,2024-01-04 02:00:00,/blog,1464,Desktop,Edge,Direct,Canada,False,False,18
+VISIT000994,2024-01-04 07:00:00,/product/sports,2642,Desktop,Safari,Social Media,France,False,False,11
+VISIT000859,2024-01-04 07:00:00,/blog,1436,Desktop,Firefox,Direct,USA,True,False,14
+VISIT000431,2024-01-04 14:00:00,/contact,3357,Desktop,Chrome,Direct,France,True,False,2
+VISIT001177,2024-01-04 14:00:00,/cart,79,Desktop,Chrome,Direct,USA,True,False,16
+VISIT000759,2024-01-04 15:00:00,/about,2253,Mobile,Firefox,Direct,Germany,True,False,9
+VISIT000282,2024-01-04 19:00:00,/product/sports,3296,Desktop,Chrome,Direct,France,True,False,14
+VISIT001651,2024-01-04 21:00:00,/checkout,176,Mobile,Chrome,Organic Search,Australia,True,False,14
+VISIT000945,2024-01-05 00:00:00,/home,2895,Mobile,Safari,Organic Search,Australia,True,False,12
+VISIT001291,2024-01-05 07:00:00,/product/clothing,2131,Desktop,Chrome,Organic Search,France,False,False,6
+VISIT000001,2024-01-05 08:00:00,/product/electronics,760,Desktop,Firefox,Organic Search,Canada,True,False,12
+VISIT000055,2024-01-05 10:00:00,/home,748,Mobile,Chrome,Organic Search,USA,False,False,19
+VISIT001486,2024-01-05 11:00:00,/product/electronics,1815,Mobile,Chrome,Direct,Germany,True,False,5
+VISIT001763,2024-01-05 16:00:00,/product/sports,2942,Mobile,Edge,Social Media,Japan,False,False,7
+VISIT001264,2024-01-06 00:00:00,/product/sports,3374,Mobile,Firefox,Paid Ads,France,True,False,3
+VISIT001972,2024-01-06 02:00:00,/blog,2507,Desktop,Edge,Direct,Germany,False,False,18
+VISIT001337,2024-01-06 03:00:00,/products,90,Mobile,Firefox,Social Media,USA,True,False,6
+VISIT000792,2024-01-06 05:00:00,/product/clothing,3095,Tablet,Safari,Organic Search,UK,False,False,8
+VISIT001582,2024-01-06 13:00:00,/home,3022,Desktop,Firefox,Social Media,Japan,False,False,2
+VISIT000592,2024-01-06 15:00:00,/product/electronics,3356,Mobile,Safari,Social Media,Germany,True,True,4
+VISIT000234,2024-01-06 18:00:00,/product/sports,3206,Desktop,Opera,Direct,France,True,False,14
+VISIT001846,2024-01-07 06:00:00,/product/clothing,1878,Tablet,Firefox,Organic Search,Canada,False,False,14
+VISIT001789,2024-01-07 06:00:00,/cart,1892,Desktop,Safari,Organic Search,Japan,False,False,8
+VISIT000556,2024-01-07 08:00:00,/contact,2025,Mobile,Chrome,Organic Search,Australia,False,False,1
+VISIT000397,2024-01-07 08:00:00,/product/electronics,991,Desktop,Chrome,Organic Search,Germany,False,False,3
+VISIT001430,2024-01-07 09:00:00,/products,1123,Desktop,Chrome,Direct,Australia,False,False,5
+VISIT001816,2024-01-07 12:00:00,/blog,1687,Mobile,Firefox,Email,USA,False,False,12
+VISIT001247,2024-01-07 14:00:00,/contact,1985,Mobile,Chrome,Paid Ads,Germany,False,False,5
+VISIT001031,2024-01-07 18:00:00,/about,2035,Desktop,Firefox,Direct,Japan,True,False,5
+VISIT001386,2024-01-08 06:00:00,/blog,3259,Desktop,Chrome,Organic Search,France,False,False,14
+VISIT001836,2024-01-08 08:00:00,/product/electronics,2618,Desktop,Safari,Direct,USA,False,False,13
+VISIT001591,2024-01-08 09:00:00,/cart,2178,Mobile,Chrome,Paid Ads,USA,True,False,5
+VISIT001251,2024-01-08 13:00:00,/product/sports,429,Mobile,Firefox,Organic Search,Germany,False,False,3
+VISIT000534,2024-01-08 15:00:00,/blog,195,Desktop,Opera,Paid Ads,Japan,False,True,7
+VISIT001770,2024-01-08 18:00:00,/blog,1264,Desktop,Chrome,Organic Search,Australia,True,False,3
+VISIT001094,2024-01-08 21:00:00,/home,1056,Mobile,Chrome,Direct,USA,False,False,2
+VISIT000212,2024-01-09 02:00:00,/product/clothing,2207,Tablet,Firefox,Paid Ads,Australia,False,False,4
+VISIT001737,2024-01-09 06:00:00,/about,1947,Mobile,Chrome,Organic Search,UK,False,False,2
+VISIT000170,2024-01-09 10:00:00,/contact,1171,Desktop,Chrome,Direct,Australia,False,False,6
+VISIT000004,2024-01-09 15:00:00,/products,3450,Mobile,Edge,Organic Search,Australia,True,False,15
+VISIT001948,2024-01-09 21:00:00,/products,232,Desktop,Chrome,Direct,UK,False,False,4
+VISIT001935,2024-01-09 22:00:00,/home,2542,Desktop,Edge,Organic Search,UK,False,False,19
+VISIT001113,2024-01-09 23:00:00,/product/sports,374,Desktop,Chrome,Direct,UK,True,False,11
+VISIT000842,2024-01-10 08:00:00,/product/clothing,1354,Desktop,Chrome,Email,UK,False,True,12
+VISIT001137,2024-01-10 18:00:00,/product/electronics,1035,Desktop,Chrome,Direct,Australia,True,False,15
+VISIT001918,2024-01-11 01:00:00,/product/electronics,3048,Tablet,Opera,Direct,USA,True,False,19
+VISIT001860,2024-01-11 01:00:00,/product/electronics,3552,Desktop,Chrome,Organic Search,Australia,False,False,19
+VISIT000265,2024-01-11 12:00:00,/home,3074,Tablet,Firefox,Social Media,UK,True,False,14
+VISIT000400,2024-01-11 15:00:00,/about,3539,Mobile,Firefox,Organic Search,Japan,True,False,15
+VISIT001463,2024-01-11 16:00:00,/product/clothing,2241,Desktop,Chrome,Direct,Australia,False,False,7
+VISIT001275,2024-01-11 19:00:00,/checkout,646,Desktop,Chrome,Organic Search,UK,False,False,2
+VISIT001469,2024-01-11 20:00:00,/checkout,2243,Mobile,Chrome,Email,UK,False,False,3
+VISIT000026,2024-01-12 00:00:00,/contact,2420,Mobile,Edge,Direct,Canada,True,False,19
+VISIT001969,2024-01-12 00:00:00,/checkout,3377,Desktop,Opera,Organic Search,USA,True,False,1
+VISIT000930,2024-01-12 02:00:00,/product/electronics,1468,Desktop,Safari,Organic Search,USA,True,False,3
+VISIT001301,2024-01-12 10:00:00,/cart,246,Desktop,Safari,Email,USA,False,False,4
+VISIT000765,2024-01-12 11:00:00,/blog,157,Tablet,Chrome,Social Media,France,False,False,16
+VISIT001579,2024-01-12 19:00:00,/about,2366,Desktop,Chrome,Direct,Germany,False,False,19
+VISIT001138,2024-01-12 23:00:00,/product/sports,1569,Desktop,Chrome,Social Media,Germany,False,False,18
+VISIT000775,2024-01-13 07:00:00,/checkout,238,Mobile,Chrome,Direct,Canada,False,False,8
+VISIT000407,2024-01-13 12:00:00,/about,3211,Desktop,Safari,Social Media,Canada,False,False,9
+VISIT001633,2024-01-13 18:00:00,/cart,2538,Desktop,Chrome,Organic Search,Japan,True,False,2
+VISIT000743,2024-01-13 21:00:00,/checkout,22,Desktop,Firefox,Email,Canada,False,False,2
+VISIT001602,2024-01-13 21:00:00,/checkout,298,Mobile,Chrome,Email,Germany,False,False,9
+VISIT000216,2024-01-13 22:00:00,/product/sports,308,Mobile,Chrome,Email,Australia,False,False,16
+VISIT000605,2024-01-14 07:00:00,/product/clothing,1746,Desktop,Safari,Social Media,Japan,False,False,14
+VISIT000544,2024-01-14 09:00:00,/product/clothing,12,Mobile,Edge,Organic Search,Japan,False,False,8
+VISIT001393,2024-01-14 11:00:00,/blog,775,Mobile,Chrome,Organic Search,USA,False,False,9
+VISIT001837,2024-01-14 13:00:00,/blog,3282,Desktop,Chrome,Social Media,France,False,False,19
+VISIT000469,2024-01-14 14:00:00,/home,2723,Desktop,Chrome,Direct,France,True,False,19
+VISIT000160,2024-01-14 14:00:00,/blog,3246,Desktop,Safari,Social Media,Australia,False,False,12
+VISIT000102,2024-01-14 15:00:00,/products,3067,Mobile,Edge,Organic Search,Germany,False,False,18
+VISIT000451,2024-01-14 19:00:00,/home,1656,Desktop,Chrome,Direct,UK,True,False,9
+VISIT000088,2024-01-14 20:00:00,/product/clothing,820,Tablet,Chrome,Organic Search,UK,False,False,5
+VISIT001504,2024-01-14 21:00:00,/products,1155,Mobile,Chrome,Organic Search,Japan,False,False,10
+VISIT001659,2024-01-15 01:00:00,/product/sports,2530,Desktop,Firefox,Direct,Canada,False,False,11
+VISIT001993,2024-01-15 06:00:00,/cart,2895,Mobile,Chrome,Organic Search,Germany,True,False,3
+VISIT000287,2024-01-15 06:00:00,/home,1314,Desktop,Chrome,Organic Search,Canada,False,False,5
+VISIT001346,2024-01-15 08:00:00,/checkout,2925,Desktop,Safari,Organic Search,Canada,False,False,16
+VISIT001318,2024-01-15 09:00:00,/home,3412,Mobile,Firefox,Organic Search,USA,False,False,12
+VISIT000907,2024-01-15 10:00:00,/products,558,Desktop,Chrome,Direct,Australia,True,False,11
+VISIT000460,2024-01-15 14:00:00,/checkout,1864,Mobile,Chrome,Organic Search,Japan,True,False,1
+VISIT000536,2024-01-15 17:00:00,/about,1243,Mobile,Edge,Organic Search,Australia,True,False,7
+VISIT000625,2024-01-15 19:00:00,/product/sports,1257,Desktop,Edge,Organic Search,USA,False,False,17
+VISIT001794,2024-01-15 20:00:00,/cart,277,Desktop,Edge,Direct,USA,True,False,16
+VISIT001460,2024-01-15 22:00:00,/product/electronics,1996,Mobile,Chrome,Organic Search,Japan,False,False,2
+VISIT000178,2024-01-15 23:00:00,/checkout,2857,Mobile,Chrome,Email,UK,True,False,1
+VISIT001747,2024-01-16 07:00:00,/home,698,Mobile,Chrome,Paid Ads,USA,False,False,6
+VISIT000247,2024-01-16 12:00:00,/checkout,1115,Mobile,Firefox,Direct,Germany,False,False,10
+VISIT000468,2024-01-16 20:00:00,/product/electronics,1744,Desktop,Safari,Email,France,False,False,4
+VISIT000046,2024-01-17 00:00:00,/blog,3206,Tablet,Firefox,Social Media,Japan,False,False,18
+VISIT001010,2024-01-17 06:00:00,/about,869,Desktop,Chrome,Organic Search,Japan,True,False,11
+VISIT001480,2024-01-17 18:00:00,/about,198,Mobile,Chrome,Email,Canada,False,False,15
+VISIT001691,2024-01-17 19:00:00,/contact,182,Mobile,Chrome,Organic Search,USA,True,False,13
+VISIT001249,2024-01-17 22:00:00,/contact,1989,Tablet,Chrome,Organic Search,France,True,False,15
+VISIT001669,2024-01-18 05:00:00,/blog,2586,Mobile,Firefox,Email,France,False,False,3
+VISIT000106,2024-01-18 08:00:00,/product/clothing,1405,Mobile,Chrome,Paid Ads,Canada,True,False,5
+VISIT000726,2024-01-18 18:00:00,/home,2944,Tablet,Chrome,Organic Search,USA,True,False,17
+VISIT001329,2024-01-18 18:00:00,/checkout,2871,Mobile,Chrome,Direct,Australia,True,False,17
+VISIT001804,2024-01-19 02:00:00,/about,498,Desktop,Safari,Organic Search,USA,False,False,8
+VISIT000007,2024-01-19 02:00:00,/cart,1593,Mobile,Firefox,Organic Search,France,False,False,15
+VISIT000054,2024-01-19 08:00:00,/cart,3327,Desktop,Chrome,Paid Ads,France,True,False,19
+VISIT001112,2024-01-19 08:00:00,/products,1413,Tablet,Firefox,Organic Search,UK,True,False,14
+VISIT000925,2024-01-19 11:00:00,/products,118,Desktop,Chrome,Social Media,UK,True,False,11
+VISIT001656,2024-01-19 11:00:00,/cart,3054,Desktop,Safari,Organic Search,Germany,True,False,1
+VISIT000219,2024-01-19 12:00:00,/about,655,Mobile,Safari,Paid Ads,France,True,False,15
+VISIT000316,2024-01-19 13:00:00,/product/electronics,3289,Mobile,Firefox,Social Media,Canada,False,False,18
+VISIT001758,2024-01-19 14:00:00,/product/clothing,1358,Desktop,Chrome,Paid Ads,Australia,True,False,12
+VISIT001639,2024-01-20 02:00:00,/product/clothing,720,Desktop,Chrome,Paid Ads,Germany,False,False,7
+VISIT000547,2024-01-20 02:00:00,/cart,1498,Mobile,Chrome,Social Media,France,False,False,8
+VISIT001280,2024-01-20 03:00:00,/cart,97,Desktop,Chrome,Direct,Germany,True,False,1
+VISIT000009,2024-01-20 07:00:00,/contact,2519,Mobile,Chrome,Organic Search,USA,True,False,15
+VISIT000753,2024-01-20 14:00:00,/home,662,Desktop,Chrome,Organic Search,Germany,False,False,6
+VISIT001500,2024-01-20 21:00:00,/cart,1768,Desktop,Chrome,Paid Ads,UK,False,True,16
+VISIT001367,2024-01-21 09:00:00,/product/sports,3286,Desktop,Chrome,Social Media,France,False,False,9
+VISIT001015,2024-01-21 11:00:00,/cart,2356,Desktop,Firefox,Organic Search,Canada,False,False,17
+VISIT001366,2024-01-21 11:00:00,/home,1203,Desktop,Safari,Social Media,France,False,False,19
+VISIT001797,2024-01-21 12:00:00,/product/electronics,2090,Desktop,Edge,Organic Search,Germany,False,False,14
+VISIT001493,2024-01-21 17:00:00,/product/clothing,862,Desktop,Firefox,Direct,UK,False,False,8
+VISIT001856,2024-01-22 03:00:00,/cart,2098,Desktop,Edge,Direct,Australia,False,False,2
+VISIT000019,2024-01-22 04:00:00,/about,1885,Mobile,Opera,Email,Canada,False,False,19
+VISIT000456,2024-01-22 10:00:00,/cart,2566,Desktop,Chrome,Organic Search,Canada,False,False,15
+VISIT000243,2024-01-22 14:00:00,/product/sports,2730,Desktop,Firefox,Organic Search,Germany,False,False,11
+VISIT001438,2024-01-22 14:00:00,/checkout,61,Desktop,Firefox,Social Media,Australia,True,False,16
+VISIT001109,2024-01-22 18:00:00,/cart,770,Mobile,Edge,Email,Canada,False,False,8
+VISIT000737,2024-01-22 20:00:00,/home,3104,Mobile,Chrome,Organic Search,France,False,True,8
+VISIT000192,2024-01-23 08:00:00,/checkout,752,Mobile,Safari,Social Media,France,False,False,5
+VISIT001981,2024-01-23 13:00:00,/product/clothing,2164,Mobile,Chrome,Organic Search,Germany,False,True,15
+VISIT001808,2024-01-23 17:00:00,/products,2096,Desktop,Firefox,Direct,Germany,False,False,7
+VISIT001459,2024-01-23 18:00:00,/products,2677,Tablet,Chrome,Direct,Japan,True,False,6
+VISIT000325,2024-01-23 23:00:00,/blog,1574,Desktop,Chrome,Social Media,Australia,True,False,17
+VISIT000846,2024-01-24 01:00:00,/contact,745,Desktop,Firefox,Organic Search,Germany,False,True,14
+VISIT001909,2024-01-24 03:00:00,/product/electronics,2554,Mobile,Chrome,Social Media,Japan,False,False,17
+VISIT000125,2024-01-24 06:00:00,/blog,3229,Mobile,Safari,Paid Ads,Canada,True,False,12
+VISIT001232,2024-01-24 08:00:00,/about,2057,Desktop,Chrome,Direct,Canada,False,False,13
+VISIT000795,2024-01-24 10:00:00,/blog,290,Mobile,Chrome,Organic Search,UK,True,False,11
+VISIT000586,2024-01-24 11:00:00,/about,777,Desktop,Chrome,Organic Search,USA,False,False,1
+VISIT001414,2024-01-24 12:00:00,/checkout,1813,Desktop,Chrome,Organic Search,France,True,False,16
+VISIT000341,2024-01-24 19:00:00,/home,3424,Desktop,Opera,Social Media,USA,False,False,19
+VISIT001506,2024-01-25 00:00:00,/product/clothing,2351,Desktop,Chrome,Social Media,Australia,False,False,19
+VISIT000223,2024-01-25 01:00:00,/cart,2296,Desktop,Firefox,Email,Germany,False,False,7
+VISIT001485,2024-01-25 04:00:00,/home,2298,Desktop,Edge,Email,Australia,False,False,10
+VISIT001284,2024-01-25 08:00:00,/products,1237,Desktop,Edge,Paid Ads,France,True,False,1
+VISIT001069,2024-01-25 08:00:00,/blog,559,Mobile,Chrome,Organic Search,Australia,True,False,17
+VISIT001718,2024-01-25 10:00:00,/contact,2377,Desktop,Chrome,Organic Search,USA,True,False,18
+VISIT000208,2024-01-25 14:00:00,/home,3533,Mobile,Chrome,Organic Search,UK,False,False,11
+VISIT000818,2024-01-25 16:00:00,/blog,3000,Desktop,Chrome,Social Media,UK,False,False,2
+VISIT000249,2024-01-25 18:00:00,/blog,2562,Desktop,Chrome,Organic Search,Australia,False,False,13
+VISIT000117,2024-01-25 21:00:00,/product/clothing,2190,Desktop,Chrome,Organic Search,USA,False,False,18
+VISIT000322,2024-01-25 23:00:00,/checkout,2799,Mobile,Chrome,Paid Ads,France,False,False,15
+VISIT000218,2024-01-26 00:00:00,/checkout,1746,Mobile,Safari,Social Media,France,False,False,8
+VISIT000081,2024-01-26 10:00:00,/blog,1320,Mobile,Chrome,Organic Search,USA,True,False,5
+VISIT000396,2024-01-26 17:00:00,/product/clothing,2322,Mobile,Chrome,Organic Search,Canada,False,False,7
+VISIT000869,2024-01-26 22:00:00,/about,2468,Desktop,Edge,Email,Canada,False,False,11
+VISIT000394,2024-01-27 02:00:00,/products,802,Tablet,Firefox,Organic Search,France,False,False,5
+VISIT000507,2024-01-27 07:00:00,/products,2034,Mobile,Opera,Organic Search,UK,False,False,8
+VISIT001620,2024-01-27 08:00:00,/product/electronics,2898,Mobile,Safari,Email,Canada,True,False,4
+VISIT000489,2024-01-27 13:00:00,/products,2856,Desktop,Safari,Organic Search,France,False,False,1
+VISIT001508,2024-01-27 14:00:00,/product/electronics,3348,Desktop,Chrome,Organic Search,Japan,True,False,13
+VISIT001054,2024-01-27 18:00:00,/products,2596,Desktop,Safari,Social Media,Japan,True,False,7
+VISIT000899,2024-01-27 18:00:00,/checkout,3139,Desktop,Safari,Email,Canada,True,False,11
+VISIT001637,2024-01-27 18:00:00,/home,1686,Desktop,Chrome,Direct,UK,False,False,5
+VISIT001070,2024-01-28 00:00:00,/about,1147,Desktop,Safari,Direct,Canada,False,False,17
+VISIT001215,2024-01-28 00:00:00,/about,3045,Mobile,Chrome,Organic Search,Australia,False,False,3
+VISIT001950,2024-01-28 03:00:00,/home,1086,Desktop,Chrome,Organic Search,Germany,True,False,6
+VISIT001490,2024-01-28 07:00:00,/product/clothing,2233,Desktop,Chrome,Organic Search,USA,True,False,5
+VISIT001103,2024-01-28 07:00:00,/home,334,Mobile,Chrome,Direct,France,False,False,3
+VISIT000741,2024-01-28 07:00:00,/product/clothing,3481,Tablet,Chrome,Organic Search,Canada,False,False,1
+VISIT001277,2024-01-28 09:00:00,/checkout,3161,Desktop,Edge,Social Media,Canada,False,False,7
+VISIT000386,2024-01-28 23:00:00,/product/sports,569,Desktop,Chrome,Organic Search,Germany,False,False,2
+VISIT000184,2024-01-29 02:00:00,/product/clothing,65,Desktop,Firefox,Organic Search,Australia,True,False,16
+VISIT001687,2024-01-29 04:00:00,/about,2550,Mobile,Chrome,Social Media,Canada,True,False,16
+VISIT001118,2024-01-29 09:00:00,/blog,1079,Desktop,Safari,Email,Japan,False,False,6
+VISIT000647,2024-01-29 14:00:00,/products,3413,Desktop,Chrome,Organic Search,UK,False,False,13
+VISIT001123,2024-01-29 18:00:00,/blog,1894,Mobile,Chrome,Paid Ads,France,True,False,5
+VISIT001695,2024-01-30 00:00:00,/product/clothing,3043,Desktop,Chrome,Direct,France,False,False,14
+VISIT000294,2024-01-30 01:00:00,/product/electronics,1850,Desktop,Edge,Social Media,UK,True,False,10
+VISIT001755,2024-01-30 06:00:00,/home,2051,Desktop,Safari,Direct,Canada,False,False,6
+VISIT000561,2024-01-30 06:00:00,/product/sports,3191,Mobile,Safari,Direct,Canada,True,False,8
+VISIT000258,2024-01-30 12:00:00,/product/electronics,2822,Desktop,Edge,Email,Germany,False,False,18
+VISIT000781,2024-01-30 15:00:00,/cart,1044,Mobile,Safari,Social Media,Australia,False,False,12
+VISIT000217,2024-01-30 20:00:00,/cart,3248,Mobile,Chrome,Email,France,False,False,2
+VISIT001869,2024-01-30 23:00:00,/checkout,3289,Desktop,Chrome,Social Media,Germany,False,False,8
+VISIT001829,2024-01-31 01:00:00,/home,1643,Mobile,Chrome,Direct,UK,False,False,3
+VISIT000736,2024-01-31 02:00:00,/checkout,2699,Mobile,Safari,Social Media,Germany,True,False,13
+VISIT001169,2024-01-31 13:00:00,/checkout,2680,Mobile,Chrome,Email,Germany,True,False,5
+VISIT001725,2024-01-31 13:00:00,/product/electronics,106,Desktop,Chrome,Social Media,Canada,False,False,13
+VISIT001356,2024-01-31 13:00:00,/home,468,Mobile,Chrome,Paid Ads,Germany,False,False,11
+VISIT001678,2024-01-31 17:00:00,/blog,2364,Mobile,Edge,Organic Search,Germany,False,False,3
+VISIT000796,2024-01-31 18:00:00,/product/electronics,452,Mobile,Firefox,Organic Search,UK,False,False,8
+VISIT001262,2024-01-31 18:00:00,/checkout,986,Tablet,Firefox,Paid Ads,Canada,False,False,6
+VISIT000427,2024-01-31 21:00:00,/home,3460,Desktop,Chrome,Social Media,Australia,False,False,12
+VISIT000731,2024-02-01 02:00:00,/checkout,338,Desktop,Firefox,Social Media,Canada,False,False,18
+VISIT001360,2024-02-01 04:00:00,/product/clothing,2436,Tablet,Safari,Organic Search,France,False,False,1
+VISIT001614,2024-02-01 08:00:00,/product/clothing,3143,Mobile,Chrome,Email,Australia,False,False,2
+VISIT000133,2024-02-01 09:00:00,/product/clothing,3163,Desktop,Firefox,Direct,Japan,True,False,3
+VISIT000864,2024-02-01 17:00:00,/blog,2244,Mobile,Firefox,Direct,France,True,False,14
+VISIT000611,2024-02-01 19:00:00,/blog,2409,Mobile,Chrome,Organic Search,Japan,True,False,12
+VISIT001306,2024-02-02 01:00:00,/home,1113,Desktop,Chrome,Direct,Japan,True,False,8
+VISIT001601,2024-02-02 04:00:00,/product/clothing,1194,Desktop,Chrome,Direct,USA,True,False,19
+VISIT001629,2024-02-02 13:00:00,/about,2903,Mobile,Opera,Email,Canada,True,False,6
+VISIT001108,2024-02-02 14:00:00,/products,3128,Tablet,Firefox,Paid Ads,Japan,True,False,1
+VISIT000185,2024-02-02 18:00:00,/checkout,3334,Desktop,Firefox,Paid Ads,France,True,False,5
+VISIT001456,2024-02-02 20:00:00,/cart,1293,Mobile,Chrome,Direct,Canada,False,False,3
+VISIT000600,2024-02-02 20:00:00,/product/sports,254,Desktop,Chrome,Social Media,Japan,False,False,9
+VISIT001020,2024-02-02 20:00:00,/blog,1764,Desktop,Chrome,Organic Search,Japan,False,False,5
+VISIT001511,2024-02-03 03:00:00,/cart,2040,Desktop,Edge,Direct,Germany,True,False,3
+VISIT000640,2024-02-03 08:00:00,/home,3060,Mobile,Safari,Direct,UK,False,False,3
+VISIT000327,2024-02-03 12:00:00,/product/electronics,859,Desktop,Firefox,Direct,Japan,True,False,18
+VISIT001468,2024-02-03 16:00:00,/checkout,510,Mobile,Safari,Social Media,USA,True,False,15
+VISIT001012,2024-02-03 18:00:00,/product/electronics,1889,Mobile,Chrome,Organic Search,UK,False,True,12
+VISIT001824,2024-02-03 23:00:00,/about,1599,Mobile,Edge,Social Media,Japan,False,False,12
+VISIT000982,2024-02-04 02:00:00,/product/sports,3038,Desktop,Firefox,Direct,USA,False,False,18
+VISIT000338,2024-02-04 03:00:00,/product/electronics,3398,Mobile,Chrome,Organic Search,UK,False,False,11
+VISIT000715,2024-02-04 05:00:00,/product/sports,3028,Desktop,Edge,Email,USA,False,False,5
+VISIT000950,2024-02-04 09:00:00,/checkout,2143,Desktop,Safari,Social Media,Germany,False,False,18
+VISIT001512,2024-02-04 13:00:00,/blog,1792,Desktop,Firefox,Social Media,Germany,False,False,19
+VISIT001253,2024-02-04 21:00:00,/product/sports,1594,Desktop,Firefox,Direct,Canada,False,False,11
+VISIT000029,2024-02-04 23:00:00,/contact,2413,Desktop,Safari,Organic Search,Canada,True,False,14
+VISIT001107,2024-02-05 03:00:00,/cart,996,Mobile,Edge,Organic Search,Japan,False,False,5
+VISIT000472,2024-02-05 05:00:00,/cart,3426,Desktop,Opera,Social Media,USA,False,False,3
+VISIT000200,2024-02-05 11:00:00,/products,2642,Desktop,Edge,Organic Search,USA,True,True,10
+VISIT001119,2024-02-05 11:00:00,/cart,3585,Desktop,Chrome,Social Media,USA,False,False,3
+VISIT001540,2024-02-05 12:00:00,/checkout,89,Desktop,Safari,Direct,USA,True,False,7
+VISIT001530,2024-02-06 00:00:00,/product/clothing,1429,Desktop,Edge,Paid Ads,Germany,False,False,2
+VISIT000252,2024-02-06 05:00:00,/blog,1537,Mobile,Chrome,Organic Search,Japan,False,False,8
+VISIT000816,2024-02-06 08:00:00,/checkout,1240,Desktop,Safari,Social Media,Canada,False,False,4
+VISIT000003,2024-02-06 08:00:00,/blog,3400,Desktop,Chrome,Direct,Canada,True,False,18
+VISIT000897,2024-02-06 09:00:00,/product/clothing,1064,Mobile,Opera,Organic Search,USA,True,False,3
+VISIT000671,2024-02-06 09:00:00,/blog,1735,Desktop,Chrome,Paid Ads,Germany,False,False,1
+VISIT001932,2024-02-06 10:00:00,/product/electronics,1110,Desktop,Chrome,Organic Search,Germany,True,False,16
+VISIT001465,2024-02-06 12:00:00,/product/sports,2186,Desktop,Safari,Email,France,True,False,5
+VISIT001373,2024-02-06 15:00:00,/product/sports,1021,Mobile,Chrome,Direct,Germany,False,False,6
+VISIT001815,2024-02-06 19:00:00,/product/electronics,3278,Mobile,Firefox,Organic Search,France,False,False,10
+VISIT000591,2024-02-07 01:00:00,/contact,2883,Desktop,Edge,Organic Search,UK,False,False,3
+VISIT000382,2024-02-07 03:00:00,/about,2767,Desktop,Chrome,Organic Search,Germany,False,False,10
+VISIT001236,2024-02-07 16:00:00,/product/clothing,2850,Desktop,Safari,Paid Ads,Australia,False,False,2
+VISIT001455,2024-02-07 16:00:00,/about,1726,Mobile,Firefox,Direct,UK,False,False,18
+VISIT001766,2024-02-07 23:00:00,/product/electronics,2680,Desktop,Firefox,Organic Search,Germany,True,False,12
+VISIT001756,2024-02-08 08:00:00,/about,3106,Mobile,Firefox,Social Media,USA,False,False,2
+VISIT001726,2024-02-08 09:00:00,/checkout,2553,Mobile,Firefox,Social Media,Japan,False,False,8
+VISIT001332,2024-02-08 13:00:00,/products,1369,Mobile,Chrome,Direct,USA,True,False,17
+VISIT000164,2024-02-08 16:00:00,/products,2099,Desktop,Chrome,Social Media,USA,True,True,3
+VISIT000524,2024-02-08 16:00:00,/about,1318,Mobile,Firefox,Social Media,France,False,False,14
+VISIT000312,2024-02-09 02:00:00,/contact,1581,Desktop,Safari,Organic Search,UK,False,False,12
+VISIT000151,2024-02-09 03:00:00,/product/electronics,431,Desktop,Chrome,Direct,Germany,False,False,14
+VISIT000844,2024-02-09 16:00:00,/about,2441,Mobile,Chrome,Social Media,USA,False,False,19
+VISIT000822,2024-02-09 22:00:00,/products,1254,Desktop,Chrome,Social Media,France,True,False,7
+VISIT000610,2024-02-10 02:00:00,/product/clothing,3224,Desktop,Firefox,Organic Search,USA,True,False,1
+VISIT000661,2024-02-10 05:00:00,/products,567,Tablet,Chrome,Organic Search,France,False,False,19
+VISIT000518,2024-02-10 09:00:00,/product/electronics,2970,Desktop,Firefox,Organic Search,Germany,False,False,11
+VISIT000237,2024-02-10 09:00:00,/about,739,Desktop,Chrome,Email,USA,True,False,6
+VISIT001913,2024-02-10 09:00:00,/products,1482,Desktop,Firefox,Organic Search,UK,False,False,10
+VISIT000708,2024-02-10 15:00:00,/contact,19,Mobile,Chrome,Direct,Japan,False,False,10
+VISIT000086,2024-02-10 17:00:00,/product/sports,280,Desktop,Chrome,Email,USA,False,True,15
+VISIT001341,2024-02-10 20:00:00,/home,2120,Desktop,Safari,Paid Ads,USA,False,False,13
+VISIT000898,2024-02-10 22:00:00,/contact,1168,Mobile,Chrome,Social Media,Germany,False,False,15
+VISIT000938,2024-02-11 02:00:00,/checkout,578,Desktop,Edge,Organic Search,Australia,False,False,16
+VISIT001645,2024-02-11 03:00:00,/home,2260,Desktop,Firefox,Direct,Japan,False,False,15
+VISIT001033,2024-02-11 09:00:00,/blog,1306,Desktop,Firefox,Social Media,Australia,False,False,19
+VISIT001292,2024-02-11 15:00:00,/product/sports,2118,Desktop,Chrome,Organic Search,USA,True,False,6
+VISIT001322,2024-02-11 16:00:00,/home,3487,Tablet,Safari,Social Media,Germany,True,False,14
+VISIT000286,2024-02-12 01:00:00,/cart,245,Desktop,Safari,Direct,UK,False,False,18
+VISIT001256,2024-02-12 16:00:00,/product/sports,2973,Desktop,Edge,Direct,Japan,False,False,17
+VISIT001095,2024-02-12 16:00:00,/products,3190,Mobile,Chrome,Direct,UK,False,False,9
+VISIT001374,2024-02-12 22:00:00,/checkout,662,Mobile,Chrome,Organic Search,Japan,False,False,2
+VISIT001133,2024-02-13 03:00:00,/checkout,2839,Desktop,Firefox,Email,UK,False,False,1
+VISIT000537,2024-02-13 15:00:00,/home,1447,Mobile,Chrome,Direct,Germany,False,False,17
+VISIT000334,2024-02-13 18:00:00,/checkout,3146,Mobile,Firefox,Organic Search,USA,False,False,9
+VISIT000924,2024-02-13 18:00:00,/checkout,456,Desktop,Edge,Social Media,UK,False,False,17
+VISIT001461,2024-02-14 07:00:00,/checkout,2643,Mobile,Edge,Organic Search,Japan,True,True,4
+VISIT000093,2024-02-14 09:00:00,/checkout,2888,Desktop,Edge,Email,USA,True,False,1
+VISIT000614,2024-02-14 11:00:00,/products,2209,Mobile,Chrome,Organic Search,Germany,False,False,18
+VISIT001701,2024-02-14 12:00:00,/product/electronics,1064,Mobile,Safari,Direct,France,False,False,13
+VISIT000978,2024-02-14 18:00:00,/blog,1116,Mobile,Chrome,Organic Search,Canada,True,False,14
+VISIT001134,2024-02-14 19:00:00,/product/sports,451,Mobile,Firefox,Direct,Japan,False,False,5
+VISIT001933,2024-02-14 21:00:00,/product/sports,682,Mobile,Chrome,Organic Search,Australia,False,False,14
+VISIT001888,2024-02-14 23:00:00,/product/electronics,424,Mobile,Safari,Direct,Australia,False,False,11
+VISIT001685,2024-02-15 02:00:00,/contact,744,Desktop,Firefox,Social Media,UK,True,False,6
+VISIT000590,2024-02-15 03:00:00,/checkout,3557,Mobile,Chrome,Paid Ads,USA,False,False,5
+VISIT000642,2024-02-15 16:00:00,/home,1340,Mobile,Safari,Organic Search,UK,True,False,2
+VISIT000423,2024-02-15 16:00:00,/products,3195,Desktop,Firefox,Social Media,USA,True,False,1
+VISIT001954,2024-02-15 18:00:00,/blog,1349,Desktop,Safari,Social Media,Canada,False,False,12
+VISIT000370,2024-02-15 20:00:00,/cart,2180,Mobile,Chrome,Direct,USA,True,False,5
+VISIT000998,2024-02-15 21:00:00,/products,2991,Desktop,Safari,Organic Search,Canada,False,False,13
+VISIT000541,2024-02-15 23:00:00,/contact,2769,Desktop,Chrome,Direct,USA,False,False,15
+VISIT001391,2024-02-15 23:00:00,/blog,3161,Tablet,Edge,Organic Search,France,True,False,8
+VISIT001703,2024-02-16 00:00:00,/blog,1301,Desktop,Firefox,Social Media,Germany,False,False,2
+VISIT001148,2024-02-16 02:00:00,/about,2791,Mobile,Chrome,Organic Search,Germany,True,False,19
+VISIT001584,2024-02-16 02:00:00,/about,2021,Mobile,Chrome,Direct,Germany,False,False,19
+VISIT001901,2024-02-16 03:00:00,/product/electronics,1048,Desktop,Chrome,Social Media,UK,False,False,16
+VISIT001181,2024-02-16 12:00:00,/home,214,Mobile,Chrome,Direct,Japan,False,False,15
+VISIT000270,2024-02-16 13:00:00,/products,606,Mobile,Safari,Direct,UK,False,False,7
+VISIT001234,2024-02-16 15:00:00,/product/sports,1634,Desktop,Chrome,Email,UK,True,False,4
+VISIT001868,2024-02-16 20:00:00,/contact,1948,Mobile,Chrome,Direct,USA,True,False,18
+VISIT001965,2024-02-16 22:00:00,/cart,1339,Mobile,Chrome,Direct,Canada,True,False,11
+VISIT001896,2024-02-17 03:00:00,/product/electronics,3212,Desktop,Chrome,Social Media,Australia,True,False,16
+VISIT000706,2024-02-17 03:00:00,/product/sports,347,Desktop,Chrome,Organic Search,USA,True,False,7
+VISIT001606,2024-02-17 05:00:00,/product/clothing,926,Desktop,Chrome,Direct,Canada,True,False,19
+VISIT001891,2024-02-17 07:00:00,/checkout,1294,Desktop,Chrome,Paid Ads,France,False,False,5
+VISIT000503,2024-02-17 10:00:00,/products,3237,Mobile,Chrome,Organic Search,UK,False,False,10
+VISIT000388,2024-02-17 18:00:00,/about,3211,Desktop,Chrome,Organic Search,Canada,False,False,3
+VISIT000439,2024-02-17 21:00:00,/about,1959,Mobile,Chrome,Social Media,France,False,False,16
+VISIT001785,2024-02-18 05:00:00,/product/clothing,2598,Mobile,Chrome,Email,Australia,True,False,17
+VISIT000285,2024-02-18 06:00:00,/about,2976,Desktop,Chrome,Paid Ads,Canada,True,False,18
+VISIT000305,2024-02-18 14:00:00,/checkout,23,Mobile,Firefox,Direct,USA,False,False,5
+VISIT000571,2024-02-18 17:00:00,/home,569,Mobile,Chrome,Social Media,France,True,False,13
+VISIT000276,2024-02-19 04:00:00,/about,1870,Mobile,Firefox,Organic Search,USA,False,False,18
+VISIT001060,2024-02-19 10:00:00,/contact,3321,Desktop,Safari,Social Media,Germany,True,False,15
+VISIT001904,2024-02-19 13:00:00,/product/electronics,551,Desktop,Chrome,Social Media,Germany,False,False,14
+VISIT000006,2024-02-19 14:00:00,/checkout,1004,Desktop,Chrome,Email,Australia,False,False,3
+VISIT000732,2024-02-19 14:00:00,/blog,2179,Desktop,Firefox,Social Media,Australia,False,False,3
+VISIT001916,2024-02-19 16:00:00,/cart,1765,Mobile,Edge,Direct,Australia,True,False,1
+VISIT001745,2024-02-19 18:00:00,/contact,2574,Mobile,Firefox,Organic Search,USA,False,False,6
+VISIT000990,2024-02-19 18:00:00,/products,391,Desktop,Chrome,Direct,Japan,False,False,14
+VISIT001279,2024-02-19 20:00:00,/product/clothing,1098,Mobile,Edge,Direct,Japan,False,False,11
+VISIT000446,2024-02-19 21:00:00,/products,3526,Desktop,Firefox,Organic Search,USA,False,False,14
+VISIT000018,2024-02-19 23:00:00,/product/clothing,66,Desktop,Chrome,Email,UK,True,False,5
+VISIT000546,2024-02-20 03:00:00,/contact,863,Mobile,Chrome,Organic Search,USA,True,False,9
+VISIT001761,2024-02-20 09:00:00,/cart,3419,Desktop,Opera,Social Media,USA,False,False,10
+VISIT001684,2024-02-20 12:00:00,/cart,986,Mobile,Edge,Email,France,False,False,11
+VISIT000415,2024-02-20 17:00:00,/product/sports,441,Tablet,Chrome,Social Media,Australia,True,False,10
+VISIT001663,2024-02-21 01:00:00,/product/clothing,1783,Desktop,Chrome,Social Media,Canada,False,False,12
+VISIT000598,2024-02-21 01:00:00,/blog,1475,Tablet,Chrome,Organic Search,Australia,True,False,18
+VISIT000992,2024-02-21 01:00:00,/cart,2447,Desktop,Chrome,Organic Search,Canada,False,False,14
+VISIT000512,2024-02-21 06:00:00,/contact,391,Tablet,Firefox,Social Media,Japan,False,False,7
+VISIT001263,2024-02-21 10:00:00,/about,3259,Mobile,Chrome,Organic Search,UK,False,False,19
+VISIT001864,2024-02-21 18:00:00,/product/electronics,3162,Desktop,Edge,Direct,UK,False,False,16
+VISIT001929,2024-02-21 20:00:00,/home,3245,Desktop,Safari,Organic Search,Japan,True,False,13
+VISIT001248,2024-02-21 22:00:00,/cart,3226,Desktop,Chrome,Paid Ads,Canada,False,False,5
+VISIT000352,2024-02-22 00:00:00,/products,1098,Mobile,Chrome,Organic Search,France,False,False,14
+VISIT001881,2024-02-22 03:00:00,/blog,631,Desktop,Chrome,Organic Search,France,True,False,13
+VISIT001668,2024-02-22 06:00:00,/about,2383,Desktop,Chrome,Social Media,Japan,False,False,12
+VISIT000211,2024-02-22 11:00:00,/product/sports,2057,Desktop,Chrome,Social Media,France,False,False,6
+VISIT000103,2024-02-22 11:00:00,/cart,2128,Desktop,Opera,Direct,Germany,False,False,11
+VISIT001370,2024-02-22 12:00:00,/contact,2032,Desktop,Chrome,Paid Ads,France,True,False,9
+VISIT001448,2024-02-22 14:00:00,/checkout,3032,Mobile,Chrome,Organic Search,Australia,True,False,3
+VISIT001600,2024-02-22 19:00:00,/product/electronics,3555,Desktop,Edge,Direct,UK,False,False,17
+VISIT000672,2024-02-22 19:00:00,/product/electronics,994,Desktop,Safari,Social Media,Australia,False,False,15
+VISIT000101,2024-02-22 20:00:00,/about,1595,Mobile,Safari,Organic Search,Canada,False,False,6
+VISIT001353,2024-02-22 21:00:00,/product/clothing,1990,Desktop,Safari,Direct,UK,True,False,3
+VISIT001416,2024-02-22 21:00:00,/home,575,Desktop,Safari,Organic Search,Australia,False,False,8
+VISIT001122,2024-02-23 00:00:00,/cart,1962,Mobile,Edge,Organic Search,Australia,False,False,11
+VISIT001175,2024-02-23 03:00:00,/blog,148,Desktop,Edge,Organic Search,France,False,False,7
+VISIT000895,2024-02-23 05:00:00,/about,1309,Desktop,Chrome,Direct,Australia,True,False,6
+VISIT001752,2024-02-23 05:00:00,/home,3526,Mobile,Edge,Email,Japan,True,False,6
+VISIT001605,2024-02-23 06:00:00,/cart,537,Mobile,Edge,Social Media,Australia,True,False,10
+VISIT000267,2024-02-23 08:00:00,/contact,2451,Desktop,Edge,Paid Ads,Germany,True,False,12
+VISIT001845,2024-02-23 14:00:00,/product/clothing,3252,Desktop,Safari,Social Media,USA,True,True,1
+VISIT000780,2024-02-23 17:00:00,/product/clothing,1826,Desktop,Safari,Direct,UK,True,False,17
+VISIT000514,2024-02-23 17:00:00,/product/sports,3000,Desktop,Chrome,Social Media,USA,True,False,4
+VISIT001358,2024-02-23 19:00:00,/about,473,Desktop,Safari,Organic Search,Japan,True,False,6
+VISIT001907,2024-02-23 22:00:00,/checkout,3412,Mobile,Chrome,Social Media,Canada,False,False,7
+VISIT001548,2024-02-23 23:00:00,/cart,481,Mobile,Edge,Email,Japan,False,False,2
+VISIT001315,2024-02-24 03:00:00,/products,392,Desktop,Safari,Direct,USA,True,False,12
+VISIT000441,2024-02-24 08:00:00,/checkout,887,Desktop,Safari,Organic Search,UK,False,False,12
+VISIT000128,2024-02-24 09:00:00,/home,97,Desktop,Chrome,Organic Search,Canada,False,False,11
+VISIT001413,2024-02-24 17:00:00,/about,2664,Desktop,Firefox,Organic Search,Canada,True,False,14
+VISIT000727,2024-02-24 20:00:00,/about,85,Desktop,Chrome,Organic Search,UK,False,False,11
+VISIT000306,2024-02-24 22:00:00,/home,2221,Desktop,Safari,Social Media,Japan,False,False,16
+VISIT000014,2024-02-24 22:00:00,/home,410,Desktop,Chrome,Social Media,Germany,False,False,1
+VISIT000094,2024-02-24 22:00:00,/products,1236,Desktop,Chrome,Social Media,Germany,True,False,3
+VISIT000540,2024-02-24 23:00:00,/products,28,Desktop,Chrome,Social Media,Germany,True,False,13
+VISIT000531,2024-02-25 00:00:00,/about,3112,Mobile,Chrome,Organic Search,Japan,False,False,10
+VISIT000714,2024-02-25 05:00:00,/checkout,804,Mobile,Safari,Organic Search,Canada,True,False,9
+VISIT001071,2024-02-25 07:00:00,/products,3420,Desktop,Firefox,Direct,Australia,False,True,16
+VISIT001207,2024-02-25 17:00:00,/blog,3478,Mobile,Firefox,Organic Search,Australia,False,False,5
+VISIT001014,2024-02-25 18:00:00,/products,22,Desktop,Firefox,Organic Search,Germany,True,False,11
+VISIT001966,2024-02-25 21:00:00,/contact,1157,Desktop,Chrome,Direct,Japan,False,False,15
+VISIT000505,2024-02-26 12:00:00,/cart,2162,Desktop,Chrome,Paid Ads,USA,False,False,14
+VISIT000436,2024-02-26 14:00:00,/product/clothing,2899,Mobile,Chrome,Social Media,UK,False,False,12
+VISIT000548,2024-02-26 18:00:00,/about,237,Desktop,Chrome,Social Media,France,True,False,16
+VISIT001541,2024-02-26 22:00:00,/products,3112,Desktop,Safari,Email,USA,True,False,15
+VISIT001105,2024-02-26 23:00:00,/products,2301,Mobile,Chrome,Organic Search,France,False,False,6
+VISIT001092,2024-02-27 02:00:00,/home,1515,Desktop,Chrome,Direct,Japan,True,False,9
+VISIT000186,2024-02-27 03:00:00,/blog,2691,Tablet,Firefox,Organic Search,Canada,True,False,17
+VISIT001338,2024-02-27 03:00:00,/product/sports,2742,Mobile,Chrome,Email,UK,False,False,2
+VISIT001061,2024-02-27 04:00:00,/product/clothing,880,Desktop,Chrome,Direct,Canada,False,False,11
+VISIT000579,2024-02-27 05:00:00,/product/sports,214,Mobile,Chrome,Organic Search,France,False,False,5
+VISIT000358,2024-02-27 13:00:00,/blog,549,Desktop,Firefox,Organic Search,Australia,True,False,4
+VISIT001740,2024-02-27 18:00:00,/product/electronics,1066,Desktop,Chrome,Direct,Japan,False,False,11
+VISIT000773,2024-02-27 20:00:00,/contact,1525,Mobile,Firefox,Paid Ads,USA,True,False,12
+VISIT001796,2024-02-28 03:00:00,/checkout,1772,Desktop,Chrome,Direct,Germany,False,False,3
+VISIT000567,2024-02-28 05:00:00,/product/sports,879,Desktop,Safari,Organic Search,France,False,False,10
+VISIT001136,2024-02-28 05:00:00,/checkout,920,Tablet,Edge,Paid Ads,Germany,False,False,16
+VISIT001624,2024-02-29 00:00:00,/checkout,1682,Desktop,Safari,Direct,Australia,False,False,19
+VISIT000083,2024-02-29 07:00:00,/product/sports,2757,Desktop,Safari,Social Media,USA,False,False,8
+VISIT000482,2024-02-29 08:00:00,/about,1739,Mobile,Firefox,Organic Search,Australia,True,False,2
+VISIT001043,2024-02-29 13:00:00,/products,1000,Mobile,Firefox,Email,Australia,False,False,14
+VISIT000936,2024-02-29 15:00:00,/product/sports,287,Desktop,Chrome,Organic Search,France,False,False,8
+VISIT000813,2024-02-29 17:00:00,/cart,1731,Desktop,Chrome,Organic Search,Canada,True,False,6
+VISIT000755,2024-02-29 19:00:00,/product/electronics,630,Tablet,Chrome,Organic Search,Australia,False,False,18
+VISIT000383,2024-02-29 23:00:00,/blog,3560,Mobile,Chrome,Direct,USA,False,False,11
+VISIT000995,2024-03-01 06:00:00,/blog,2926,Desktop,Firefox,Organic Search,France,True,False,12
+VISIT001982,2024-03-01 10:00:00,/contact,1221,Mobile,Chrome,Direct,UK,False,False,10
+VISIT001151,2024-03-01 10:00:00,/cart,3016,Desktop,Chrome,Social Media,USA,False,False,11
+VISIT000079,2024-03-01 13:00:00,/contact,722,Tablet,Chrome,Organic Search,Australia,False,False,10
+VISIT000601,2024-03-01 13:00:00,/product/clothing,2635,Mobile,Edge,Organic Search,Canada,False,False,5
+VISIT000220,2024-03-01 18:00:00,/cart,2780,Desktop,Firefox,Direct,Canada,False,False,16
+VISIT000871,2024-03-01 22:00:00,/home,594,Mobile,Edge,Email,Australia,True,False,12
+VISIT001462,2024-03-01 23:00:00,/contact,1011,Tablet,Chrome,Organic Search,UK,True,False,18
+VISIT000693,2024-03-02 00:00:00,/blog,1209,Mobile,Chrome,Organic Search,Japan,False,False,1
+VISIT001524,2024-03-02 01:00:00,/contact,3223,Mobile,Firefox,Social Media,France,False,False,13
+VISIT000442,2024-03-02 03:00:00,/products,1148,Desktop,Firefox,Organic Search,Germany,True,False,19
+VISIT000976,2024-03-02 09:00:00,/blog,2857,Mobile,Opera,Organic Search,Japan,False,False,17
+VISIT000550,2024-03-02 10:00:00,/blog,1687,Desktop,Firefox,Organic Search,USA,True,False,17
+VISIT001542,2024-03-02 13:00:00,/cart,994,Desktop,Chrome,Social Media,Japan,True,False,3
+VISIT000313,2024-03-02 21:00:00,/contact,1061,Desktop,Chrome,Organic Search,Canada,False,False,1
+VISIT001287,2024-03-02 23:00:00,/contact,610,Desktop,Firefox,Organic Search,Australia,True,False,13
+VISIT000574,2024-03-03 01:00:00,/home,445,Desktop,Opera,Direct,UK,True,False,18
+VISIT001233,2024-03-03 06:00:00,/product/electronics,911,Mobile,Edge,Paid Ads,Australia,False,False,2
+VISIT000878,2024-03-03 09:00:00,/contact,1864,Tablet,Edge,Organic Search,Japan,False,True,4
+VISIT000916,2024-03-03 10:00:00,/product/electronics,3137,Desktop,Chrome,Organic Search,Australia,False,False,2
+VISIT000123,2024-03-03 18:00:00,/checkout,2524,Desktop,Firefox,Organic Search,UK,True,False,5
+VISIT000964,2024-03-03 18:00:00,/blog,1865,Desktop,Chrome,Social Media,Australia,True,False,1
+VISIT001093,2024-03-03 18:00:00,/product/electronics,2050,Desktop,Chrome,Organic Search,Australia,False,True,4
+VISIT001961,2024-03-03 19:00:00,/cart,1103,Mobile,Chrome,Organic Search,France,False,False,8
+VISIT000307,2024-03-03 19:00:00,/products,1453,Desktop,Firefox,Organic Search,France,False,False,13
+VISIT001914,2024-03-03 20:00:00,/product/sports,1446,Desktop,Chrome,Organic Search,UK,True,False,9
+VISIT001934,2024-03-04 01:00:00,/product/sports,526,Desktop,Chrome,Organic Search,USA,False,False,2
+VISIT001429,2024-03-04 07:00:00,/cart,2992,Desktop,Chrome,Organic Search,Australia,False,False,1
+VISIT001252,2024-03-04 11:00:00,/products,1606,Desktop,Firefox,Paid Ads,Japan,False,False,18
+VISIT001830,2024-03-04 15:00:00,/blog,704,Desktop,Chrome,Paid Ads,USA,False,False,4
+VISIT001404,2024-03-04 16:00:00,/checkout,473,Tablet,Chrome,Direct,UK,True,False,5
+VISIT000082,2024-03-04 19:00:00,/blog,3334,Desktop,Firefox,Paid Ads,Australia,True,False,11
+VISIT000513,2024-03-04 19:00:00,/product/electronics,2195,Tablet,Chrome,Social Media,Canada,False,False,9
+VISIT000955,2024-03-04 21:00:00,/contact,1810,Desktop,Chrome,Email,USA,True,False,6
+VISIT001245,2024-03-05 02:00:00,/contact,443,Mobile,Chrome,Paid Ads,Germany,False,False,16
+VISIT001931,2024-03-05 03:00:00,/checkout,2141,Mobile,Chrome,Email,USA,False,False,10
+VISIT001231,2024-03-05 04:00:00,/checkout,1761,Desktop,Chrome,Organic Search,UK,False,False,17
+VISIT001201,2024-03-05 08:00:00,/cart,569,Desktop,Chrome,Organic Search,Germany,False,False,18
+VISIT000653,2024-03-05 12:00:00,/blog,1824,Desktop,Firefox,Paid Ads,USA,True,False,9
+VISIT001517,2024-03-05 16:00:00,/products,3142,Desktop,Opera,Organic Search,Australia,False,False,11
+VISIT001402,2024-03-05 18:00:00,/products,1982,Desktop,Safari,Paid Ads,Japan,False,False,3
+VISIT001442,2024-03-05 19:00:00,/cart,1658,Desktop,Safari,Organic Search,USA,False,False,12
+VISIT000881,2024-03-05 21:00:00,/checkout,3046,Desktop,Chrome,Social Media,Australia,True,False,3
+VISIT001732,2024-03-06 00:00:00,/about,1828,Desktop,Chrome,Organic Search,France,False,False,6
+VISIT001467,2024-03-06 09:00:00,/about,1865,Desktop,Edge,Paid Ads,Germany,False,False,11
+VISIT001288,2024-03-06 14:00:00,/blog,1509,Mobile,Chrome,Organic Search,France,False,False,11
+VISIT000181,2024-03-06 17:00:00,/product/clothing,2083,Desktop,Chrome,Email,Canada,False,False,19
+VISIT001385,2024-03-06 20:00:00,/products,779,Mobile,Firefox,Direct,UK,True,False,2
+VISIT001518,2024-03-06 22:00:00,/product/clothing,3583,Desktop,Chrome,Organic Search,UK,False,False,18
+VISIT001967,2024-03-06 23:00:00,/checkout,28,Desktop,Firefox,Organic Search,Germany,False,False,8
+VISIT000342,2024-03-07 01:00:00,/product/sports,2162,Desktop,Firefox,Direct,Canada,False,False,4
+VISIT000076,2024-03-07 01:00:00,/blog,323,Desktop,Opera,Organic Search,Canada,False,False,15
+VISIT000311,2024-03-07 07:00:00,/contact,1699,Desktop,Opera,Organic Search,Japan,False,False,17
+VISIT000807,2024-03-07 09:00:00,/blog,2201,Mobile,Chrome,Organic Search,USA,False,False,8
+VISIT000764,2024-03-07 11:00:00,/product/clothing,1389,Desktop,Safari,Organic Search,Japan,True,False,7
+VISIT001711,2024-03-07 22:00:00,/product/sports,1052,Desktop,Edge,Organic Search,Canada,True,False,6
+VISIT000989,2024-03-07 22:00:00,/product/clothing,116,Desktop,Chrome,Email,USA,False,False,18
+VISIT000073,2024-03-08 01:00:00,/product/clothing,1174,Desktop,Safari,Paid Ads,Japan,True,False,13
+VISIT000390,2024-03-08 01:00:00,/cart,3213,Mobile,Firefox,Social Media,Australia,False,False,4
+VISIT000328,2024-03-08 09:00:00,/checkout,1555,Desktop,Firefox,Organic Search,Canada,True,False,16
+VISIT001706,2024-03-08 14:00:00,/product/sports,1602,Desktop,Chrome,Organic Search,Canada,False,False,12
+VISIT001327,2024-03-08 19:00:00,/contact,1828,Desktop,Chrome,Social Media,USA,True,False,17
+VISIT001037,2024-03-08 21:00:00,/cart,1606,Desktop,Chrome,Direct,France,True,False,7
+VISIT001831,2024-03-08 21:00:00,/about,3310,Mobile,Safari,Email,Australia,False,False,12
+VISIT001302,2024-03-08 23:00:00,/product/sports,1214,Desktop,Firefox,Direct,France,False,False,19
+VISIT001749,2024-03-09 03:00:00,/product/clothing,842,Desktop,Chrome,Social Media,UK,True,False,1
+VISIT000884,2024-03-09 03:00:00,/product/clothing,3375,Mobile,Firefox,Paid Ads,Germany,True,True,6
+VISIT000010,2024-03-09 05:00:00,/products,2069,Desktop,Chrome,Organic Search,Australia,True,True,10
+VISIT000790,2024-03-09 08:00:00,/about,1385,Mobile,Edge,Social Media,Canada,False,False,10
+VISIT001799,2024-03-09 12:00:00,/blog,3295,Mobile,Firefox,Social Media,Canada,False,False,4
+VISIT000760,2024-03-09 20:00:00,/cart,426,Desktop,Chrome,Social Media,Canada,True,False,2
+VISIT001464,2024-03-09 23:00:00,/product/sports,1056,Mobile,Firefox,Direct,Canada,True,False,11
+VISIT000593,2024-03-10 01:00:00,/product/electronics,2145,Mobile,Firefox,Paid Ads,UK,False,False,17
+VISIT001895,2024-03-10 01:00:00,/products,1521,Mobile,Edge,Social Media,UK,True,False,4
+VISIT000891,2024-03-10 05:00:00,/blog,2997,Mobile,Firefox,Social Media,Canada,False,False,10
+VISIT001978,2024-03-10 05:00:00,/contact,2778,Desktop,Chrome,Direct,Canada,False,False,14
+VISIT000058,2024-03-10 07:00:00,/cart,1349,Tablet,Edge,Organic Search,Canada,False,False,14
+VISIT000687,2024-03-10 12:00:00,/contact,1166,Desktop,Safari,Email,Japan,True,False,7
+VISIT001776,2024-03-10 13:00:00,/contact,3506,Mobile,Safari,Organic Search,Canada,False,False,16
+VISIT000023,2024-03-10 15:00:00,/product/clothing,747,Desktop,Chrome,Organic Search,Japan,False,False,8
+VISIT001980,2024-03-10 19:00:00,/checkout,1468,Desktop,Chrome,Organic Search,Australia,True,False,9
+VISIT000666,2024-03-11 02:00:00,/checkout,1279,Desktop,Opera,Paid Ads,Australia,True,False,4
+VISIT000201,2024-03-11 04:00:00,/product/electronics,349,Desktop,Safari,Direct,USA,False,False,7
+VISIT000462,2024-03-11 13:00:00,/home,1876,Desktop,Firefox,Organic Search,Australia,True,False,3
+VISIT000889,2024-03-11 13:00:00,/product/electronics,1086,Mobile,Firefox,Paid Ads,Australia,True,False,12
+VISIT001889,2024-03-11 13:00:00,/about,3434,Mobile,Chrome,Organic Search,Australia,False,False,10
+VISIT001309,2024-03-12 03:00:00,/contact,2877,Mobile,Chrome,Direct,Japan,False,False,19
+VISIT001487,2024-03-12 05:00:00,/home,2043,Tablet,Chrome,Organic Search,Canada,True,False,10
+VISIT001772,2024-03-12 08:00:00,/product/electronics,2056,Mobile,Chrome,Direct,France,True,False,4
+VISIT000296,2024-03-12 16:00:00,/product/clothing,1852,Mobile,Firefox,Email,France,True,False,8
+VISIT000967,2024-03-12 20:00:00,/products,1513,Mobile,Firefox,Email,Australia,False,False,17
+VISIT001104,2024-03-12 21:00:00,/cart,2882,Desktop,Edge,Direct,UK,True,False,18
+VISIT000529,2024-03-12 22:00:00,/products,2475,Desktop,Chrome,Direct,Canada,False,False,11
+VISIT000193,2024-03-12 22:00:00,/cart,976,Mobile,Chrome,Direct,Australia,False,False,18
+VISIT000947,2024-03-12 22:00:00,/blog,2416,Mobile,Chrome,Paid Ads,Canada,False,False,2
+VISIT000511,2024-03-13 04:00:00,/home,1900,Mobile,Chrome,Paid Ads,Canada,False,False,7
+VISIT000301,2024-03-13 06:00:00,/checkout,178,Tablet,Chrome,Organic Search,USA,False,False,11
+VISIT001775,2024-03-13 07:00:00,/blog,3119,Mobile,Chrome,Social Media,France,False,False,14
+VISIT000406,2024-03-13 14:00:00,/products,1787,Tablet,Firefox,Direct,UK,True,False,5
+VISIT000197,2024-03-13 18:00:00,/about,811,Desktop,Chrome,Organic Search,France,True,False,7
+VISIT000136,2024-03-13 19:00:00,/checkout,3463,Mobile,Firefox,Email,Germany,False,False,3
+VISIT001567,2024-03-14 00:00:00,/products,3201,Desktop,Chrome,Social Media,France,False,False,1
+VISIT000716,2024-03-14 04:00:00,/products,1658,Tablet,Safari,Organic Search,Australia,True,False,1
+VISIT001589,2024-03-14 07:00:00,/products,3022,Desktop,Chrome,Organic Search,Canada,False,False,6
+VISIT001016,2024-03-14 13:00:00,/product/sports,1109,Tablet,Chrome,Social Media,Canada,False,False,9
+VISIT001509,2024-03-14 16:00:00,/checkout,2034,Desktop,Chrome,Organic Search,UK,False,False,16
+VISIT000562,2024-03-14 22:00:00,/checkout,724,Mobile,Edge,Paid Ads,Australia,False,False,16
+VISIT001266,2024-03-15 03:00:00,/about,1203,Mobile,Chrome,Organic Search,Australia,False,False,16
+VISIT001618,2024-03-15 05:00:00,/product/sports,21,Mobile,Chrome,Organic Search,Canada,False,False,6
+VISIT001331,2024-03-15 08:00:00,/product/clothing,653,Desktop,Firefox,Social Media,France,True,False,1
+VISIT000142,2024-03-15 13:00:00,/product/clothing,3013,Desktop,Chrome,Direct,Japan,True,False,7
+VISIT000875,2024-03-15 14:00:00,/products,3098,Desktop,Chrome,Organic Search,Germany,False,False,1
+VISIT000452,2024-03-15 16:00:00,/home,1913,Mobile,Firefox,Direct,UK,False,False,7
+VISIT000568,2024-03-15 21:00:00,/product/clothing,1080,Desktop,Edge,Direct,UK,False,True,5
+VISIT000269,2024-03-16 01:00:00,/product/electronics,3123,Desktop,Firefox,Email,USA,False,False,4
+VISIT000122,2024-03-16 01:00:00,/products,778,Desktop,Safari,Paid Ads,France,False,False,16
+VISIT000850,2024-03-16 05:00:00,/cart,3296,Mobile,Safari,Paid Ads,UK,True,False,16
+VISIT001213,2024-03-16 07:00:00,/blog,419,Mobile,Safari,Email,UK,True,True,3
+VISIT001482,2024-03-16 08:00:00,/products,2947,Desktop,Chrome,Direct,Germany,False,False,8
+VISIT000308,2024-03-16 08:00:00,/checkout,2814,Mobile,Chrome,Direct,France,False,False,6
+VISIT001667,2024-03-16 08:00:00,/product/sports,1766,Desktop,Firefox,Organic Search,Japan,False,False,8
+VISIT000135,2024-03-16 12:00:00,/product/sports,1319,Mobile,Chrome,Social Media,Germany,False,False,17
+VISIT000363,2024-03-16 14:00:00,/product/electronics,628,Tablet,Firefox,Organic Search,UK,False,False,11
+VISIT000739,2024-03-16 16:00:00,/about,2820,Mobile,Chrome,Direct,UK,False,False,18
+VISIT001588,2024-03-16 17:00:00,/product/sports,939,Mobile,Chrome,Direct,Germany,False,False,18
+VISIT000921,2024-03-16 19:00:00,/about,883,Mobile,Firefox,Social Media,USA,True,False,18
+VISIT001679,2024-03-16 19:00:00,/product/electronics,1883,Desktop,Chrome,Paid Ads,UK,True,False,19
+VISIT001975,2024-03-16 23:00:00,/contact,1081,Desktop,Chrome,Organic Search,Australia,False,False,18
+VISIT000493,2024-03-17 01:00:00,/cart,2539,Desktop,Chrome,Paid Ads,UK,True,False,15
+VISIT000418,2024-03-17 05:00:00,/contact,2110,Mobile,Chrome,Organic Search,UK,True,False,12
+VISIT000034,2024-03-17 13:00:00,/products,32,Desktop,Chrome,Organic Search,Canada,True,True,11
+VISIT000062,2024-03-17 23:00:00,/product/clothing,2773,Desktop,Safari,Organic Search,UK,False,False,19
+VISIT001863,2024-03-17 23:00:00,/blog,2126,Mobile,Safari,Organic Search,Canada,True,False,10
+VISIT000805,2024-03-18 05:00:00,/home,639,Mobile,Safari,Organic Search,Australia,True,False,7
+VISIT001968,2024-03-18 05:00:00,/cart,1290,Desktop,Edge,Direct,USA,True,False,14
+VISIT001647,2024-03-18 09:00:00,/cart,425,Mobile,Chrome,Organic Search,Japan,False,False,19
+VISIT001168,2024-03-18 12:00:00,/products,1601,Mobile,Chrome,Direct,Australia,True,False,1
+VISIT001877,2024-03-18 15:00:00,/home,3158,Mobile,Safari,Social Media,Canada,False,False,6
+VISIT000225,2024-03-18 16:00:00,/products,2521,Desktop,Firefox,Organic Search,France,True,False,10
+VISIT001073,2024-03-18 21:00:00,/product/electronics,3043,Desktop,Safari,Direct,Japan,False,False,7
+VISIT000981,2024-03-19 00:00:00,/product/sports,744,Desktop,Chrome,Organic Search,UK,True,False,13
+VISIT000890,2024-03-19 05:00:00,/product/sports,983,Desktop,Chrome,Direct,Germany,False,False,5
+VISIT001127,2024-03-19 06:00:00,/about,3268,Mobile,Opera,Social Media,Australia,False,False,7
+VISIT000629,2024-03-19 07:00:00,/cart,1670,Mobile,Chrome,Direct,France,False,False,2
+VISIT000587,2024-03-19 10:00:00,/about,2467,Mobile,Chrome,Social Media,Australia,False,False,12
+VISIT000710,2024-03-19 10:00:00,/about,1520,Desktop,Chrome,Social Media,UK,False,False,17
+VISIT000853,2024-03-19 11:00:00,/home,1917,Desktop,Firefox,Social Media,Australia,True,False,15
+VISIT000506,2024-03-19 12:00:00,/product/electronics,1738,Desktop,Chrome,Organic Search,Canada,True,False,5
+VISIT000520,2024-03-19 14:00:00,/cart,459,Mobile,Edge,Direct,UK,True,False,14
+VISIT001946,2024-03-19 19:00:00,/contact,1511,Mobile,Edge,Social Media,Australia,False,False,14
+VISIT001943,2024-03-19 19:00:00,/checkout,696,Desktop,Chrome,Email,Germany,False,False,8
+VISIT001514,2024-03-19 20:00:00,/contact,2508,Desktop,Edge,Organic Search,Germany,False,False,11
+VISIT001820,2024-03-19 21:00:00,/product/clothing,1787,Mobile,Chrome,Organic Search,Germany,False,False,1
+VISIT001197,2024-03-19 22:00:00,/cart,235,Mobile,Chrome,Social Media,Germany,False,True,17
+VISIT000771,2024-03-20 01:00:00,/cart,411,Desktop,Chrome,Email,UK,False,True,15
+VISIT000455,2024-03-20 02:00:00,/about,2332,Desktop,Edge,Direct,Australia,True,False,6
+VISIT001945,2024-03-20 06:00:00,/home,909,Mobile,Chrome,Direct,USA,False,False,18
+VISIT000646,2024-03-20 08:00:00,/product/electronics,3012,Desktop,Edge,Direct,Germany,False,False,14
+VISIT001376,2024-03-20 10:00:00,/about,16,Desktop,Firefox,Direct,UK,True,False,9
+VISIT001261,2024-03-20 11:00:00,/about,973,Tablet,Firefox,Organic Search,France,False,False,18
+VISIT001611,2024-03-20 12:00:00,/product/clothing,1251,Mobile,Edge,Direct,Germany,False,False,12
+VISIT001748,2024-03-20 16:00:00,/blog,2907,Desktop,Chrome,Direct,Germany,True,False,3
+VISIT000459,2024-03-20 21:00:00,/home,1871,Desktop,Safari,Organic Search,Australia,True,False,13
+VISIT000337,2024-03-21 01:00:00,/home,2245,Desktop,Chrome,Email,UK,True,False,1
+VISIT001097,2024-03-21 02:00:00,/checkout,2063,Desktop,Opera,Social Media,UK,False,False,4
+VISIT000885,2024-03-21 03:00:00,/about,752,Mobile,Edge,Organic Search,Japan,False,False,8
+VISIT000985,2024-03-21 11:00:00,/product/electronics,201,Desktop,Edge,Paid Ads,France,False,False,7
+VISIT001333,2024-03-21 13:00:00,/product/electronics,345,Mobile,Edge,Email,Japan,False,False,3
+VISIT001853,2024-03-21 14:00:00,/checkout,2006,Desktop,Edge,Direct,Japan,True,False,4
+VISIT000958,2024-03-21 22:00:00,/product/sports,914,Tablet,Opera,Organic Search,Canada,False,False,6
+VISIT000039,2024-03-22 02:00:00,/product/electronics,814,Mobile,Opera,Direct,Australia,True,False,3
+VISIT000433,2024-03-22 12:00:00,/product/sports,798,Mobile,Chrome,Email,France,False,False,6
+VISIT001435,2024-03-22 12:00:00,/product/clothing,2314,Desktop,Firefox,Email,Canada,False,False,8
+VISIT000777,2024-03-22 15:00:00,/product/electronics,2594,Desktop,Chrome,Direct,Australia,True,False,13
+VISIT001218,2024-03-22 18:00:00,/product/clothing,392,Mobile,Chrome,Paid Ads,UK,True,False,7
+VISIT000155,2024-03-23 00:00:00,/product/electronics,2644,Desktop,Safari,Direct,Japan,False,False,18
+VISIT001879,2024-03-23 01:00:00,/home,1014,Tablet,Chrome,Direct,Japan,False,False,4
+VISIT001564,2024-03-23 03:00:00,/blog,3051,Mobile,Firefox,Direct,Japan,False,False,2
+VISIT000887,2024-03-23 14:00:00,/contact,3185,Mobile,Firefox,Organic Search,USA,True,False,5
+VISIT001717,2024-03-23 17:00:00,/home,2249,Desktop,Chrome,Email,Canada,True,False,14
+VISIT001759,2024-03-23 23:00:00,/product/clothing,1728,Desktop,Chrome,Organic Search,France,True,False,4
+VISIT001344,2024-03-23 23:00:00,/about,2506,Desktop,Chrome,Direct,USA,True,False,11
+VISIT000834,2024-03-24 00:00:00,/contact,3409,Desktop,Chrome,Organic Search,Australia,True,False,4
+VISIT000535,2024-03-24 04:00:00,/about,3209,Mobile,Chrome,Social Media,UK,False,False,2
+VISIT000159,2024-03-24 05:00:00,/checkout,1574,Desktop,Firefox,Email,Japan,True,False,14
+VISIT000361,2024-03-25 00:00:00,/product/sports,1529,Mobile,Chrome,Social Media,UK,False,False,7
+VISIT001716,2024-03-25 01:00:00,/product/clothing,3091,Mobile,Opera,Direct,USA,True,False,1
+VISIT001989,2024-03-25 05:00:00,/products,1891,Desktop,Safari,Email,Germany,True,False,1
+VISIT001299,2024-03-25 08:00:00,/home,1193,Mobile,Chrome,Direct,France,False,False,5
+VISIT001838,2024-03-25 10:00:00,/cart,1981,Mobile,Firefox,Organic Search,Japan,False,False,8
+VISIT001128,2024-03-25 10:00:00,/product/electronics,2600,Desktop,Chrome,Organic Search,UK,False,False,7
+VISIT000862,2024-03-25 17:00:00,/product/electronics,2657,Desktop,Chrome,Organic Search,Japan,True,False,13
+VISIT001521,2024-03-25 21:00:00,/cart,2391,Desktop,Chrome,Organic Search,France,False,False,8
+VISIT001357,2024-03-25 21:00:00,/product/electronics,1222,Mobile,Chrome,Paid Ads,France,False,False,15
+VISIT001295,2024-03-25 23:00:00,/product/electronics,2069,Mobile,Safari,Organic Search,Australia,False,False,3
+VISIT000892,2024-03-26 05:00:00,/about,1408,Mobile,Firefox,Direct,France,False,False,9
+VISIT001610,2024-03-26 06:00:00,/home,1416,Mobile,Chrome,Direct,Germany,True,False,15
+VISIT001206,2024-03-26 07:00:00,/checkout,2117,Desktop,Chrome,Organic Search,Germany,True,False,18
+VISIT001289,2024-03-26 08:00:00,/product/electronics,2596,Desktop,Chrome,Organic Search,Australia,False,False,13
+VISIT000827,2024-03-26 09:00:00,/product/clothing,81,Mobile,Safari,Social Media,UK,False,False,2
+VISIT000017,2024-03-26 12:00:00,/cart,3422,Mobile,Chrome,Direct,Germany,False,False,6
+VISIT001392,2024-03-26 13:00:00,/product/clothing,1450,Desktop,Safari,Social Media,Japan,True,False,7
+VISIT000326,2024-03-26 13:00:00,/product/sports,2696,Tablet,Chrome,Paid Ads,Japan,True,False,11
+VISIT001007,2024-03-26 15:00:00,/product/sports,3390,Mobile,Firefox,Organic Search,Japan,False,False,15
+VISIT000057,2024-03-26 18:00:00,/products,3274,Desktop,Firefox,Email,Canada,False,False,3
+VISIT000491,2024-03-26 20:00:00,/product/electronics,2473,Mobile,Chrome,Organic Search,France,True,False,12
+VISIT001099,2024-03-26 21:00:00,/product/electronics,690,Mobile,Edge,Direct,Germany,False,False,18
+VISIT000221,2024-03-26 23:00:00,/about,3129,Desktop,Chrome,Paid Ads,Canada,False,False,1
+VISIT000310,2024-03-27 06:00:00,/products,1553,Mobile,Safari,Email,Australia,True,False,18
+VISIT001323,2024-03-27 11:00:00,/product/electronics,126,Mobile,Chrome,Organic Search,Australia,True,False,4
+VISIT000676,2024-03-27 13:00:00,/checkout,1884,Desktop,Edge,Organic Search,USA,False,False,7
+VISIT000698,2024-03-27 14:00:00,/products,2719,Desktop,Chrome,Direct,UK,False,False,1
+VISIT001572,2024-03-27 17:00:00,/product/sports,479,Desktop,Chrome,Organic Search,Japan,False,False,6
+VISIT001017,2024-03-27 19:00:00,/products,1084,Mobile,Firefox,Email,France,True,False,13
+VISIT000643,2024-03-27 21:00:00,/cart,3327,Desktop,Safari,Direct,UK,True,False,4
+VISIT000096,2024-03-28 01:00:00,/home,637,Desktop,Chrome,Direct,Canada,False,False,12
+VISIT001795,2024-03-28 04:00:00,/contact,2226,Mobile,Chrome,Organic Search,UK,False,False,10
+VISIT001479,2024-03-28 08:00:00,/cart,1133,Tablet,Firefox,Social Media,France,False,False,5
+VISIT001612,2024-03-28 11:00:00,/checkout,1120,Desktop,Chrome,Paid Ads,France,False,False,10
+VISIT000166,2024-03-28 13:00:00,/product/clothing,1318,Desktop,Edge,Social Media,Japan,False,False,15
+VISIT001858,2024-03-28 22:00:00,/products,263,Desktop,Firefox,Direct,Germany,False,False,9
+VISIT000824,2024-03-28 23:00:00,/checkout,2680,Mobile,Chrome,Social Media,Japan,True,False,5
+VISIT000652,2024-03-28 23:00:00,/about,1543,Mobile,Edge,Social Media,Japan,True,False,5
+VISIT001029,2024-03-28 23:00:00,/cart,501,Desktop,Chrome,Paid Ads,USA,True,False,2
+VISIT000845,2024-03-29 00:00:00,/product/clothing,584,Desktop,Firefox,Email,France,False,False,6
+VISIT000549,2024-03-29 03:00:00,/checkout,2970,Desktop,Chrome,Organic Search,USA,False,False,7
+VISIT001780,2024-03-29 06:00:00,/product/clothing,3449,Mobile,Safari,Organic Search,France,True,False,19
+VISIT000226,2024-03-29 06:00:00,/product/clothing,2510,Mobile,Chrome,Direct,Japan,True,False,12
+VISIT000954,2024-03-29 15:00:00,/home,374,Desktop,Opera,Direct,USA,False,False,15
+VISIT001174,2024-03-29 16:00:00,/product/electronics,3346,Mobile,Chrome,Paid Ads,France,False,False,15
+VISIT001024,2024-03-29 16:00:00,/product/sports,2595,Mobile,Safari,Direct,Germany,False,False,17
+VISIT000409,2024-03-29 22:00:00,/product/clothing,1577,Tablet,Firefox,Organic Search,Japan,False,True,16
+VISIT000812,2024-03-30 02:00:00,/about,3427,Tablet,Chrome,Direct,Australia,False,False,3
+VISIT000677,2024-03-30 04:00:00,/product/electronics,3147,Desktop,Safari,Organic Search,USA,False,True,1
+VISIT001120,2024-03-30 14:00:00,/cart,283,Mobile,Safari,Direct,UK,False,False,9
+VISIT001694,2024-03-30 14:00:00,/cart,1673,Mobile,Opera,Organic Search,Australia,False,False,9
+VISIT000957,2024-03-30 17:00:00,/products,1872,Mobile,Safari,Social Media,Canada,False,False,9
+VISIT001214,2024-03-30 18:00:00,/contact,470,Desktop,Chrome,Social Media,UK,False,False,1
+VISIT000738,2024-03-30 19:00:00,/checkout,2336,Desktop,Chrome,Organic Search,Canada,True,False,16
+VISIT000391,2024-03-30 20:00:00,/product/electronics,2413,Desktop,Firefox,Direct,UK,True,False,4
+VISIT001419,2024-03-30 21:00:00,/product/electronics,974,Mobile,Chrome,Organic Search,Canada,True,False,11
+VISIT000861,2024-03-30 21:00:00,/products,1782,Mobile,Chrome,Direct,Japan,True,False,9
+VISIT000478,2024-03-30 21:00:00,/product/sports,2080,Mobile,Firefox,Direct,USA,False,False,6
+VISIT000092,2024-03-31 04:00:00,/home,1089,Desktop,Chrome,Direct,Germany,False,False,12
+VISIT000457,2024-03-31 05:00:00,/about,1212,Desktop,Edge,Direct,USA,False,False,15
+VISIT000578,2024-03-31 06:00:00,/products,2708,Mobile,Chrome,Direct,Japan,False,False,12
+VISIT001607,2024-03-31 10:00:00,/about,1718,Tablet,Opera,Direct,Canada,False,False,11
+VISIT000888,2024-03-31 14:00:00,/product/sports,213,Desktop,Safari,Direct,UK,True,False,2
+VISIT001502,2024-03-31 17:00:00,/product/clothing,3363,Desktop,Chrome,Organic Search,Australia,False,False,10
+VISIT001719,2024-03-31 21:00:00,/blog,2637,Mobile,Chrome,Organic Search,Australia,True,False,19
+VISIT001281,2024-03-31 23:00:00,/home,3169,Mobile,Opera,Paid Ads,Canada,False,False,9
+VISIT001939,2024-04-01 02:00:00,/products,3533,Desktop,Firefox,Email,France,True,False,14
+VISIT000011,2024-04-01 03:00:00,/checkout,1189,Mobile,Edge,Organic Search,Australia,True,False,6
+VISIT001079,2024-04-01 07:00:00,/home,3250,Desktop,Safari,Paid Ads,Canada,True,False,18
+VISIT001229,2024-04-01 18:00:00,/home,2325,Mobile,Firefox,Social Media,Japan,False,False,9
+VISIT000877,2024-04-01 20:00:00,/product/electronics,1461,Tablet,Firefox,Social Media,UK,False,False,11
+VISIT001255,2024-04-01 21:00:00,/cart,1477,Desktop,Chrome,Organic Search,Australia,False,False,12
+VISIT000959,2024-04-01 22:00:00,/product/sports,3350,Mobile,Chrome,Email,UK,True,False,2
+VISIT001973,2024-04-02 02:00:00,/product/electronics,2609,Mobile,Chrome,Organic Search,Germany,True,False,12
+VISIT000984,2024-04-02 03:00:00,/contact,491,Desktop,Firefox,Paid Ads,Canada,True,False,19
+VISIT001811,2024-04-02 14:00:00,/home,1050,Tablet,Opera,Organic Search,Canada,False,False,14
+VISIT001083,2024-04-02 14:00:00,/product/clothing,896,Tablet,Chrome,Direct,UK,False,False,5
+VISIT001803,2024-04-02 14:00:00,/contact,2450,Desktop,Chrome,Email,USA,True,False,11
+VISIT001224,2024-04-02 19:00:00,/checkout,3409,Desktop,Chrome,Email,Germany,True,False,12
+VISIT001241,2024-04-02 21:00:00,/checkout,2106,Desktop,Firefox,Social Media,UK,False,False,2
+VISIT001145,2024-04-02 23:00:00,/products,1700,Desktop,Firefox,Direct,France,True,False,18
+VISIT000476,2024-04-03 08:00:00,/products,3507,Desktop,Edge,Social Media,Canada,False,False,14
+VISIT001928,2024-04-03 10:00:00,/cart,729,Desktop,Firefox,Direct,France,True,False,9
+VISIT000914,2024-04-03 18:00:00,/contact,1853,Desktop,Safari,Organic Search,France,False,False,13
+VISIT001410,2024-04-03 23:00:00,/cart,850,Desktop,Edge,Social Media,UK,False,False,18
+VISIT000683,2024-04-04 01:00:00,/cart,2130,Desktop,Chrome,Direct,USA,True,False,8
+VISIT001855,2024-04-04 03:00:00,/about,1158,Desktop,Chrome,Email,UK,False,False,15
+VISIT001594,2024-04-04 04:00:00,/products,643,Desktop,Edge,Direct,Germany,True,False,6
+VISIT000782,2024-04-04 04:00:00,/cart,1353,Desktop,Firefox,Organic Search,Germany,True,False,18
+VISIT001339,2024-04-04 05:00:00,/home,2719,Mobile,Chrome,Social Media,Australia,False,False,4
+VISIT000804,2024-04-04 09:00:00,/checkout,530,Mobile,Safari,Paid Ads,France,True,False,3
+VISIT000368,2024-04-04 10:00:00,/contact,2156,Desktop,Chrome,Social Media,Australia,False,False,2
+VISIT000090,2024-04-05 06:00:00,/product/electronics,207,Mobile,Safari,Organic Search,Canada,False,False,14
+VISIT000974,2024-04-05 10:00:00,/blog,3038,Mobile,Edge,Social Media,Canada,False,False,4
+VISIT001862,2024-04-05 15:00:00,/home,3592,Desktop,Chrome,Organic Search,Germany,False,False,14
+VISIT000919,2024-04-05 15:00:00,/checkout,1784,Desktop,Firefox,Organic Search,Canada,True,False,11
+VISIT000387,2024-04-05 18:00:00,/product/clothing,978,Desktop,Safari,Paid Ads,USA,False,False,4
+VISIT000510,2024-04-05 20:00:00,/blog,1165,Tablet,Opera,Organic Search,UK,True,False,2
+VISIT000259,2024-04-06 02:00:00,/blog,2763,Desktop,Edge,Organic Search,Japan,True,False,12
+VISIT001254,2024-04-06 07:00:00,/blog,853,Desktop,Safari,Organic Search,France,True,False,6
+VISIT000169,2024-04-06 12:00:00,/about,2045,Mobile,Chrome,Direct,Canada,True,False,4
+VISIT001450,2024-04-06 15:00:00,/product/clothing,3149,Tablet,Chrome,Paid Ads,Japan,True,False,1
+VISIT000648,2024-04-06 16:00:00,/cart,1560,Tablet,Chrome,Social Media,Germany,True,False,4
+VISIT000560,2024-04-06 18:00:00,/contact,1086,Desktop,Chrome,Organic Search,USA,False,False,13
+VISIT001798,2024-04-06 22:00:00,/product/sports,386,Mobile,Edge,Direct,France,False,False,13
+VISIT001130,2024-04-06 23:00:00,/product/clothing,2117,Mobile,Firefox,Direct,USA,False,False,3
+VISIT000798,2024-04-07 02:00:00,/contact,846,Desktop,Chrome,Social Media,USA,False,False,10
+VISIT001580,2024-04-07 02:00:00,/about,784,Mobile,Chrome,Email,France,False,False,19
+VISIT001045,2024-04-07 03:00:00,/products,3192,Mobile,Safari,Organic Search,Japan,True,False,12
+VISIT001225,2024-04-07 04:00:00,/about,442,Desktop,Chrome,Organic Search,Australia,False,False,19
+VISIT000339,2024-04-07 07:00:00,/checkout,1949,Mobile,Chrome,Direct,USA,False,False,7
+VISIT000763,2024-04-07 14:00:00,/contact,1788,Desktop,Chrome,Organic Search,USA,False,False,2
+VISIT000750,2024-04-07 18:00:00,/product/sports,1224,Desktop,Firefox,Organic Search,France,True,False,11
+VISIT001057,2024-04-07 19:00:00,/product/sports,1727,Desktop,Chrome,Paid Ads,UK,False,False,14
+VISIT000015,2024-04-07 19:00:00,/blog,2865,Desktop,Safari,Organic Search,Germany,True,True,11
+VISIT001183,2024-04-07 21:00:00,/products,577,Desktop,Firefox,Organic Search,Canada,True,False,2
+VISIT000863,2024-04-08 01:00:00,/product/sports,20,Mobile,Chrome,Direct,UK,False,False,9
+VISIT001762,2024-04-08 04:00:00,/checkout,699,Mobile,Chrome,Organic Search,USA,True,False,10
+VISIT000043,2024-04-08 04:00:00,/product/electronics,443,Desktop,Chrome,Direct,USA,True,False,16
+VISIT001235,2024-04-08 20:00:00,/products,3530,Desktop,Firefox,Organic Search,Japan,True,False,11
+VISIT001681,2024-04-08 21:00:00,/product/clothing,449,Mobile,Firefox,Social Media,Japan,False,False,16
+VISIT000253,2024-04-08 22:00:00,/home,1677,Desktop,Chrome,Organic Search,Germany,False,False,12
+VISIT000323,2024-04-09 05:00:00,/product/electronics,435,Desktop,Chrome,Social Media,Germany,False,False,16
+VISIT000422,2024-04-09 07:00:00,/product/electronics,1358,Tablet,Firefox,Direct,Australia,False,True,19
+VISIT001077,2024-04-09 10:00:00,/checkout,1367,Mobile,Firefox,Organic Search,UK,False,False,6
+VISIT001817,2024-04-09 20:00:00,/home,2892,Mobile,Firefox,Direct,UK,True,False,8
+VISIT001195,2024-04-09 23:00:00,/checkout,813,Mobile,Safari,Organic Search,France,False,False,19
+VISIT000141,2024-04-10 04:00:00,/blog,33,Desktop,Firefox,Email,Australia,False,False,7
+VISIT000077,2024-04-10 09:00:00,/blog,193,Mobile,Firefox,Direct,Canada,False,False,7
+VISIT000820,2024-04-10 10:00:00,/products,473,Mobile,Chrome,Email,UK,False,False,17
+VISIT001398,2024-04-10 14:00:00,/product/clothing,1159,Mobile,Chrome,Paid Ads,Australia,False,False,7
+VISIT000274,2024-04-10 16:00:00,/product/electronics,2028,Mobile,Edge,Email,Canada,True,False,19
+VISIT000022,2024-04-10 17:00:00,/products,1666,Mobile,Edge,Social Media,UK,False,False,7
+VISIT001418,2024-04-10 22:00:00,/contact,2823,Tablet,Edge,Organic Search,Canada,False,False,1
+VISIT000179,2024-04-11 04:00:00,/home,435,Desktop,Chrome,Paid Ads,Australia,True,False,10
+VISIT000277,2024-04-11 17:00:00,/products,1650,Mobile,Chrome,Social Media,Germany,True,False,10
+VISIT001326,2024-04-11 23:00:00,/blog,2172,Mobile,Chrome,Direct,Australia,False,False,5
+VISIT001191,2024-04-12 06:00:00,/about,649,Tablet,Edge,Email,Japan,True,False,2
+VISIT001006,2024-04-12 09:00:00,/contact,1668,Mobile,Chrome,Email,Canada,True,False,3
+VISIT001587,2024-04-12 12:00:00,/checkout,141,Tablet,Chrome,Organic Search,Australia,False,False,12
+VISIT001632,2024-04-12 12:00:00,/products,1259,Mobile,Edge,Email,Canada,False,False,14
+VISIT001613,2024-04-12 12:00:00,/home,3163,Desktop,Chrome,Organic Search,USA,False,False,7
+VISIT000111,2024-04-12 19:00:00,/home,3051,Desktop,Firefox,Paid Ads,USA,True,False,15
+VISIT000256,2024-04-12 20:00:00,/blog,2006,Desktop,Chrome,Paid Ads,USA,False,False,16
+VISIT001585,2024-04-13 00:00:00,/cart,2513,Desktop,Chrome,Direct,Australia,True,False,7
+VISIT001852,2024-04-13 04:00:00,/products,3454,Mobile,Chrome,Organic Search,Japan,False,False,2
+VISIT001923,2024-04-13 13:00:00,/product/electronics,2026,Desktop,Opera,Organic Search,Japan,True,False,18
+VISIT001176,2024-04-13 14:00:00,/about,2516,Desktop,Edge,Email,UK,True,False,15
+VISIT001507,2024-04-13 17:00:00,/product/electronics,609,Tablet,Safari,Social Media,Canada,True,False,2
+VISIT000295,2024-04-14 00:00:00,/checkout,234,Desktop,Edge,Direct,Japan,True,False,19
+VISIT001657,2024-04-14 00:00:00,/product/clothing,1554,Desktop,Chrome,Organic Search,Australia,False,False,9
+VISIT001739,2024-04-14 01:00:00,/checkout,1156,Mobile,Safari,Social Media,France,True,False,11
+VISIT001840,2024-04-14 01:00:00,/product/sports,1513,Desktop,Firefox,Paid Ads,USA,False,False,16
+VISIT001767,2024-04-14 03:00:00,/home,1179,Desktop,Safari,Paid Ads,Japan,False,False,11
+VISIT000379,2024-04-14 06:00:00,/about,726,Desktop,Firefox,Email,Australia,True,False,13
+VISIT000349,2024-04-14 08:00:00,/cart,2374,Mobile,Chrome,Direct,USA,False,False,14
+VISIT000699,2024-04-14 16:00:00,/contact,1164,Desktop,Firefox,Organic Search,Japan,False,False,9
+VISIT001171,2024-04-15 02:00:00,/about,249,Tablet,Chrome,Email,Germany,True,False,11
+VISIT001897,2024-04-15 11:00:00,/products,588,Desktop,Chrome,Email,Canada,True,False,12
+VISIT001126,2024-04-15 14:00:00,/cart,1362,Desktop,Chrome,Direct,USA,False,False,8
+VISIT001164,2024-04-15 16:00:00,/checkout,1107,Mobile,Safari,Organic Search,Australia,True,False,19
+VISIT001269,2024-04-16 08:00:00,/products,857,Mobile,Edge,Paid Ads,France,False,False,4
+VISIT001313,2024-04-16 12:00:00,/about,1855,Mobile,Chrome,Direct,UK,False,False,12
+VISIT001883,2024-04-16 15:00:00,/product/sports,436,Desktop,Chrome,Organic Search,USA,True,False,17
+VISIT000052,2024-04-16 17:00:00,/product/electronics,262,Mobile,Chrome,Email,Australia,True,False,6
+VISIT001998,2024-04-16 19:00:00,/product/sports,2460,Mobile,Firefox,Paid Ads,France,True,False,9
+VISIT000360,2024-04-16 21:00:00,/cart,1568,Desktop,Chrome,Social Media,USA,False,False,8
+VISIT001074,2024-04-17 00:00:00,/product/sports,368,Mobile,Chrome,Organic Search,UK,False,False,12
+VISIT000873,2024-04-17 03:00:00,/home,3109,Tablet,Safari,Organic Search,UK,True,False,8
+VISIT001590,2024-04-17 11:00:00,/products,938,Desktop,Safari,Organic Search,USA,True,False,8
+VISIT001553,2024-04-17 13:00:00,/contact,1420,Mobile,Chrome,Organic Search,Canada,True,False,3
+VISIT000911,2024-04-17 15:00:00,/cart,308,Desktop,Firefox,Paid Ads,Germany,True,False,1
+VISIT001825,2024-04-17 16:00:00,/cart,1171,Mobile,Chrome,Direct,UK,False,True,5
+VISIT000942,2024-04-17 17:00:00,/product/electronics,848,Desktop,Chrome,Social Media,Australia,False,True,6
+VISIT000854,2024-04-17 18:00:00,/blog,728,Desktop,Chrome,Direct,USA,True,False,14
+VISIT001003,2024-04-17 18:00:00,/blog,3072,Desktop,Safari,Direct,USA,True,False,18
+VISIT000668,2024-04-17 19:00:00,/contact,1620,Desktop,Chrome,Organic Search,France,True,False,3
+VISIT000356,2024-04-17 23:00:00,/home,601,Mobile,Safari,Social Media,Australia,False,False,5
+VISIT000233,2024-04-17 23:00:00,/about,2222,Mobile,Opera,Organic Search,UK,False,False,19
+VISIT001377,2024-04-18 02:00:00,/contact,914,Desktop,Edge,Direct,France,True,False,19
+VISIT001075,2024-04-18 03:00:00,/home,1683,Desktop,Safari,Organic Search,UK,False,False,1
+VISIT001908,2024-04-18 08:00:00,/about,436,Mobile,Chrome,Social Media,USA,False,False,12
+VISIT001915,2024-04-18 09:00:00,/product/clothing,339,Desktop,Chrome,Direct,UK,False,False,12
+VISIT000120,2024-04-18 11:00:00,/blog,299,Desktop,Chrome,Social Media,Japan,False,False,5
+VISIT000343,2024-04-18 11:00:00,/home,555,Desktop,Firefox,Social Media,France,False,False,4
+VISIT001920,2024-04-18 18:00:00,/product/electronics,268,Mobile,Chrome,Organic Search,Canada,False,False,16
+VISIT001660,2024-04-18 23:00:00,/home,1002,Desktop,Chrome,Organic Search,Japan,False,False,2
+VISIT000182,2024-04-19 08:00:00,/product/electronics,3452,Mobile,Chrome,Email,Australia,False,False,19
+VISIT001246,2024-04-19 10:00:00,/checkout,1035,Desktop,Chrome,Organic Search,France,True,False,15
+VISIT001436,2024-04-19 11:00:00,/products,2590,Desktop,Edge,Organic Search,Germany,False,False,2
+VISIT001733,2024-04-19 11:00:00,/about,282,Mobile,Chrome,Direct,Canada,False,False,13
+VISIT000162,2024-04-19 13:00:00,/product/sports,1599,Mobile,Chrome,Organic Search,Australia,True,False,19
+VISIT001454,2024-04-19 22:00:00,/blog,1084,Tablet,Chrome,Organic Search,France,False,False,8
+VISIT001451,2024-04-20 02:00:00,/product/electronics,1539,Mobile,Firefox,Paid Ads,Australia,True,False,19
+VISIT000104,2024-04-20 02:00:00,/products,920,Desktop,Chrome,Email,Japan,True,False,12
+VISIT001314,2024-04-20 06:00:00,/blog,1664,Desktop,Firefox,Paid Ads,UK,False,False,4
+VISIT001562,2024-04-20 09:00:00,/blog,1942,Desktop,Chrome,Direct,Canada,False,False,5
+VISIT001722,2024-04-20 09:00:00,/product/electronics,2484,Mobile,Chrome,Paid Ads,France,False,False,6
+VISIT001407,2024-04-20 11:00:00,/about,3555,Desktop,Firefox,Social Media,Japan,True,False,16
+VISIT000471,2024-04-20 14:00:00,/product/clothing,1823,Desktop,Firefox,Organic Search,Canada,True,False,16
+VISIT001336,2024-04-20 18:00:00,/product/clothing,131,Desktop,Chrome,Paid Ads,UK,False,False,15
+VISIT001622,2024-04-20 19:00:00,/products,3196,Mobile,Safari,Organic Search,Germany,False,False,5
+VISIT001555,2024-04-20 19:00:00,/product/clothing,573,Mobile,Safari,Organic Search,UK,True,False,10
+VISIT001987,2024-04-20 21:00:00,/about,3537,Tablet,Chrome,Paid Ads,France,False,False,9
+VISIT001047,2024-04-20 23:00:00,/products,2050,Desktop,Chrome,Social Media,Australia,True,False,3
+VISIT001141,2024-04-21 00:00:00,/product/sports,3065,Desktop,Edge,Organic Search,USA,True,False,14
+VISIT000951,2024-04-21 01:00:00,/blog,1267,Desktop,Chrome,Direct,Germany,True,False,4
+VISIT001664,2024-04-21 13:00:00,/blog,3101,Mobile,Edge,Direct,Australia,False,False,14
+VISIT000346,2024-04-22 01:00:00,/product/sports,554,Mobile,Chrome,Organic Search,UK,True,False,17
+VISIT001885,2024-04-22 09:00:00,/contact,897,Mobile,Chrome,Social Media,Canada,False,False,3
+VISIT000522,2024-04-22 17:00:00,/cart,3334,Desktop,Firefox,Paid Ads,Canada,False,False,14
+VISIT001276,2024-04-22 17:00:00,/contact,2431,Desktop,Edge,Paid Ads,UK,True,False,16
+VISIT000098,2024-04-22 19:00:00,/products,1171,Mobile,Edge,Direct,Australia,True,False,3
+VISIT000332,2024-04-22 22:00:00,/cart,2826,Desktop,Edge,Direct,Canada,False,False,18
+VISIT000139,2024-04-23 00:00:00,/about,3373,Desktop,Chrome,Direct,France,False,False,4
+VISIT000373,2024-04-23 04:00:00,/checkout,1626,Desktop,Chrome,Social Media,UK,True,False,8
+VISIT000215,2024-04-23 05:00:00,/blog,883,Desktop,Chrome,Social Media,UK,True,False,7
+VISIT000138,2024-04-23 06:00:00,/cart,1303,Mobile,Chrome,Email,UK,False,False,8
+VISIT001771,2024-04-23 06:00:00,/product/sports,793,Desktop,Chrome,Direct,UK,False,False,19
+VISIT001841,2024-04-23 20:00:00,/products,3259,Desktop,Safari,Social Media,UK,False,False,11
+VISIT001641,2024-04-24 03:00:00,/checkout,3102,Desktop,Chrome,Social Media,UK,True,False,10
+VISIT001023,2024-04-24 05:00:00,/product/clothing,1313,Mobile,Chrome,Social Media,France,True,False,9
+VISIT001686,2024-04-24 17:00:00,/product/clothing,2478,Tablet,Safari,Email,France,False,False,9
+VISIT001063,2024-04-25 03:00:00,/about,3584,Desktop,Safari,Organic Search,Canada,False,False,3
+VISIT001546,2024-04-25 04:00:00,/product/sports,2774,Mobile,Edge,Direct,France,False,False,11
+VISIT001363,2024-04-25 12:00:00,/checkout,81,Mobile,Edge,Organic Search,Germany,False,False,14
+VISIT000720,2024-04-25 12:00:00,/products,385,Tablet,Chrome,Direct,Canada,False,False,9
+VISIT000836,2024-04-25 22:00:00,/about,2637,Mobile,Edge,Direct,Japan,True,False,18
+VISIT000821,2024-04-26 01:00:00,/product/electronics,279,Mobile,Opera,Direct,France,False,False,2
+VISIT001865,2024-04-26 15:00:00,/product/electronics,551,Desktop,Safari,Direct,Germany,False,False,6
+VISIT001267,2024-04-26 16:00:00,/about,3352,Desktop,Edge,Social Media,France,False,False,3
+VISIT000868,2024-04-26 17:00:00,/product/electronics,3378,Mobile,Firefox,Social Media,France,False,False,16
+VISIT000582,2024-04-26 23:00:00,/contact,3597,Desktop,Firefox,Direct,Canada,True,False,9
+VISIT000962,2024-04-27 02:00:00,/cart,2860,Tablet,Chrome,Direct,USA,False,False,16
+VISIT001764,2024-04-27 04:00:00,/contact,3176,Mobile,Firefox,Organic Search,Japan,False,False,14
+VISIT001072,2024-04-27 06:00:00,/blog,577,Desktop,Firefox,Organic Search,Australia,True,False,8
+VISIT000300,2024-04-27 08:00:00,/cart,3051,Desktop,Firefox,Direct,UK,False,False,5
+VISIT001182,2024-04-27 09:00:00,/about,1759,Mobile,Safari,Email,UK,True,False,16
+VISIT001030,2024-04-27 11:00:00,/product/electronics,2413,Desktop,Chrome,Organic Search,France,True,False,10
+VISIT000701,2024-04-27 12:00:00,/home,319,Desktop,Chrome,Organic Search,Canada,True,False,19
+VISIT001734,2024-04-27 14:00:00,/product/electronics,2997,Mobile,Opera,Organic Search,Canada,True,False,4
+VISIT000497,2024-04-27 18:00:00,/product/sports,3193,Mobile,Firefox,Paid Ads,France,True,False,15
+VISIT000153,2024-04-28 02:00:00,/blog,2378,Mobile,Chrome,Organic Search,Japan,True,False,11
+VISIT001847,2024-04-28 08:00:00,/cart,1681,Mobile,Firefox,Organic Search,Australia,False,True,4
+VISIT001165,2024-04-28 12:00:00,/home,196,Mobile,Firefox,Email,Germany,True,False,10
+VISIT000932,2024-04-28 12:00:00,/about,2275,Tablet,Edge,Organic Search,USA,True,False,12
+VISIT001382,2024-04-28 13:00:00,/home,1883,Mobile,Safari,Social Media,Japan,False,False,14
+VISIT000803,2024-04-28 14:00:00,/product/sports,3360,Mobile,Firefox,Direct,France,False,False,10
+VISIT001406,2024-04-28 16:00:00,/product/sports,132,Mobile,Chrome,Organic Search,Germany,False,False,8
+VISIT001642,2024-04-28 18:00:00,/product/clothing,1692,Desktop,Chrome,Organic Search,Canada,False,False,10
+VISIT000802,2024-04-28 19:00:00,/product/sports,156,Mobile,Chrome,Organic Search,Japan,True,False,11
+VISIT001731,2024-04-28 21:00:00,/product/sports,466,Desktop,Edge,Direct,France,True,False,6
+VISIT000134,2024-04-29 06:00:00,/products,1674,Tablet,Chrome,Organic Search,Canada,False,False,13
+VISIT001741,2024-04-29 08:00:00,/products,1546,Desktop,Safari,Email,Australia,False,False,7
+VISIT000634,2024-04-29 15:00:00,/cart,3545,Desktop,Firefox,Direct,UK,True,False,4
+VISIT001034,2024-04-29 20:00:00,/product/sports,1613,Mobile,Chrome,Organic Search,Canada,True,False,1
+VISIT001849,2024-04-30 02:00:00,/product/clothing,1738,Desktop,Chrome,Organic Search,France,False,False,18
+VISIT001552,2024-04-30 06:00:00,/blog,598,Mobile,Firefox,Direct,Australia,True,False,2
+VISIT000496,2024-04-30 10:00:00,/product/clothing,306,Desktop,Safari,Direct,Canada,False,False,2
+VISIT000856,2024-04-30 12:00:00,/contact,1029,Mobile,Edge,Organic Search,UK,False,False,2
+VISIT000785,2024-04-30 12:00:00,/product/sports,1735,Desktop,Chrome,Direct,USA,False,False,9
+VISIT000874,2024-04-30 16:00:00,/checkout,2634,Tablet,Chrome,Organic Search,Canada,False,False,16
+VISIT001046,2024-05-01 05:00:00,/blog,2827,Mobile,Safari,Direct,Japan,False,False,12
+VISIT001850,2024-05-01 07:00:00,/about,3546,Desktop,Safari,Organic Search,Japan,True,False,16
+VISIT001368,2024-05-01 08:00:00,/cart,1858,Desktop,Safari,Direct,Japan,False,False,8
+VISIT001604,2024-05-01 09:00:00,/home,1821,Mobile,Chrome,Organic Search,UK,False,False,17
+VISIT000894,2024-05-01 12:00:00,/checkout,3135,Desktop,Chrome,Organic Search,Japan,False,False,1
+VISIT001140,2024-05-01 19:00:00,/products,2889,Desktop,Chrome,Direct,Germany,True,False,14
+VISIT000333,2024-05-01 21:00:00,/about,286,Desktop,Safari,Direct,Japan,False,False,8
+VISIT000250,2024-05-02 02:00:00,/home,2259,Mobile,Chrome,Social Media,France,True,False,12
+VISIT001534,2024-05-02 04:00:00,/checkout,1456,Mobile,Firefox,Organic Search,USA,True,False,15
+VISIT000116,2024-05-02 05:00:00,/home,819,Desktop,Edge,Direct,Japan,False,False,8
+VISIT001389,2024-05-02 06:00:00,/cart,1576,Mobile,Chrome,Direct,USA,True,False,18
+VISIT000027,2024-05-02 10:00:00,/blog,901,Mobile,Chrome,Social Media,Canada,False,False,12
+VISIT000377,2024-05-02 10:00:00,/cart,2577,Desktop,Chrome,Organic Search,USA,False,False,14
+VISIT000450,2024-05-02 11:00:00,/product/electronics,2659,Mobile,Chrome,Direct,Canada,False,False,13
+VISIT001949,2024-05-02 15:00:00,/product/sports,3090,Desktop,Safari,Paid Ads,Australia,True,False,2
+VISIT000369,2024-05-02 16:00:00,/contact,2374,Desktop,Firefox,Organic Search,France,True,False,15
+VISIT000776,2024-05-02 18:00:00,/cart,1608,Desktop,Firefox,Social Media,Japan,False,False,12
+VISIT001573,2024-05-02 21:00:00,/about,2550,Desktop,Firefox,Direct,Australia,True,False,12
+VISIT001814,2024-05-02 22:00:00,/products,2124,Mobile,Safari,Email,UK,False,False,12
+VISIT001026,2024-05-02 23:00:00,/checkout,3319,Desktop,Safari,Social Media,UK,False,False,15
+VISIT001328,2024-05-03 00:00:00,/about,1582,Desktop,Chrome,Social Media,UK,False,False,13
+VISIT000140,2024-05-03 03:00:00,/about,3534,Mobile,Safari,Social Media,Canada,False,False,13
+VISIT001494,2024-05-03 04:00:00,/checkout,3314,Tablet,Chrome,Email,USA,True,False,17
+VISIT001025,2024-05-03 05:00:00,/products,1189,Mobile,Chrome,Social Media,Australia,True,False,13
+VISIT000464,2024-05-03 07:00:00,/product/electronics,3234,Tablet,Chrome,Organic Search,USA,True,False,15
+VISIT000952,2024-05-03 10:00:00,/product/sports,2804,Desktop,Safari,Direct,UK,False,False,5
+VISIT000670,2024-05-03 15:00:00,/blog,2792,Mobile,Firefox,Paid Ads,Australia,False,False,13
+VISIT000515,2024-05-03 15:00:00,/about,852,Mobile,Chrome,Direct,USA,False,False,7
+VISIT001086,2024-05-03 23:00:00,/checkout,2268,Mobile,Firefox,Paid Ads,Australia,True,False,5
+VISIT000429,2024-05-04 04:00:00,/contact,2686,Mobile,Chrome,Social Media,USA,False,False,2
+VISIT001432,2024-05-04 06:00:00,/product/electronics,320,Desktop,Safari,Direct,USA,False,False,6
+VISIT000355,2024-05-04 09:00:00,/home,1166,Tablet,Safari,Email,France,False,False,16
+VISIT000972,2024-05-04 14:00:00,/about,519,Mobile,Firefox,Organic Search,Australia,True,False,3
+VISIT001730,2024-05-04 16:00:00,/checkout,2066,Mobile,Chrome,Organic Search,USA,True,False,4
+VISIT000486,2024-05-04 16:00:00,/product/electronics,3500,Desktop,Chrome,Social Media,Canada,False,False,7
+VISIT000681,2024-05-04 19:00:00,/about,1826,Desktop,Firefox,Direct,Germany,False,False,8
+VISIT001172,2024-05-04 20:00:00,/cart,2590,Mobile,Chrome,Direct,France,False,False,16
+VISIT000416,2024-05-04 20:00:00,/home,3387,Mobile,Safari,Direct,Australia,False,False,6
+VISIT000963,2024-05-04 21:00:00,/product/clothing,2846,Mobile,Chrome,Organic Search,France,False,False,1
+VISIT001481,2024-05-05 01:00:00,/contact,998,Desktop,Chrome,Direct,Australia,True,False,17
+VISIT001421,2024-05-05 07:00:00,/checkout,1005,Desktop,Firefox,Organic Search,Germany,False,False,2
+VISIT001608,2024-05-05 07:00:00,/home,3584,Mobile,Edge,Direct,Canada,True,False,13
+VISIT000067,2024-05-05 12:00:00,/checkout,560,Desktop,Safari,Organic Search,Germany,False,False,11
+VISIT001498,2024-05-05 23:00:00,/products,3310,Desktop,Firefox,Organic Search,Australia,False,False,3
+VISIT000458,2024-05-06 02:00:00,/contact,2810,Mobile,Safari,Email,Japan,False,False,9
+VISIT000694,2024-05-06 08:00:00,/home,2685,Desktop,Firefox,Email,Japan,False,False,3
+VISIT000624,2024-05-06 10:00:00,/products,2778,Desktop,Opera,Social Media,USA,False,False,8
+VISIT000740,2024-05-06 13:00:00,/contact,2526,Mobile,Chrome,Organic Search,USA,False,False,16
+VISIT000909,2024-05-06 16:00:00,/product/sports,3148,Desktop,Safari,Organic Search,Germany,False,False,11
+VISIT001272,2024-05-06 18:00:00,/product/sports,3229,Desktop,Firefox,Direct,Japan,False,False,4
+VISIT001354,2024-05-06 18:00:00,/checkout,1682,Desktop,Chrome,Organic Search,UK,True,False,9
+VISIT001556,2024-05-06 21:00:00,/about,3514,Tablet,Chrome,Organic Search,Germany,False,False,13
+VISIT000971,2024-05-07 01:00:00,/about,783,Mobile,Chrome,Organic Search,Australia,True,True,18
+VISIT000281,2024-05-07 08:00:00,/blog,2610,Mobile,Chrome,Organic Search,France,True,False,14
+VISIT001200,2024-05-07 12:00:00,/product/sports,2995,Desktop,Chrome,Organic Search,Japan,False,True,11
+VISIT001751,2024-05-07 14:00:00,/blog,1471,Desktop,Chrome,Direct,Germany,True,False,4
+VISIT001960,2024-05-07 15:00:00,/product/electronics,1060,Mobile,Edge,Organic Search,UK,True,False,17
+VISIT000173,2024-05-07 23:00:00,/home,2967,Desktop,Edge,Social Media,UK,False,False,4
+VISIT001568,2024-05-08 00:00:00,/product/sports,76,Desktop,Opera,Direct,France,True,False,14
+VISIT000664,2024-05-08 00:00:00,/checkout,951,Mobile,Chrome,Direct,USA,True,False,7
+VISIT000492,2024-05-08 10:00:00,/contact,2751,Desktop,Firefox,Social Media,UK,False,False,15
+VISIT001790,2024-05-08 13:00:00,/blog,2402,Tablet,Firefox,Direct,USA,False,False,10
+VISIT000483,2024-05-08 13:00:00,/products,2201,Desktop,Safari,Organic Search,Australia,True,False,11
+VISIT000830,2024-05-08 17:00:00,/home,2131,Desktop,Edge,Direct,USA,True,False,2
+VISIT000087,2024-05-08 18:00:00,/contact,1804,Mobile,Safari,Organic Search,France,False,False,15
+VISIT001388,2024-05-08 22:00:00,/blog,3284,Desktop,Safari,Organic Search,Canada,False,False,15
+VISIT000588,2024-05-09 02:00:00,/blog,115,Desktop,Chrome,Social Media,Germany,True,False,13
+VISIT001212,2024-05-09 03:00:00,/product/clothing,2082,Desktop,Chrome,Direct,Canada,True,False,8
+VISIT000485,2024-05-09 04:00:00,/contact,1622,Mobile,Chrome,Direct,Japan,False,False,6
+VISIT001427,2024-05-09 09:00:00,/contact,3264,Mobile,Firefox,Organic Search,France,True,False,13
+VISIT000948,2024-05-09 12:00:00,/blog,1952,Desktop,Chrome,Social Media,USA,False,False,19
+VISIT001996,2024-05-09 20:00:00,/checkout,611,Mobile,Chrome,Social Media,Canada,False,False,4
+VISIT001821,2024-05-09 22:00:00,/product/electronics,2294,Mobile,Safari,Direct,Australia,True,False,13
+VISIT000005,2024-05-10 00:00:00,/blog,1639,Desktop,Firefox,Paid Ads,France,False,False,1
+VISIT000988,2024-05-10 00:00:00,/checkout,2716,Desktop,Chrome,Email,Japan,True,False,4
+VISIT001055,2024-05-10 01:00:00,/product/clothing,2658,Mobile,Chrome,Paid Ads,Germany,True,False,7
+VISIT000633,2024-05-10 03:00:00,/products,3415,Desktop,Edge,Direct,Canada,False,False,13
+VISIT000262,2024-05-10 04:00:00,/product/electronics,1500,Mobile,Chrome,Social Media,France,False,False,14
+VISIT000163,2024-05-10 04:00:00,/checkout,1328,Desktop,Chrome,Paid Ads,Germany,True,False,4
+VISIT001636,2024-05-10 05:00:00,/about,3538,Desktop,Edge,Direct,Australia,False,False,10
+VISIT000047,2024-05-10 05:00:00,/cart,3160,Desktop,Safari,Email,Australia,True,False,11
+VISIT001290,2024-05-10 05:00:00,/product/sports,223,Tablet,Safari,Organic Search,Germany,False,False,13
+VISIT001871,2024-05-10 11:00:00,/contact,2891,Mobile,Chrome,Direct,France,False,False,17
+VISIT001655,2024-05-10 13:00:00,/blog,819,Mobile,Firefox,Email,France,False,False,19
+VISIT000847,2024-05-10 14:00:00,/product/clothing,2794,Desktop,Chrome,Organic Search,UK,False,False,8
+VISIT000745,2024-05-11 04:00:00,/cart,2980,Tablet,Chrome,Organic Search,USA,True,False,15
+VISIT001296,2024-05-11 08:00:00,/products,2871,Desktop,Safari,Organic Search,Germany,False,False,7
+VISIT001516,2024-05-11 12:00:00,/products,1789,Mobile,Chrome,Organic Search,France,False,False,11
+VISIT000589,2024-05-11 13:00:00,/product/clothing,2608,Tablet,Chrome,Organic Search,Germany,True,False,14
+VISIT000165,2024-05-11 17:00:00,/blog,1957,Mobile,Firefox,Direct,USA,True,False,4
+VISIT001819,2024-05-11 22:00:00,/product/electronics,1008,Mobile,Safari,Social Media,France,True,False,19
+VISIT001859,2024-05-12 03:00:00,/contact,16,Desktop,Chrome,Organic Search,France,False,False,10
+VISIT000048,2024-05-12 06:00:00,/cart,2915,Desktop,Chrome,Email,France,False,False,17
+VISIT001962,2024-05-12 06:00:00,/checkout,3299,Mobile,Chrome,Paid Ads,Germany,True,False,16
+VISIT001441,2024-05-12 06:00:00,/products,3148,Desktop,Chrome,Direct,Japan,True,False,4
+VISIT000228,2024-05-12 10:00:00,/product/sports,906,Desktop,Safari,Email,France,False,False,13
+VISIT000465,2024-05-12 11:00:00,/cart,3185,Desktop,Chrome,Social Media,Germany,False,False,7
+VISIT001472,2024-05-12 15:00:00,/home,2549,Tablet,Chrome,Social Media,USA,False,False,11
+VISIT001809,2024-05-12 15:00:00,/cart,1645,Desktop,Edge,Direct,Japan,False,False,18
+VISIT000038,2024-05-12 17:00:00,/products,758,Desktop,Firefox,Organic Search,USA,False,False,18
+VISIT001311,2024-05-12 19:00:00,/checkout,121,Mobile,Chrome,Direct,Japan,False,False,16
+VISIT000728,2024-05-12 19:00:00,/blog,3239,Desktop,Chrome,Organic Search,Australia,False,False,15
+VISIT000235,2024-05-12 22:00:00,/checkout,1370,Tablet,Chrome,Social Media,France,False,False,18
+VISIT001211,2024-05-13 00:00:00,/home,47,Mobile,Opera,Organic Search,USA,True,False,12
+VISIT001125,2024-05-13 01:00:00,/about,3091,Mobile,Firefox,Direct,Canada,False,False,19
+VISIT000272,2024-05-13 11:00:00,/product/clothing,709,Mobile,Edge,Paid Ads,UK,True,False,11
+VISIT001283,2024-05-13 22:00:00,/product/clothing,1759,Mobile,Chrome,Email,Canada,False,True,17
+VISIT000417,2024-05-13 23:00:00,/products,1942,Desktop,Chrome,Organic Search,Canada,True,False,16
+VISIT001866,2024-05-14 02:00:00,/home,3343,Mobile,Chrome,Organic Search,Germany,True,False,8
+VISIT001672,2024-05-14 02:00:00,/home,2543,Desktop,Chrome,Organic Search,USA,True,False,7
+VISIT001843,2024-05-14 06:00:00,/checkout,132,Mobile,Chrome,Organic Search,Canada,False,False,4
+VISIT000933,2024-05-14 09:00:00,/contact,1255,Desktop,Chrome,Organic Search,Germany,False,True,3
+VISIT001999,2024-05-14 12:00:00,/product/clothing,549,Desktop,Firefox,Email,Japan,False,False,13
+VISIT000291,2024-05-14 12:00:00,/products,1042,Mobile,Firefox,Organic Search,UK,False,False,7
+VISIT001683,2024-05-14 14:00:00,/product/clothing,2321,Mobile,Chrome,Organic Search,France,False,False,1
+VISIT001205,2024-05-14 17:00:00,/home,2983,Tablet,Chrome,Social Media,Australia,False,False,4
+VISIT000263,2024-05-14 20:00:00,/cart,1234,Mobile,Chrome,Organic Search,USA,False,False,2
+VISIT000787,2024-05-14 21:00:00,/product/sports,1122,Desktop,Safari,Direct,Australia,False,False,19
+VISIT001708,2024-05-14 22:00:00,/product/electronics,2757,Tablet,Edge,Direct,Canada,False,False,1
+VISIT001082,2024-05-14 23:00:00,/blog,1294,Desktop,Chrome,Organic Search,France,False,False,3
+VISIT001342,2024-05-15 02:00:00,/about,513,Desktop,Opera,Organic Search,UK,False,False,17
+VISIT000428,2024-05-15 10:00:00,/product/electronics,1172,Desktop,Chrome,Email,Japan,True,False,16
+VISIT001115,2024-05-15 12:00:00,/blog,1254,Mobile,Safari,Direct,Germany,True,False,4
+VISIT001576,2024-05-15 12:00:00,/product/clothing,2343,Mobile,Edge,Direct,USA,True,False,3
+VISIT001106,2024-05-15 12:00:00,/home,336,Desktop,Chrome,Direct,Australia,True,False,6
+VISIT000685,2024-05-15 15:00:00,/about,2882,Desktop,Chrome,Direct,USA,True,False,4
+VISIT000920,2024-05-15 19:00:00,/home,2450,Desktop,Chrome,Direct,Germany,True,False,16
+VISIT000704,2024-05-15 21:00:00,/product/electronics,2552,Mobile,Edge,Paid Ads,France,False,False,8
+VISIT001011,2024-05-15 23:00:00,/product/electronics,3267,Desktop,Chrome,Direct,Germany,False,False,14
+VISIT001696,2024-05-16 00:00:00,/home,2025,Desktop,Safari,Direct,Australia,True,False,14
+VISIT000865,2024-05-16 04:00:00,/products,2783,Desktop,Edge,Direct,USA,True,False,5
+VISIT001693,2024-05-16 06:00:00,/product/electronics,2911,Desktop,Firefox,Paid Ads,Canada,False,False,4
+VISIT000784,2024-05-16 08:00:00,/home,2363,Desktop,Edge,Social Media,Germany,False,False,3
+VISIT001616,2024-05-16 11:00:00,/blog,1533,Desktop,Safari,Organic Search,Canada,False,False,8
+VISIT000718,2024-05-16 17:00:00,/cart,2140,Mobile,Chrome,Organic Search,USA,False,False,11
+VISIT000973,2024-05-16 17:00:00,/products,374,Desktop,Chrome,Organic Search,Australia,False,False,8
+VISIT000746,2024-05-16 18:00:00,/cart,1852,Mobile,Chrome,Social Media,UK,False,False,14
+VISIT001544,2024-05-17 01:00:00,/blog,2615,Mobile,Opera,Social Media,Australia,False,False,8
+VISIT000132,2024-05-17 16:00:00,/product/sports,3485,Mobile,Chrome,Paid Ads,Australia,False,False,2
+VISIT000809,2024-05-17 21:00:00,/contact,1419,Desktop,Edge,Social Media,Japan,False,False,6
+VISIT000231,2024-05-18 01:00:00,/contact,3292,Mobile,Chrome,Social Media,Japan,True,False,14
+VISIT001068,2024-05-18 03:00:00,/product/clothing,1553,Desktop,Chrome,Organic Search,Germany,False,False,19
+VISIT001991,2024-05-18 04:00:00,/blog,2393,Desktop,Chrome,Organic Search,UK,False,False,1
+VISIT000403,2024-05-18 06:00:00,/product/electronics,1619,Mobile,Chrome,Paid Ads,Germany,True,False,8
+VISIT000788,2024-05-18 09:00:00,/product/clothing,3436,Desktop,Firefox,Organic Search,USA,True,False,5
+VISIT000552,2024-05-18 09:00:00,/about,2578,Tablet,Firefox,Direct,Australia,True,False,6
+VISIT000495,2024-05-18 12:00:00,/contact,836,Mobile,Chrome,Organic Search,Germany,False,False,16
+VISIT000814,2024-05-18 23:00:00,/blog,3426,Mobile,Firefox,Organic Search,Japan,False,False,19
+VISIT000227,2024-05-19 03:00:00,/contact,793,Desktop,Firefox,Direct,Australia,False,False,17
+VISIT001970,2024-05-19 11:00:00,/product/electronics,1055,Desktop,Chrome,Paid Ads,USA,False,False,10
+VISIT000651,2024-05-19 11:00:00,/checkout,2661,Desktop,Edge,Organic Search,Japan,False,False,11
+VISIT000669,2024-05-19 13:00:00,/product/clothing,2214,Desktop,Firefox,Organic Search,Australia,True,False,9
+VISIT001452,2024-05-19 21:00:00,/product/sports,2085,Tablet,Firefox,Email,Australia,False,False,1
+VISIT000569,2024-05-20 05:00:00,/contact,103,Desktop,Chrome,Paid Ads,Germany,False,False,4
+VISIT000533,2024-05-20 06:00:00,/cart,3185,Desktop,Chrome,Organic Search,USA,False,False,3
+VISIT001922,2024-05-20 08:00:00,/cart,152,Mobile,Edge,Social Media,USA,False,False,18
+VISIT001202,2024-05-20 12:00:00,/product/electronics,723,Desktop,Firefox,Organic Search,France,True,False,3
+VISIT001032,2024-05-20 13:00:00,/about,934,Desktop,Chrome,Social Media,Australia,True,False,16
+VISIT001173,2024-05-20 16:00:00,/contact,150,Mobile,Firefox,Paid Ads,Australia,False,False,10
+VISIT001557,2024-05-20 17:00:00,/product/electronics,3493,Tablet,Chrome,Organic Search,Japan,False,False,13
+VISIT000855,2024-05-20 18:00:00,/about,790,Tablet,Chrome,Direct,UK,False,False,12
+VISIT000302,2024-05-20 20:00:00,/contact,3143,Tablet,Edge,Social Media,France,False,False,9
+VISIT001230,2024-05-20 22:00:00,/product/electronics,2126,Mobile,Firefox,Social Media,France,False,False,19
+VISIT001974,2024-05-20 23:00:00,/product/electronics,1583,Desktop,Firefox,Social Media,USA,False,False,2
+VISIT000688,2024-05-21 01:00:00,/about,3136,Desktop,Chrome,Direct,USA,True,False,8
+VISIT001728,2024-05-21 04:00:00,/blog,1311,Tablet,Chrome,Direct,Canada,False,False,9
+VISIT001921,2024-05-21 07:00:00,/about,2349,Mobile,Chrome,Organic Search,France,True,False,16
+VISIT001091,2024-05-21 07:00:00,/cart,3553,Desktop,Firefox,Organic Search,Canada,False,False,11
+VISIT000521,2024-05-21 12:00:00,/products,1364,Mobile,Chrome,Email,Japan,True,False,8
+VISIT001528,2024-05-21 17:00:00,/home,1007,Desktop,Firefox,Organic Search,Australia,False,False,2
+VISIT000129,2024-05-21 23:00:00,/product/clothing,3405,Desktop,Chrome,Organic Search,UK,False,False,14
+VISIT001497,2024-05-21 23:00:00,/cart,2334,Desktop,Firefox,Paid Ads,USA,False,False,12
+VISIT000049,2024-05-22 04:00:00,/cart,2108,Tablet,Chrome,Direct,Japan,False,False,7
+VISIT001644,2024-05-22 04:00:00,/home,927,Mobile,Firefox,Social Media,UK,False,False,16
+VISIT001878,2024-05-22 10:00:00,/product/electronics,3369,Mobile,Chrome,Organic Search,Canada,False,False,1
+VISIT000968,2024-05-23 01:00:00,/product/sports,1196,Mobile,Firefox,Organic Search,UK,False,False,16
+VISIT000597,2024-05-23 06:00:00,/product/clothing,3158,Desktop,Safari,Organic Search,USA,False,False,12
+VISIT001268,2024-05-23 10:00:00,/checkout,426,Desktop,Firefox,Paid Ads,Australia,False,False,16
+VISIT000623,2024-05-23 14:00:00,/products,2507,Desktop,Edge,Organic Search,France,True,False,10
+VISIT000996,2024-05-23 21:00:00,/home,477,Desktop,Chrome,Organic Search,UK,True,False,18
+VISIT001064,2024-05-23 23:00:00,/checkout,1741,Desktop,Chrome,Social Media,Canada,True,False,17
+VISIT001216,2024-05-24 02:00:00,/product/electronics,1450,Desktop,Edge,Direct,UK,False,False,11
+VISIT000927,2024-05-24 10:00:00,/home,3249,Mobile,Chrome,Organic Search,UK,True,False,16
+VISIT000679,2024-05-24 13:00:00,/checkout,3101,Mobile,Chrome,Direct,France,False,False,5
+VISIT001729,2024-05-24 13:00:00,/cart,3346,Tablet,Firefox,Email,USA,False,False,5
+VISIT000966,2024-05-24 16:00:00,/products,189,Desktop,Chrome,Organic Search,Germany,True,False,16
+VISIT000199,2024-05-24 19:00:00,/products,1674,Mobile,Firefox,Direct,UK,False,False,3
+VISIT000641,2024-05-25 05:00:00,/contact,570,Desktop,Safari,Paid Ads,Canada,False,False,10
+VISIT000673,2024-05-25 10:00:00,/blog,1597,Tablet,Safari,Email,Germany,False,False,15
+VISIT001882,2024-05-25 13:00:00,/product/clothing,3281,Desktop,Firefox,Direct,USA,False,False,14
+VISIT001539,2024-05-25 18:00:00,/product/electronics,1704,Mobile,Firefox,Social Media,France,False,False,11
+VISIT001990,2024-05-25 22:00:00,/cart,2955,Desktop,Chrome,Organic Search,USA,True,False,16
+VISIT000357,2024-05-26 04:00:00,/contact,792,Tablet,Chrome,Organic Search,Canada,False,True,11
+VISIT000089,2024-05-26 06:00:00,/product/electronics,2472,Desktop,Firefox,Paid Ads,USA,False,False,13
+VISIT000628,2024-05-26 10:00:00,/home,1036,Desktop,Safari,Email,Japan,False,False,12
+VISIT001902,2024-05-26 19:00:00,/contact,3313,Desktop,Opera,Direct,Australia,False,False,12
+VISIT001721,2024-05-26 19:00:00,/product/sports,2694,Desktop,Edge,Organic Search,Japan,False,False,10
+VISIT001194,2024-05-26 22:00:00,/home,451,Desktop,Chrome,Direct,Australia,True,False,18
+VISIT001560,2024-05-26 23:00:00,/product/electronics,1654,Tablet,Firefox,Organic Search,Canada,False,False,17
+VISIT000621,2024-05-27 06:00:00,/contact,633,Desktop,Firefox,Direct,UK,True,False,8
+VISIT001680,2024-05-27 10:00:00,/product/clothing,1187,Mobile,Safari,Email,Japan,False,False,15
+VISIT000987,2024-05-27 12:00:00,/contact,2647,Mobile,Chrome,Paid Ads,UK,False,False,5
+VISIT000232,2024-05-27 19:00:00,/checkout,2047,Tablet,Chrome,Organic Search,Australia,False,False,19
+VISIT001335,2024-05-28 04:00:00,/product/electronics,156,Mobile,Chrome,Direct,Australia,False,False,12
+VISIT001643,2024-05-28 05:00:00,/products,2872,Desktop,Safari,Organic Search,Australia,False,False,4
+VISIT001698,2024-05-28 07:00:00,/product/electronics,3191,Mobile,Chrome,Organic Search,Canada,False,True,5
+VISIT001159,2024-05-28 11:00:00,/contact,2804,Mobile,Chrome,Email,UK,False,False,10
+VISIT000206,2024-05-28 13:00:00,/contact,177,Desktop,Chrome,Paid Ads,Japan,False,False,6
+VISIT000735,2024-05-28 14:00:00,/product/clothing,2979,Desktop,Chrome,Organic Search,Australia,False,False,5
+VISIT000367,2024-05-28 20:00:00,/product/electronics,1001,Mobile,Chrome,Email,France,True,False,8
+VISIT001204,2024-05-29 04:00:00,/product/sports,2906,Mobile,Chrome,Organic Search,Japan,True,True,14
+VISIT001396,2024-05-29 08:00:00,/contact,2953,Mobile,Firefox,Social Media,Australia,True,False,4
+VISIT000261,2024-05-29 09:00:00,/cart,2602,Desktop,Chrome,Organic Search,Canada,False,False,11
+VISIT001258,2024-05-29 15:00:00,/about,2700,Desktop,Edge,Social Media,USA,True,True,6
+VISIT001383,2024-05-29 17:00:00,/checkout,2630,Desktop,Chrome,Organic Search,Australia,False,False,1
+VISIT000758,2024-05-29 20:00:00,/product/clothing,1655,Tablet,Firefox,Social Media,USA,False,False,10
+VISIT001983,2024-05-29 22:00:00,/product/clothing,785,Desktop,Edge,Social Media,Germany,False,False,19
+VISIT000504,2024-05-30 03:00:00,/blog,2478,Desktop,Chrome,Email,Germany,True,False,1
+VISIT001746,2024-05-30 08:00:00,/home,452,Mobile,Chrome,Social Media,Japan,False,False,3
+VISIT001170,2024-05-30 19:00:00,/product/clothing,739,Mobile,Safari,Social Media,USA,True,False,11
+VISIT001743,2024-05-30 22:00:00,/product/clothing,2575,Desktop,Chrome,Organic Search,Australia,False,False,6
+VISIT000829,2024-05-31 03:00:00,/home,1316,Mobile,Chrome,Organic Search,Japan,True,False,4
+VISIT001298,2024-05-31 04:00:00,/contact,2089,Desktop,Firefox,Direct,UK,True,False,8
+VISIT000061,2024-05-31 05:00:00,/blog,1987,Desktop,Edge,Direct,USA,False,False,6
+VISIT001551,2024-05-31 05:00:00,/blog,1512,Desktop,Safari,Organic Search,Australia,False,False,13
+VISIT001924,2024-05-31 05:00:00,/products,2804,Desktop,Firefox,Social Media,UK,True,False,13
+VISIT001131,2024-05-31 06:00:00,/products,2956,Desktop,Chrome,Social Media,Japan,False,False,18
+VISIT001084,2024-05-31 20:00:00,/checkout,1768,Desktop,Opera,Organic Search,Canada,False,False,3
+VISIT001147,2024-05-31 20:00:00,/cart,1007,Mobile,Firefox,Organic Search,Australia,False,False,7
+VISIT000376,2024-06-01 00:00:00,/products,531,Desktop,Chrome,Paid Ads,France,False,False,19
+VISIT001673,2024-06-01 02:00:00,/product/sports,717,Mobile,Chrome,Organic Search,Japan,False,False,17
+VISIT000176,2024-06-01 02:00:00,/checkout,2611,Desktop,Chrome,Paid Ads,Germany,False,False,5
+VISIT000154,2024-06-01 02:00:00,/product/clothing,3578,Mobile,Safari,Organic Search,UK,False,True,16
+VISIT000440,2024-06-01 07:00:00,/product/clothing,3282,Desktop,Firefox,Direct,Australia,True,True,11
+VISIT000711,2024-06-01 10:00:00,/products,2680,Mobile,Opera,Organic Search,UK,False,True,13
+VISIT001053,2024-06-01 13:00:00,/checkout,3180,Desktop,Chrome,Organic Search,Australia,True,False,2
+VISIT001575,2024-06-01 17:00:00,/product/electronics,2720,Desktop,Opera,Social Media,Australia,False,False,7
+VISIT000078,2024-06-02 04:00:00,/product/sports,1697,Desktop,Firefox,Direct,Japan,True,False,18
+VISIT000563,2024-06-02 07:00:00,/product/clothing,957,Desktop,Safari,Direct,Japan,True,False,7
+VISIT001886,2024-06-02 07:00:00,/contact,1453,Desktop,Chrome,Direct,France,False,False,7
+VISIT001417,2024-06-02 09:00:00,/product/electronics,1919,Desktop,Chrome,Organic Search,Germany,False,False,16
+VISIT001021,2024-06-02 13:00:00,/blog,2179,Desktop,Safari,Organic Search,France,False,False,17
+VISIT001768,2024-06-02 14:00:00,/product/sports,902,Desktop,Edge,Direct,France,False,False,17
+VISIT001090,2024-06-02 16:00:00,/checkout,752,Desktop,Edge,Direct,Germany,False,True,17
+VISIT000345,2024-06-02 19:00:00,/blog,119,Desktop,Chrome,Organic Search,France,True,False,9
+VISIT000975,2024-06-02 20:00:00,/cart,362,Desktop,Safari,Direct,USA,False,False,4
+VISIT000229,2024-06-02 23:00:00,/product/electronics,380,Desktop,Chrome,Organic Search,USA,False,False,12
+VISIT001574,2024-06-03 10:00:00,/product/electronics,1734,Mobile,Chrome,Organic Search,France,True,False,3
+VISIT000028,2024-06-03 11:00:00,/checkout,2511,Desktop,Firefox,Organic Search,Australia,False,False,9
+VISIT001240,2024-06-03 13:00:00,/product/electronics,2803,Mobile,Chrome,Organic Search,Japan,True,False,11
+VISIT000583,2024-06-03 18:00:00,/blog,1109,Mobile,Chrome,Paid Ads,Australia,False,False,18
+VISIT001422,2024-06-03 23:00:00,/checkout,3140,Tablet,Chrome,Direct,Japan,False,False,19
+VISIT000467,2024-06-04 04:00:00,/products,1161,Desktop,Chrome,Organic Search,Canada,False,False,17
+VISIT000808,2024-06-04 05:00:00,/blog,298,Mobile,Opera,Social Media,Germany,True,True,8
+VISIT001238,2024-06-04 10:00:00,/about,681,Desktop,Edge,Organic Search,France,False,False,4
+VISIT001154,2024-06-04 20:00:00,/about,1098,Tablet,Safari,Organic Search,USA,False,False,15
+VISIT000937,2024-06-05 01:00:00,/about,3066,Desktop,Safari,Social Media,Germany,False,False,16
+VISIT001988,2024-06-05 04:00:00,/home,1170,Mobile,Chrome,Paid Ads,Germany,False,False,4
+VISIT001833,2024-06-05 07:00:00,/products,2655,Desktop,Chrome,Organic Search,Canada,True,False,2
+VISIT001536,2024-06-05 13:00:00,/product/electronics,2854,Mobile,Chrome,Social Media,USA,False,True,14
+VISIT000838,2024-06-05 14:00:00,/product/clothing,3528,Mobile,Opera,Organic Search,UK,False,False,14
+VISIT000213,2024-06-05 17:00:00,/checkout,155,Desktop,Firefox,Organic Search,France,False,False,3
+VISIT000941,2024-06-06 00:00:00,/product/electronics,2523,Desktop,Chrome,Organic Search,Germany,False,False,6
+VISIT001603,2024-06-06 03:00:00,/cart,2257,Mobile,Chrome,Organic Search,Japan,False,False,12
+VISIT000840,2024-06-06 06:00:00,/blog,371,Desktop,Chrome,Direct,Germany,False,False,18
+VISIT001303,2024-06-06 07:00:00,/blog,2615,Desktop,Firefox,Social Media,USA,True,False,18
+VISIT000319,2024-06-06 10:00:00,/contact,3033,Desktop,Safari,Direct,Japan,True,False,15
+VISIT000375,2024-06-06 23:00:00,/checkout,2514,Mobile,Chrome,Email,USA,True,False,5
+VISIT001273,2024-06-07 06:00:00,/cart,239,Desktop,Firefox,Social Media,Japan,False,False,7
+VISIT001058,2024-06-07 07:00:00,/product/sports,266,Desktop,Chrome,Email,UK,False,False,2
+VISIT000424,2024-06-07 14:00:00,/checkout,2204,Desktop,Chrome,Direct,Australia,False,True,4
+VISIT001805,2024-06-07 16:00:00,/product/electronics,731,Desktop,Chrome,Email,UK,False,True,14
+VISIT000099,2024-06-08 04:00:00,/contact,1455,Mobile,Chrome,Social Media,Germany,False,False,8
+VISIT001143,2024-06-08 11:00:00,/about,3437,Desktop,Chrome,Email,UK,True,False,6
+VISIT001491,2024-06-08 18:00:00,/cart,396,Mobile,Chrome,Organic Search,France,True,False,7
+VISIT001409,2024-06-08 21:00:00,/contact,1652,Desktop,Chrome,Social Media,Japan,True,False,16
+VISIT001957,2024-06-09 00:00:00,/cart,1896,Mobile,Chrome,Organic Search,UK,False,False,11
+VISIT001184,2024-06-09 03:00:00,/product/clothing,991,Mobile,Chrome,Direct,Australia,False,False,4
+VISIT000466,2024-06-09 07:00:00,/products,1108,Mobile,Chrome,Organic Search,UK,True,False,4
+VISIT001286,2024-06-09 11:00:00,/products,1415,Mobile,Chrome,Direct,Canada,False,False,12
+VISIT001769,2024-06-09 19:00:00,/product/electronics,962,Mobile,Chrome,Social Media,UK,False,False,11
+VISIT000565,2024-06-09 21:00:00,/about,3085,Desktop,Opera,Social Media,Canada,False,False,2
+VISIT000960,2024-06-09 21:00:00,/products,707,Desktop,Safari,Paid Ads,Japan,False,False,16
+VISIT000733,2024-06-09 23:00:00,/cart,50,Desktop,Edge,Social Media,UK,False,False,2
+VISIT000412,2024-06-10 03:00:00,/blog,2058,Mobile,Edge,Direct,France,False,False,13
+VISIT001310,2024-06-10 09:00:00,/blog,482,Tablet,Chrome,Paid Ads,Germany,True,False,4
+VISIT000993,2024-06-10 10:00:00,/checkout,253,Mobile,Edge,Organic Search,Australia,False,False,5
+VISIT001110,2024-06-10 12:00:00,/blog,1046,Desktop,Edge,Organic Search,France,True,False,1
+VISIT001964,2024-06-10 17:00:00,/contact,1398,Mobile,Chrome,Social Media,Australia,False,False,19
+VISIT000266,2024-06-10 18:00:00,/product/sports,2032,Mobile,Chrome,Direct,USA,True,False,6
+VISIT000146,2024-06-11 02:00:00,/products,1241,Desktop,Chrome,Social Media,France,False,False,10
+VISIT001350,2024-06-11 05:00:00,/contact,2737,Desktop,Chrome,Social Media,Canada,True,False,2
+VISIT000602,2024-06-11 10:00:00,/cart,1415,Mobile,Chrome,Social Media,Canada,False,False,17
+VISIT001688,2024-06-11 10:00:00,/contact,642,Desktop,Chrome,Organic Search,Canada,True,False,6
+VISIT001142,2024-06-11 12:00:00,/products,1744,Mobile,Chrome,Social Media,France,False,False,19
+VISIT001018,2024-06-11 15:00:00,/products,796,Desktop,Chrome,Direct,France,False,False,16
+VISIT000872,2024-06-11 15:00:00,/blog,1085,Desktop,Firefox,Organic Search,USA,True,False,13
+VISIT001953,2024-06-11 16:00:00,/checkout,512,Desktop,Firefox,Organic Search,France,False,False,15
+VISIT001190,2024-06-11 20:00:00,/blog,983,Desktop,Firefox,Social Media,Canada,False,False,3
+VISIT000644,2024-06-11 20:00:00,/products,1322,Mobile,Chrome,Direct,Japan,False,False,14
+VISIT000928,2024-06-12 06:00:00,/about,1845,Mobile,Chrome,Email,France,False,False,15
+VISIT000527,2024-06-12 10:00:00,/products,2296,Desktop,Chrome,Direct,Canada,False,False,6
+VISIT000528,2024-06-12 12:00:00,/checkout,1303,Mobile,Chrome,Organic Search,France,True,True,10
+VISIT000374,2024-06-12 19:00:00,/product/clothing,1528,Tablet,Safari,Organic Search,France,False,False,19
+VISIT001704,2024-06-13 03:00:00,/product/clothing,3092,Desktop,Chrome,Paid Ads,Japan,False,False,1
+VISIT001324,2024-06-13 06:00:00,/product/sports,1588,Mobile,Edge,Organic Search,Canada,False,False,4
+VISIT000525,2024-06-13 08:00:00,/products,1307,Desktop,Edge,Organic Search,USA,False,False,5
+VISIT000566,2024-06-13 09:00:00,/product/clothing,2741,Desktop,Chrome,Paid Ads,Germany,False,False,2
+VISIT001166,2024-06-13 09:00:00,/products,1607,Mobile,Firefox,Email,Japan,False,False,8
+VISIT000843,2024-06-13 12:00:00,/blog,333,Mobile,Opera,Paid Ads,France,False,False,10
+VISIT000630,2024-06-13 13:00:00,/product/electronics,1301,Mobile,Firefox,Organic Search,Canada,False,False,12
+VISIT000499,2024-06-13 13:00:00,/product/electronics,3177,Mobile,Chrome,Email,Australia,False,False,7
+VISIT000908,2024-06-13 14:00:00,/products,2688,Desktop,Edge,Organic Search,Germany,False,False,12
+VISIT000612,2024-06-13 14:00:00,/blog,554,Mobile,Firefox,Social Media,USA,False,False,9
+VISIT000692,2024-06-13 16:00:00,/cart,2303,Desktop,Chrome,Paid Ads,Japan,False,False,6
+VISIT001623,2024-06-13 16:00:00,/product/electronics,1251,Mobile,Chrome,Direct,USA,False,False,6
+VISIT001782,2024-06-13 20:00:00,/product/sports,3241,Desktop,Firefox,Direct,USA,False,False,12
+VISIT000449,2024-06-14 00:00:00,/about,2765,Tablet,Edge,Social Media,Japan,True,False,12
+VISIT000832,2024-06-14 01:00:00,/home,1760,Desktop,Firefox,Paid Ads,UK,False,False,5
+VISIT000697,2024-06-14 02:00:00,/cart,2762,Desktop,Chrome,Paid Ads,Germany,True,False,12
+VISIT001826,2024-06-14 10:00:00,/contact,2530,Desktop,Safari,Direct,Australia,False,False,13
+VISIT001394,2024-06-14 15:00:00,/home,393,Mobile,Chrome,Social Media,France,False,False,9
+VISIT001466,2024-06-14 16:00:00,/about,2348,Tablet,Edge,Direct,Japan,True,False,8
+VISIT000344,2024-06-14 20:00:00,/checkout,2437,Desktop,Firefox,Organic Search,UK,False,False,19
+VISIT001005,2024-06-15 02:00:00,/about,2025,Desktop,Firefox,Organic Search,USA,True,False,16
+VISIT000177,2024-06-15 03:00:00,/product/electronics,3497,Desktop,Edge,Paid Ads,Germany,True,False,12
+VISIT000498,2024-06-15 04:00:00,/home,1263,Mobile,Safari,Social Media,Canada,False,False,15
+VISIT000380,2024-06-15 05:00:00,/home,2372,Desktop,Chrome,Social Media,UK,False,False,5
+VISIT000331,2024-06-15 07:00:00,/blog,2011,Mobile,Edge,Organic Search,Australia,True,False,13
+VISIT001050,2024-06-15 09:00:00,/product/clothing,719,Desktop,Safari,Direct,Germany,False,False,11
+VISIT000454,2024-06-15 10:00:00,/product/clothing,154,Desktop,Chrome,Paid Ads,Canada,False,False,10
+VISIT001707,2024-06-15 12:00:00,/products,175,Desktop,Safari,Email,Australia,False,False,7
+VISIT001375,2024-06-15 12:00:00,/cart,1308,Desktop,Chrome,Direct,UK,False,False,9
+VISIT001625,2024-06-15 15:00:00,/cart,2163,Desktop,Chrome,Direct,Australia,False,False,12
+VISIT001474,2024-06-16 05:00:00,/about,3148,Desktop,Firefox,Organic Search,Japan,False,False,9
+VISIT001985,2024-06-16 05:00:00,/about,1869,Mobile,Firefox,Organic Search,USA,False,False,12
+VISIT001842,2024-06-16 05:00:00,/contact,2814,Desktop,Chrome,Organic Search,Germany,False,False,18
+VISIT001401,2024-06-16 06:00:00,/contact,3557,Mobile,Opera,Organic Search,Australia,False,False,17
+VISIT000112,2024-06-16 10:00:00,/products,1076,Desktop,Firefox,Organic Search,Japan,True,False,2
+VISIT000915,2024-06-16 12:00:00,/product/electronics,110,Mobile,Firefox,Direct,USA,True,False,5
+VISIT001489,2024-06-16 17:00:00,/about,2474,Mobile,Edge,Social Media,France,True,False,4
+VISIT001963,2024-06-16 17:00:00,/contact,1995,Desktop,Chrome,Social Media,Germany,True,False,11
+VISIT001188,2024-06-16 21:00:00,/about,891,Mobile,Safari,Direct,Australia,False,False,11
+VISIT001244,2024-06-16 22:00:00,/checkout,2470,Mobile,Edge,Organic Search,Australia,False,False,4
+VISIT000912,2024-06-17 01:00:00,/products,3544,Desktop,Edge,Direct,Canada,True,False,2
+VISIT000902,2024-06-17 03:00:00,/contact,3577,Mobile,Firefox,Direct,Canada,True,False,7
+VISIT001265,2024-06-17 11:00:00,/product/sports,55,Desktop,Chrome,Direct,France,False,False,12
+VISIT000757,2024-06-17 17:00:00,/checkout,3381,Tablet,Chrome,Paid Ads,UK,True,False,7
+VISIT001445,2024-06-18 19:00:00,/product/sports,787,Mobile,Firefox,Organic Search,Germany,True,False,4
+VISIT001271,2024-06-19 02:00:00,/product/electronics,256,Mobile,Chrome,Organic Search,Japan,True,False,4
+VISIT000965,2024-06-19 05:00:00,/contact,360,Desktop,Opera,Social Media,USA,False,False,7
+VISIT000882,2024-06-19 07:00:00,/contact,3291,Tablet,Chrome,Social Media,Germany,False,False,19
+VISIT000997,2024-06-19 12:00:00,/about,875,Tablet,Chrome,Direct,Japan,False,False,4
+VISIT001359,2024-06-19 15:00:00,/blog,921,Desktop,Safari,Organic Search,Japan,True,False,2
+VISIT001832,2024-06-19 21:00:00,/contact,326,Desktop,Chrome,Organic Search,Australia,True,False,13
+VISIT000425,2024-06-20 01:00:00,/cart,2040,Desktop,Chrome,Organic Search,UK,True,False,12
+VISIT001854,2024-06-20 02:00:00,/about,2152,Mobile,Chrome,Paid Ads,UK,False,False,3
+VISIT001697,2024-06-20 06:00:00,/blog,1505,Desktop,Firefox,Paid Ads,France,True,False,17
+VISIT000502,2024-06-20 07:00:00,/checkout,2435,Mobile,Firefox,Organic Search,Japan,True,False,11
+VISIT000430,2024-06-20 09:00:00,/product/clothing,308,Desktop,Chrome,Direct,France,False,False,17
+VISIT001955,2024-06-20 11:00:00,/checkout,2879,Mobile,Edge,Organic Search,USA,False,False,18
+VISIT001665,2024-06-20 11:00:00,/product/sports,3571,Desktop,Chrome,Direct,Japan,False,False,11
+VISIT000931,2024-06-20 12:00:00,/blog,451,Mobile,Chrome,Organic Search,Canada,False,False,7
+VISIT000251,2024-06-20 15:00:00,/product/electronics,2977,Mobile,Safari,Paid Ads,Canada,False,False,4
+VISIT000819,2024-06-20 17:00:00,/blog,1205,Mobile,Edge,Social Media,Japan,True,False,15
+VISIT000608,2024-06-20 19:00:00,/product/electronics,1401,Mobile,Chrome,Organic Search,Germany,True,False,4
+VISIT000595,2024-06-21 03:00:00,/product/sports,2938,Desktop,Firefox,Paid Ads,Germany,True,False,11
+VISIT001677,2024-06-21 06:00:00,/checkout,2144,Desktop,Chrome,Direct,Canada,False,False,15
+VISIT001545,2024-06-21 06:00:00,/products,874,Desktop,Chrome,Organic Search,Australia,True,False,8
+VISIT000127,2024-06-21 10:00:00,/cart,2206,Tablet,Chrome,Organic Search,UK,True,False,8
+VISIT001426,2024-06-21 16:00:00,/contact,225,Tablet,Chrome,Organic Search,USA,True,False,4
+VISIT000815,2024-06-21 19:00:00,/cart,1433,Desktop,Firefox,Social Media,Germany,True,False,11
+VISIT000398,2024-06-22 02:00:00,/product/electronics,3296,Desktop,Chrome,Social Media,UK,True,False,7
+VISIT000717,2024-06-22 12:00:00,/products,142,Desktop,Chrome,Organic Search,UK,False,False,2
+VISIT001822,2024-06-22 13:00:00,/cart,966,Mobile,Chrome,Organic Search,Germany,True,False,16
+VISIT000175,2024-06-22 15:00:00,/blog,2488,Desktop,Firefox,Paid Ads,UK,False,False,10
+VISIT000426,2024-06-23 05:00:00,/product/electronics,1199,Desktop,Edge,Organic Search,Australia,False,False,2
+VISIT001049,2024-06-23 05:00:00,/contact,2490,Mobile,Chrome,Paid Ads,USA,False,False,15
+VISIT000768,2024-06-23 06:00:00,/product/sports,1398,Desktop,Chrome,Social Media,Australia,True,False,4
+VISIT000577,2024-06-23 08:00:00,/product/sports,2893,Desktop,Firefox,Organic Search,USA,False,False,9
+VISIT000040,2024-06-23 09:00:00,/contact,143,Mobile,Chrome,Email,France,False,False,9
+VISIT000918,2024-06-23 11:00:00,/blog,2893,Mobile,Chrome,Social Media,UK,False,False,17
+VISIT001596,2024-06-23 12:00:00,/products,2829,Desktop,Chrome,Direct,Australia,False,False,8
+VISIT000304,2024-06-23 22:00:00,/checkout,1475,Desktop,Chrome,Email,Germany,True,False,12
+VISIT000543,2024-06-23 23:00:00,/product/electronics,232,Tablet,Chrome,Paid Ads,France,False,False,17
+VISIT000823,2024-06-24 04:00:00,/cart,3233,Mobile,Opera,Organic Search,USA,False,False,16
+VISIT000085,2024-06-24 09:00:00,/products,3311,Mobile,Chrome,Social Media,UK,False,False,6
+VISIT000183,2024-06-24 09:00:00,/contact,394,Mobile,Edge,Organic Search,UK,True,False,12
+VISIT000438,2024-06-24 11:00:00,/contact,1187,Desktop,Safari,Organic Search,Germany,True,False,14
+VISIT000174,2024-06-24 13:00:00,/contact,725,Mobile,Chrome,Organic Search,USA,True,False,5
+VISIT000508,2024-06-24 15:00:00,/products,339,Desktop,Chrome,Organic Search,France,True,False,1
+VISIT000769,2024-06-25 01:00:00,/blog,2421,Mobile,Firefox,Paid Ads,Germany,False,False,3
+VISIT000494,2024-06-25 06:00:00,/product/electronics,2513,Mobile,Edge,Organic Search,Japan,False,False,9
+VISIT000857,2024-06-25 07:00:00,/checkout,3275,Mobile,Safari,Organic Search,Canada,False,False,8
+VISIT000551,2024-06-25 08:00:00,/product/sports,508,Mobile,Chrome,Organic Search,Australia,False,False,7
+VISIT001219,2024-06-25 08:00:00,/cart,1842,Mobile,Safari,Email,USA,True,False,9
+VISIT000490,2024-06-25 08:00:00,/cart,2142,Mobile,Chrome,Direct,France,False,False,15
+VISIT000171,2024-06-25 10:00:00,/checkout,3268,Desktop,Chrome,Organic Search,UK,False,False,8
+VISIT001000,2024-06-25 11:00:00,/blog,1243,Desktop,Chrome,Paid Ads,USA,True,False,4
+VISIT001583,2024-06-25 16:00:00,/blog,1146,Mobile,Firefox,Organic Search,UK,True,False,7
+VISIT000791,2024-06-25 17:00:00,/home,698,Mobile,Chrome,Organic Search,Germany,True,False,12
+VISIT000463,2024-06-25 18:00:00,/blog,3495,Desktop,Chrome,Social Media,France,True,False,9
+VISIT000762,2024-06-25 20:00:00,/product/clothing,3501,Desktop,Chrome,Email,France,True,False,1
+VISIT000940,2024-06-25 21:00:00,/contact,2932,Mobile,Chrome,Social Media,USA,False,False,5
+VISIT001510,2024-06-26 07:00:00,/products,2598,Desktop,Chrome,Direct,Canada,False,False,8
+VISIT000662,2024-06-26 09:00:00,/products,2121,Desktop,Chrome,Social Media,Japan,True,False,9
+VISIT000124,2024-06-26 16:00:00,/about,3294,Desktop,Edge,Email,Japan,False,True,6
+VISIT001872,2024-06-26 17:00:00,/product/clothing,275,Mobile,Edge,Direct,Japan,False,False,16
+VISIT001321,2024-06-26 19:00:00,/checkout,1519,Desktop,Safari,Organic Search,Japan,False,False,9
+VISIT001089,2024-06-26 19:00:00,/blog,1795,Desktop,Edge,Organic Search,USA,False,False,1
+VISIT000749,2024-06-26 20:00:00,/cart,3483,Mobile,Edge,Organic Search,France,True,False,4
+VISIT001307,2024-06-26 21:00:00,/products,656,Desktop,Safari,Social Media,France,False,False,15
+VISIT000474,2024-06-26 23:00:00,/product/electronics,2216,Desktop,Chrome,Paid Ads,Japan,False,False,15
+VISIT000622,2024-06-27 04:00:00,/product/sports,665,Mobile,Edge,Social Media,Germany,False,False,7
+VISIT000660,2024-06-27 08:00:00,/about,755,Mobile,Firefox,Direct,UK,False,False,16
+VISIT000594,2024-06-27 10:00:00,/product/sports,1756,Mobile,Chrome,Email,Canada,False,False,19
+VISIT000002,2024-06-27 10:00:00,/contact,636,Mobile,Chrome,Organic Search,UK,True,False,19
+VISIT001778,2024-06-27 14:00:00,/products,2494,Desktop,Chrome,Direct,Germany,True,False,12
+VISIT001457,2024-06-27 14:00:00,/checkout,600,Desktop,Chrome,Email,Canada,True,False,18
+VISIT001179,2024-06-27 15:00:00,/product/sports,639,Mobile,Chrome,Social Media,Canada,False,False,11
+VISIT001160,2024-06-27 16:00:00,/checkout,2363,Desktop,Chrome,Email,France,True,False,7
+VISIT001900,2024-06-27 19:00:00,/products,2220,Desktop,Chrome,Social Media,Canada,False,False,16
+VISIT001116,2024-06-27 20:00:00,/home,2130,Desktop,Chrome,Organic Search,France,False,False,13
+VISIT001443,2024-06-27 21:00:00,/blog,2357,Desktop,Edge,Organic Search,Japan,False,False,10
+VISIT001715,2024-06-27 22:00:00,/products,554,Desktop,Chrome,Organic Search,France,False,False,15
+VISIT001658,2024-06-27 23:00:00,/about,1826,Desktop,Safari,Direct,Australia,False,False,14
+VISIT000121,2024-06-28 08:00:00,/about,2433,Desktop,Chrome,Social Media,France,True,False,2
+VISIT000926,2024-06-28 10:00:00,/contact,326,Mobile,Firefox,Direct,Australia,True,False,14
+VISIT001475,2024-06-28 11:00:00,/home,2524,Desktop,Chrome,Paid Ads,Canada,True,False,15
+VISIT001519,2024-06-28 14:00:00,/product/clothing,3228,Desktop,Chrome,Organic Search,Canada,False,False,10
+VISIT001793,2024-06-28 19:00:00,/checkout,1806,Tablet,Chrome,Direct,Australia,False,False,9
+VISIT001135,2024-06-28 19:00:00,/blog,1250,Desktop,Chrome,Organic Search,UK,False,False,4
+VISIT001503,2024-06-29 13:00:00,/home,50,Mobile,Edge,Organic Search,Japan,False,False,15
+VISIT001839,2024-06-29 16:00:00,/cart,2315,Mobile,Edge,Direct,UK,False,False,8
+VISIT000627,2024-06-29 20:00:00,/product/electronics,2321,Mobile,Chrome,Organic Search,Canada,False,False,14
+VISIT000145,2024-06-30 01:00:00,/products,1494,Mobile,Edge,Organic Search,Germany,False,False,17
+VISIT001415,2024-06-30 07:00:00,/about,32,Desktop,Chrome,Direct,USA,True,False,5
+VISIT000607,2024-06-30 09:00:00,/blog,902,Mobile,Chrome,Email,France,False,False,14
+VISIT001828,2024-06-30 10:00:00,/home,562,Mobile,Chrome,Organic Search,France,True,False,6
+VISIT001515,2024-06-30 11:00:00,/blog,3530,Desktop,Edge,Organic Search,Germany,False,False,12
+VISIT001228,2024-06-30 13:00:00,/product/clothing,2634,Mobile,Chrome,Direct,France,True,False,19
+VISIT001911,2024-06-30 22:00:00,/product/clothing,495,Desktop,Safari,Social Media,France,False,False,6
+VISIT000189,2024-07-01 00:00:00,/checkout,2906,Mobile,Opera,Organic Search,USA,False,False,13
+VISIT000268,2024-07-01 02:00:00,/product/electronics,842,Mobile,Chrome,Direct,Canada,True,False,7
+VISIT001163,2024-07-01 04:00:00,/contact,404,Tablet,Firefox,Organic Search,USA,True,False,5
+VISIT001549,2024-07-01 05:00:00,/checkout,2131,Mobile,Chrome,Direct,Germany,False,False,5
+VISIT001001,2024-07-01 06:00:00,/product/sports,613,Mobile,Chrome,Social Media,Australia,True,False,7
+VISIT000238,2024-07-01 13:00:00,/product/sports,2271,Tablet,Chrome,Direct,UK,True,False,18
+VISIT001250,2024-07-01 14:00:00,/products,1399,Mobile,Edge,Direct,USA,False,False,17
+VISIT001185,2024-07-01 15:00:00,/product/electronics,814,Mobile,Chrome,Paid Ads,USA,False,False,19
+VISIT000858,2024-07-01 20:00:00,/about,1413,Mobile,Firefox,Social Media,Canada,True,False,19
+VISIT000678,2024-07-01 23:00:00,/products,671,Mobile,Firefox,Organic Search,Australia,False,False,7
+VISIT001372,2024-07-02 01:00:00,/products,2252,Tablet,Firefox,Organic Search,France,False,False,7
+VISIT000131,2024-07-02 07:00:00,/checkout,799,Desktop,Chrome,Social Media,USA,False,False,10
+VISIT000292,2024-07-02 08:00:00,/product/electronics,2117,Desktop,Chrome,Direct,USA,True,False,11
+VISIT000202,2024-07-02 13:00:00,/blog,1598,Desktop,Edge,Organic Search,Germany,True,False,12
+VISIT000825,2024-07-02 14:00:00,/contact,1216,Mobile,Chrome,Paid Ads,Australia,False,False,16
+VISIT000188,2024-07-02 15:00:00,/blog,3211,Mobile,Chrome,Organic Search,UK,True,False,12
+VISIT001774,2024-07-02 15:00:00,/cart,504,Desktop,Edge,Social Media,Australia,False,False,14
+VISIT001042,2024-07-02 18:00:00,/contact,3490,Desktop,Opera,Social Media,USA,True,False,5
+VISIT000389,2024-07-02 20:00:00,/product/sports,3374,Tablet,Safari,Paid Ads,Germany,False,False,15
+VISIT001440,2024-07-02 23:00:00,/product/electronics,1204,Mobile,Firefox,Organic Search,USA,True,False,15
+VISIT001150,2024-07-03 01:00:00,/product/clothing,2224,Desktop,Safari,Paid Ads,Germany,False,False,9
+VISIT000616,2024-07-03 01:00:00,/product/clothing,1479,Desktop,Chrome,Direct,Canada,True,False,19
+VISIT001167,2024-07-03 04:00:00,/product/sports,3418,Mobile,Chrome,Direct,Australia,True,False,18
+VISIT000411,2024-07-03 05:00:00,/cart,2969,Desktop,Chrome,Organic Search,USA,False,False,18
+VISIT001661,2024-07-03 07:00:00,/contact,1291,Desktop,Firefox,Organic Search,Canada,True,False,5
+VISIT000167,2024-07-03 09:00:00,/product/electronics,2996,Tablet,Chrome,Social Media,USA,True,False,11
+VISIT001144,2024-07-03 12:00:00,/blog,635,Desktop,Chrome,Direct,Germany,False,False,13
+VISIT000929,2024-07-03 13:00:00,/blog,1953,Desktop,Chrome,Social Media,UK,True,False,15
+VISIT000025,2024-07-03 17:00:00,/checkout,1363,Mobile,Edge,Organic Search,UK,False,False,19
+VISIT001893,2024-07-03 18:00:00,/product/clothing,778,Mobile,Edge,Organic Search,Japan,False,False,15
+VISIT000906,2024-07-03 19:00:00,/checkout,1191,Mobile,Chrome,Organic Search,UK,True,False,3
+VISIT001420,2024-07-03 20:00:00,/about,2292,Mobile,Firefox,Paid Ads,Canada,False,False,11
+VISIT001887,2024-07-04 01:00:00,/product/sports,163,Desktop,Chrome,Direct,Australia,True,False,10
+VISIT001399,2024-07-04 06:00:00,/cart,3575,Desktop,Edge,Organic Search,Japan,False,False,4
+VISIT000130,2024-07-04 08:00:00,/products,2453,Desktop,Edge,Social Media,Japan,True,False,17
+VISIT001285,2024-07-04 09:00:00,/contact,1946,Desktop,Chrome,Social Media,Canada,True,False,17
+VISIT000410,2024-07-04 12:00:00,/product/electronics,1139,Desktop,Edge,Organic Search,Australia,True,False,9
+VISIT001405,2024-07-04 13:00:00,/blog,1882,Mobile,Safari,Organic Search,France,False,False,16
+VISIT000650,2024-07-04 14:00:00,/checkout,1288,Mobile,Edge,Paid Ads,Germany,False,False,2
+VISIT000480,2024-07-04 19:00:00,/product/clothing,2582,Desktop,Firefox,Organic Search,Japan,True,False,17
+VISIT001566,2024-07-05 05:00:00,/about,1614,Mobile,Chrome,Social Media,Japan,True,False,10
+VISIT000273,2024-07-05 06:00:00,/product/clothing,1656,Desktop,Safari,Organic Search,Canada,False,True,8
+VISIT001777,2024-07-05 12:00:00,/about,756,Desktop,Firefox,Direct,Japan,False,False,15
+VISIT000070,2024-07-05 13:00:00,/product/clothing,1597,Desktop,Opera,Organic Search,Canada,False,False,6
+VISIT000293,2024-07-05 21:00:00,/home,2950,Mobile,Opera,Organic Search,Japan,True,False,14
+VISIT001199,2024-07-06 02:00:00,/products,976,Mobile,Chrome,Organic Search,UK,False,False,18
+VISIT001692,2024-07-06 02:00:00,/contact,13,Mobile,Chrome,Organic Search,UK,False,False,13
+VISIT001111,2024-07-06 04:00:00,/product/clothing,916,Desktop,Chrome,Direct,Canada,True,False,6
+VISIT001146,2024-07-06 05:00:00,/about,3246,Mobile,Firefox,Organic Search,Germany,False,False,15
+VISIT000956,2024-07-06 05:00:00,/contact,1832,Mobile,Edge,Social Media,France,True,False,8
+VISIT001781,2024-07-06 07:00:00,/cart,2402,Desktop,Edge,Organic Search,Japan,False,False,5
+VISIT000318,2024-07-06 08:00:00,/checkout,725,Desktop,Chrome,Email,Canada,True,False,10
+VISIT000321,2024-07-06 14:00:00,/products,2161,Mobile,Chrome,Direct,Australia,False,True,4
+VISIT000797,2024-07-06 14:00:00,/blog,1873,Desktop,Chrome,Direct,Germany,False,False,13
+VISIT001320,2024-07-06 14:00:00,/product/sports,1906,Desktop,Chrome,Email,UK,False,False,2
+VISIT001543,2024-07-06 17:00:00,/contact,3193,Tablet,Chrome,Organic Search,Germany,True,False,2
+VISIT000115,2024-07-06 18:00:00,/contact,2663,Desktop,Firefox,Social Media,Germany,False,False,17
+VISIT001554,2024-07-06 18:00:00,/about,1915,Mobile,Firefox,Direct,Japan,False,False,9
+VISIT001570,2024-07-06 19:00:00,/product/sports,3408,Desktop,Safari,Paid Ads,Canada,True,False,16
+VISIT000721,2024-07-06 22:00:00,/contact,2406,Desktop,Firefox,Organic Search,USA,False,True,5
+VISIT001447,2024-07-07 05:00:00,/about,2289,Mobile,Opera,Email,Japan,True,False,14
+VISIT000408,2024-07-07 06:00:00,/about,359,Desktop,Safari,Organic Search,Canada,False,False,16
+VISIT000381,2024-07-07 07:00:00,/home,2766,Mobile,Safari,Social Media,USA,False,False,7
+VISIT000689,2024-07-07 10:00:00,/product/clothing,70,Tablet,Safari,Direct,Canada,True,False,11
+VISIT000053,2024-07-07 11:00:00,/blog,975,Desktop,Firefox,Organic Search,France,False,False,18
+VISIT000283,2024-07-07 22:00:00,/contact,1104,Mobile,Chrome,Direct,France,False,False,18
+VISIT001595,2024-07-07 23:00:00,/product/sports,2954,Mobile,Safari,Email,France,True,False,7
+VISIT001412,2024-07-08 06:00:00,/cart,2906,Mobile,Chrome,Organic Search,USA,False,False,18
+VISIT000870,2024-07-08 06:00:00,/product/electronics,3013,Mobile,Safari,Email,Japan,True,False,11
+VISIT000696,2024-07-08 09:00:00,/product/electronics,1816,Tablet,Edge,Organic Search,Japan,True,False,5
+VISIT001861,2024-07-08 10:00:00,/home,2785,Desktop,Firefox,Paid Ads,Germany,True,True,5
+VISIT000284,2024-07-08 11:00:00,/contact,577,Mobile,Edge,Email,Germany,False,False,17
+VISIT000986,2024-07-08 13:00:00,/home,2648,Mobile,Firefox,Social Media,UK,True,False,6
+VISIT001597,2024-07-08 21:00:00,/home,1072,Desktop,Firefox,Social Media,Japan,True,False,4
+VISIT000091,2024-07-08 23:00:00,/product/clothing,3404,Desktop,Firefox,Organic Search,Australia,False,False,11
+VISIT001910,2024-07-09 05:00:00,/cart,2885,Mobile,Chrome,Direct,France,True,False,9
+VISIT001028,2024-07-09 06:00:00,/cart,91,Mobile,Firefox,Social Media,Japan,False,True,8
+VISIT000691,2024-07-09 07:00:00,/home,281,Desktop,Safari,Social Media,France,False,False,9
+VISIT001495,2024-07-09 11:00:00,/product/clothing,2720,Desktop,Firefox,Organic Search,Germany,False,False,1
+VISIT000222,2024-07-09 11:00:00,/blog,647,Mobile,Firefox,Paid Ads,UK,True,False,10
+VISIT001527,2024-07-09 12:00:00,/home,342,Desktop,Edge,Paid Ads,France,True,False,1
+VISIT001525,2024-07-09 14:00:00,/contact,2101,Mobile,Chrome,Social Media,UK,False,False,15
+VISIT001378,2024-07-09 14:00:00,/cart,3036,Mobile,Edge,Organic Search,Germany,False,False,9
+VISIT000817,2024-07-09 16:00:00,/products,867,Mobile,Firefox,Direct,Germany,True,False,15
+VISIT001397,2024-07-09 19:00:00,/blog,697,Mobile,Chrome,Paid Ads,Japan,True,False,7
+VISIT000800,2024-07-09 20:00:00,/blog,626,Desktop,Firefox,Organic Search,Japan,False,False,12
+VISIT000695,2024-07-09 20:00:00,/checkout,3398,Mobile,Chrome,Direct,Japan,True,False,10
+VISIT001705,2024-07-09 21:00:00,/product/sports,2401,Desktop,Chrome,Social Media,USA,True,False,3
+VISIT001027,2024-07-10 06:00:00,/product/electronics,2433,Mobile,Firefox,Direct,Japan,True,False,8
+VISIT001203,2024-07-10 08:00:00,/checkout,507,Desktop,Firefox,Social Media,Canada,False,False,13
+VISIT001834,2024-07-10 09:00:00,/home,777,Desktop,Chrome,Paid Ads,Australia,False,False,19
+VISIT000037,2024-07-10 13:00:00,/checkout,2306,Desktop,Chrome,Organic Search,France,False,False,7
+VISIT001712,2024-07-10 13:00:00,/product/clothing,1661,Desktop,Chrome,Social Media,France,False,False,9
+VISIT000147,2024-07-10 14:00:00,/checkout,2721,Mobile,Firefox,Organic Search,Germany,True,False,4
+VISIT000033,2024-07-10 18:00:00,/cart,2944,Mobile,Chrome,Organic Search,UK,False,False,7
+VISIT001008,2024-07-10 21:00:00,/about,1743,Desktop,Edge,Organic Search,Australia,True,False,10
+VISIT000831,2024-07-11 05:00:00,/home,2412,Desktop,Firefox,Organic Search,Germany,False,False,10
+VISIT001565,2024-07-11 05:00:00,/product/sports,2305,Mobile,Chrome,Email,Canada,True,False,18
+VISIT000554,2024-07-11 09:00:00,/product/clothing,1895,Desktop,Chrome,Paid Ads,France,False,False,17
+VISIT001158,2024-07-11 12:00:00,/product/sports,1802,Desktop,Chrome,Direct,Canada,False,False,11
+VISIT000680,2024-07-11 17:00:00,/blog,42,Mobile,Chrome,Social Media,France,False,False,16
+VISIT001906,2024-07-11 19:00:00,/home,859,Desktop,Chrome,Social Media,France,False,False,9
+VISIT001662,2024-07-11 19:00:00,/product/sports,284,Mobile,Chrome,Paid Ads,Germany,False,False,15
+VISIT000353,2024-07-12 01:00:00,/home,342,Desktop,Chrome,Organic Search,Canada,True,False,7
+VISIT000444,2024-07-12 03:00:00,/product/sports,2816,Desktop,Chrome,Direct,Canada,True,False,7
+VISIT000443,2024-07-12 07:00:00,/blog,1587,Desktop,Chrome,Email,France,True,False,17
+VISIT001403,2024-07-12 10:00:00,/products,2676,Desktop,Edge,Organic Search,Canada,True,False,9
+VISIT000354,2024-07-12 11:00:00,/product/clothing,1546,Mobile,Chrome,Organic Search,Japan,False,False,12
+VISIT001941,2024-07-12 13:00:00,/home,2045,Desktop,Chrome,Organic Search,Canada,False,False,7
+VISIT000315,2024-07-12 15:00:00,/about,455,Mobile,Chrome,Social Media,Australia,False,False,14
+VISIT001009,2024-07-12 19:00:00,/product/electronics,1623,Desktop,Edge,Social Media,UK,True,False,9
+VISIT001617,2024-07-13 05:00:00,/products,3123,Mobile,Chrome,Social Media,France,False,False,19
+VISIT001522,2024-07-13 13:00:00,/checkout,1914,Desktop,Chrome,Social Media,Japan,True,False,6
+VISIT000481,2024-07-13 14:00:00,/about,738,Mobile,Chrome,Organic Search,UK,False,False,16
+VISIT001615,2024-07-13 17:00:00,/product/sports,808,Desktop,Firefox,Social Media,Canada,False,False,7
+VISIT001598,2024-07-13 18:00:00,/blog,2623,Mobile,Chrome,Email,Canada,True,False,12
+VISIT001470,2024-07-13 21:00:00,/blog,488,Mobile,Chrome,Organic Search,Japan,True,False,7
+VISIT001710,2024-07-14 00:00:00,/contact,3563,Desktop,Chrome,Email,Japan,False,False,18
+VISIT000977,2024-07-14 00:00:00,/products,3517,Mobile,Chrome,Organic Search,UK,True,False,5
+VISIT001689,2024-07-14 01:00:00,/cart,1002,Mobile,Firefox,Social Media,Japan,True,False,12
+VISIT001067,2024-07-14 02:00:00,/product/electronics,280,Mobile,Chrome,Email,France,False,False,14
+VISIT001599,2024-07-14 02:00:00,/products,2569,Tablet,Chrome,Organic Search,Canada,True,False,12
+VISIT000545,2024-07-14 08:00:00,/home,1269,Desktop,Safari,Direct,Australia,False,False,9
+VISIT000114,2024-07-14 11:00:00,/blog,1967,Mobile,Chrome,Email,Australia,False,False,7
+VISIT000289,2024-07-14 11:00:00,/products,1195,Desktop,Edge,Direct,UK,True,True,1
+VISIT001880,2024-07-14 13:00:00,/product/electronics,2104,Mobile,Edge,Organic Search,USA,True,False,2
+VISIT000538,2024-07-14 18:00:00,/product/electronics,3362,Mobile,Firefox,Social Media,France,True,False,13
+VISIT000876,2024-07-14 19:00:00,/product/sports,1384,Desktop,Chrome,Paid Ads,Canada,False,False,13
+VISIT000913,2024-07-15 02:00:00,/checkout,1758,Desktop,Safari,Organic Search,Canada,False,False,14
+VISIT000826,2024-07-15 05:00:00,/product/electronics,3480,Desktop,Chrome,Direct,Canada,True,False,19
+VISIT000810,2024-07-15 05:00:00,/product/sports,23,Desktop,Chrome,Social Media,Japan,False,False,13
+VISIT000224,2024-07-15 06:00:00,/contact,3088,Desktop,Chrome,Organic Search,UK,False,False,16
+VISIT001676,2024-07-15 08:00:00,/product/electronics,396,Desktop,Chrome,Paid Ads,UK,False,False,18
+VISIT001039,2024-07-15 13:00:00,/home,3430,Desktop,Safari,Paid Ads,Australia,True,False,2
+VISIT000979,2024-07-15 13:00:00,/contact,1258,Mobile,Chrome,Social Media,USA,True,False,15
+VISIT001724,2024-07-15 14:00:00,/product/sports,3517,Mobile,Firefox,Direct,Japan,False,False,14
+VISIT000639,2024-07-15 15:00:00,/checkout,967,Desktop,Firefox,Social Media,Canada,False,False,8
+VISIT001635,2024-07-15 16:00:00,/product/electronics,417,Mobile,Chrome,Social Media,Australia,False,False,19
+VISIT001628,2024-07-15 16:00:00,/product/sports,1505,Mobile,Chrome,Organic Search,Canada,False,False,18
+VISIT001533,2024-07-15 19:00:00,/product/sports,2927,Mobile,Chrome,Organic Search,Canada,False,True,10
+VISIT000923,2024-07-15 20:00:00,/home,101,Desktop,Chrome,Social Media,Australia,False,False,2
+VISIT001038,2024-07-15 21:00:00,/blog,132,Tablet,Chrome,Organic Search,Germany,True,False,1
+VISIT000700,2024-07-16 04:00:00,/products,1135,Mobile,Chrome,Organic Search,Germany,True,False,13
+VISIT000659,2024-07-16 06:00:00,/cart,1304,Desktop,Firefox,Organic Search,France,False,False,14
+VISIT000479,2024-07-16 12:00:00,/product/sports,1080,Desktop,Chrome,Social Media,Australia,False,False,5
+VISIT000402,2024-07-16 14:00:00,/home,52,Desktop,Chrome,Social Media,Australia,False,False,6
+VISIT000330,2024-07-17 04:00:00,/blog,1712,Desktop,Firefox,Email,USA,False,False,11
+VISIT001892,2024-07-17 07:00:00,/product/electronics,3158,Desktop,Edge,Organic Search,Germany,True,False,2
+VISIT000949,2024-07-17 07:00:00,/home,3369,Desktop,Chrome,Organic Search,USA,True,False,6
+VISIT001347,2024-07-17 08:00:00,/products,3508,Desktop,Chrome,Organic Search,Germany,True,False,8
+VISIT000401,2024-07-17 14:00:00,/checkout,811,Desktop,Firefox,Email,Canada,False,False,19
+VISIT001609,2024-07-17 17:00:00,/contact,3329,Mobile,Chrome,Organic Search,Germany,True,False,4
+VISIT000572,2024-07-17 21:00:00,/contact,1785,Desktop,Opera,Social Media,UK,False,False,17
+VISIT000801,2024-07-17 23:00:00,/products,3564,Mobile,Chrome,Organic Search,USA,True,False,7
+VISIT001791,2024-07-17 23:00:00,/product/clothing,3350,Tablet,Firefox,Organic Search,Germany,False,False,13
+VISIT000095,2024-07-18 08:00:00,/products,1654,Mobile,Opera,Paid Ads,USA,False,False,8
+VISIT000351,2024-07-18 09:00:00,/contact,1885,Mobile,Chrome,Direct,Japan,True,False,10
+VISIT001340,2024-07-18 13:00:00,/cart,2432,Mobile,Chrome,Email,USA,False,False,13
+VISIT000675,2024-07-18 19:00:00,/cart,1346,Desktop,Chrome,Paid Ads,Canada,True,False,10
+VISIT000246,2024-07-18 21:00:00,/contact,2757,Desktop,Edge,Direct,Japan,False,False,18
+VISIT000789,2024-07-19 01:00:00,/blog,2685,Mobile,Chrome,Organic Search,Canada,True,False,19
+VISIT000841,2024-07-19 07:00:00,/home,2150,Desktop,Safari,Organic Search,USA,False,False,9
+VISIT001088,2024-07-19 08:00:00,/home,1725,Mobile,Chrome,Social Media,UK,True,False,16
+VISIT000487,2024-07-19 14:00:00,/contact,690,Mobile,Firefox,Direct,Japan,True,False,17
+VISIT000069,2024-07-19 20:00:00,/product/electronics,1325,Mobile,Firefox,Organic Search,USA,False,False,10
+VISIT000635,2024-07-20 01:00:00,/contact,3140,Mobile,Chrome,Organic Search,Germany,True,False,1
+VISIT000420,2024-07-20 06:00:00,/home,2577,Desktop,Edge,Direct,Australia,False,False,5
+VISIT000405,2024-07-20 09:00:00,/home,3359,Desktop,Chrome,Organic Search,USA,False,False,3
+VISIT001478,2024-07-20 11:00:00,/cart,1450,Mobile,Chrome,Organic Search,UK,False,False,4
+VISIT000585,2024-07-20 14:00:00,/product/electronics,825,Desktop,Chrome,Direct,Canada,False,False,2
+VISIT000530,2024-07-20 15:00:00,/about,3391,Mobile,Chrome,Social Media,USA,True,False,6
+VISIT001152,2024-07-20 16:00:00,/product/electronics,216,Desktop,Edge,Social Media,USA,False,False,5
+VISIT000539,2024-07-21 04:00:00,/product/clothing,262,Desktop,Safari,Social Media,Japan,False,False,9
+VISIT001735,2024-07-21 17:00:00,/product/electronics,1041,Desktop,Chrome,Organic Search,Germany,True,False,8
+VISIT001675,2024-07-22 03:00:00,/contact,3165,Desktop,Chrome,Organic Search,USA,True,False,18
+VISIT001630,2024-07-22 04:00:00,/product/electronics,902,Mobile,Chrome,Email,USA,False,False,9
+VISIT001581,2024-07-22 08:00:00,/checkout,3178,Mobile,Edge,Direct,France,True,False,11
+VISIT001352,2024-07-22 12:00:00,/blog,1630,Desktop,Opera,Organic Search,USA,False,False,14
+VISIT001944,2024-07-22 13:00:00,/contact,1599,Desktop,Firefox,Email,Canada,False,False,4
+VISIT000584,2024-07-22 14:00:00,/cart,86,Desktop,Opera,Organic Search,France,False,False,4
+VISIT000290,2024-07-22 15:00:00,/product/sports,3272,Mobile,Firefox,Direct,Canada,False,False,4
+VISIT000105,2024-07-22 17:00:00,/product/clothing,603,Desktop,Safari,Social Media,Japan,True,False,2
+VISIT001196,2024-07-22 18:00:00,/about,2345,Mobile,Chrome,Social Media,Germany,False,False,15
+VISIT001827,2024-07-22 19:00:00,/products,1878,Desktop,Chrome,Direct,Germany,True,True,8
+VISIT000752,2024-07-22 22:00:00,/product/clothing,3474,Mobile,Chrome,Email,Germany,True,False,15
+VISIT001153,2024-07-22 23:00:00,/home,3363,Mobile,Chrome,Direct,Japan,False,False,2
+VISIT000649,2024-07-23 05:00:00,/cart,859,Desktop,Opera,Direct,France,True,False,2
+VISIT001411,2024-07-23 08:00:00,/blog,1595,Mobile,Edge,Social Media,Germany,False,False,15
+VISIT000553,2024-07-23 13:00:00,/checkout,2759,Mobile,Chrome,Direct,Japan,False,False,5
+VISIT000767,2024-07-23 15:00:00,/product/sports,3058,Mobile,Chrome,Paid Ads,USA,False,False,17
+VISIT000604,2024-07-23 17:00:00,/about,2774,Desktop,Chrome,Organic Search,Germany,False,False,6
+VISIT001550,2024-07-23 18:00:00,/about,1586,Desktop,Chrome,Organic Search,France,False,False,7
+VISIT000734,2024-07-23 21:00:00,/blog,1200,Desktop,Safari,Organic Search,USA,False,False,5
+VISIT000570,2024-07-24 02:00:00,/cart,2997,Desktop,Edge,Organic Search,Australia,False,False,15
+VISIT000516,2024-07-24 11:00:00,/product/electronics,2327,Desktop,Edge,Social Media,Japan,False,False,18
+VISIT001650,2024-07-24 14:00:00,/home,94,Desktop,Opera,Social Media,UK,True,False,16
+VISIT000072,2024-07-24 22:00:00,/products,1834,Desktop,Chrome,Paid Ads,UK,False,False,15
+VISIT000615,2024-07-24 23:00:00,/about,3239,Mobile,Safari,Organic Search,USA,False,False,17
+VISIT000500,2024-07-25 05:00:00,/product/sports,3007,Mobile,Safari,Organic Search,Japan,False,False,13
+VISIT001956,2024-07-25 09:00:00,/home,633,Desktop,Chrome,Social Media,Germany,False,False,5
+VISIT001080,2024-07-25 15:00:00,/product/electronics,1372,Mobile,Chrome,Direct,Germany,True,False,19
+VISIT001884,2024-07-25 15:00:00,/about,219,Desktop,Chrome,Email,Canada,False,False,11
+VISIT000599,2024-07-25 16:00:00,/home,2597,Desktop,Chrome,Direct,UK,True,False,18
+VISIT001036,2024-07-25 16:00:00,/checkout,3062,Tablet,Chrome,Direct,Canada,True,False,4
+VISIT001940,2024-07-25 17:00:00,/blog,3568,Mobile,Firefox,Direct,Canada,False,False,15
+VISIT001483,2024-07-25 19:00:00,/products,1891,Mobile,Chrome,Paid Ads,UK,False,False,19
+VISIT000806,2024-07-25 23:00:00,/product/electronics,2491,Desktop,Edge,Organic Search,Australia,False,False,4
+VISIT000564,2024-07-26 00:00:00,/cart,2705,Mobile,Chrome,Organic Search,Canada,True,False,15
+VISIT000257,2024-07-26 00:00:00,/cart,1435,Desktop,Edge,Organic Search,Canada,True,False,12
+VISIT000385,2024-07-26 01:00:00,/about,3101,Mobile,Safari,Paid Ads,Germany,False,False,13
+VISIT001994,2024-07-26 12:00:00,/home,1790,Desktop,Chrome,Paid Ads,Canada,False,False,12
+VISIT001563,2024-07-26 16:00:00,/about,2794,Desktop,Chrome,Organic Search,UK,True,False,7
+VISIT000742,2024-07-26 21:00:00,/product/electronics,2066,Desktop,Chrome,Email,USA,False,False,8
+VISIT002000,2024-07-27 17:00:00,/about,1105,Desktop,Safari,Organic Search,Germany,False,False,14
+VISIT000682,2024-07-27 20:00:00,/product/sports,2615,Mobile,Chrome,Paid Ads,Japan,True,False,2
+VISIT001937,2024-07-27 21:00:00,/about,791,Mobile,Chrome,Direct,France,False,True,19
+VISIT001066,2024-07-28 00:00:00,/about,2734,Mobile,Opera,Email,Australia,True,False,15
+VISIT001942,2024-07-28 00:00:00,/home,2396,Mobile,Chrome,Paid Ads,UK,False,False,15
+VISIT001874,2024-07-28 01:00:00,/product/sports,2350,Tablet,Chrome,Organic Search,Germany,False,False,17
+VISIT000953,2024-07-28 03:00:00,/home,2370,Mobile,Chrome,Social Media,Australia,True,False,6
+VISIT001449,2024-07-28 06:00:00,/product/electronics,1870,Desktop,Firefox,Paid Ads,Germany,False,False,15
+VISIT000961,2024-07-28 06:00:00,/product/sports,2188,Mobile,Chrome,Organic Search,Australia,True,False,1
+VISIT001221,2024-07-28 07:00:00,/checkout,578,Mobile,Edge,Paid Ads,Canada,False,False,10
+VISIT000157,2024-07-28 11:00:00,/product/sports,1196,Mobile,Chrome,Organic Search,Australia,True,False,4
+VISIT001056,2024-07-28 11:00:00,/products,3227,Desktop,Chrome,Direct,Australia,False,False,7
+VISIT000903,2024-07-28 12:00:00,/contact,262,Desktop,Edge,Social Media,USA,False,False,6
+VISIT000747,2024-07-28 13:00:00,/blog,3133,Mobile,Safari,Organic Search,USA,False,False,3
+VISIT000722,2024-07-28 14:00:00,/cart,280,Tablet,Firefox,Organic Search,Australia,False,False,5
+VISIT000434,2024-07-28 14:00:00,/checkout,859,Desktop,Firefox,Organic Search,Germany,False,False,7
+VISIT000603,2024-07-28 20:00:00,/about,991,Mobile,Firefox,Organic Search,Germany,True,False,13
+VISIT000772,2024-07-28 23:00:00,/contact,2663,Desktop,Chrome,Organic Search,Japan,False,False,3
+VISIT000109,2024-07-29 03:00:00,/product/electronics,1905,Desktop,Chrome,Email,UK,False,False,13
+VISIT001713,2024-07-29 06:00:00,/home,3037,Mobile,Firefox,Direct,Canada,True,False,8
+VISIT000030,2024-07-29 07:00:00,/product/clothing,225,Desktop,Opera,Organic Search,Japan,False,False,6
+VISIT001742,2024-07-29 08:00:00,/cart,213,Desktop,Firefox,Social Media,UK,True,False,14
+VISIT000347,2024-07-29 09:00:00,/contact,2411,Mobile,Firefox,Organic Search,Canada,False,True,18
+VISIT001501,2024-07-29 13:00:00,/cart,222,Mobile,Chrome,Paid Ads,Australia,False,False,18
+VISIT000309,2024-07-29 13:00:00,/about,1880,Desktop,Chrome,Paid Ads,France,True,False,16
+VISIT001984,2024-07-29 14:00:00,/product/clothing,3167,Mobile,Chrome,Organic Search,Australia,False,False,19
+VISIT001938,2024-07-29 14:00:00,/cart,2161,Tablet,Chrome,Direct,France,False,False,11
+VISIT001239,2024-07-29 20:00:00,/products,499,Mobile,Safari,Organic Search,USA,False,False,1
+VISIT001802,2024-07-29 22:00:00,/product/clothing,3573,Desktop,Safari,Direct,France,True,False,19
+VISIT001121,2024-07-29 23:00:00,/cart,2265,Mobile,Firefox,Organic Search,Australia,False,False,14
+VISIT000144,2024-07-30 00:00:00,/blog,320,Mobile,Chrome,Organic Search,USA,False,False,5
+VISIT000242,2024-07-30 01:00:00,/contact,390,Desktop,Chrome,Organic Search,UK,False,False,13
+VISIT001362,2024-07-30 03:00:00,/home,2421,Mobile,Chrome,Organic Search,UK,False,False,18
+VISIT000893,2024-07-30 03:00:00,/home,1875,Desktop,Safari,Organic Search,UK,True,False,8
+VISIT000340,2024-07-30 11:00:00,/checkout,3219,Desktop,Chrome,Organic Search,Germany,True,False,8
+VISIT001431,2024-07-30 12:00:00,/cart,1997,Desktop,Chrome,Social Media,Canada,True,False,7
+VISIT001434,2024-07-30 16:00:00,/about,3029,Desktop,Edge,Direct,Canada,False,False,15
+VISIT000059,2024-07-30 19:00:00,/product/clothing,311,Desktop,Firefox,Direct,UK,False,False,4
+VISIT000910,2024-07-30 20:00:00,/products,1787,Mobile,Opera,Social Media,Japan,True,False,2
+VISIT001760,2024-07-30 23:00:00,/cart,689,Tablet,Chrome,Direct,Australia,True,False,16
+VISIT000158,2024-07-31 00:00:00,/checkout,1844,Mobile,Safari,Organic Search,Germany,False,False,1
+VISIT001243,2024-07-31 13:00:00,/blog,325,Mobile,Firefox,Direct,Australia,False,False,8
+VISIT001783,2024-07-31 15:00:00,/checkout,2607,Mobile,Chrome,Organic Search,Canada,True,False,5
+VISIT001744,2024-07-31 17:00:00,/home,1842,Mobile,Firefox,Social Media,UK,False,False,4
+VISIT000575,2024-07-31 17:00:00,/about,861,Mobile,Chrome,Organic Search,USA,False,False,15
+VISIT001476,2024-07-31 23:00:00,/home,2342,Desktop,Safari,Organic Search,USA,True,False,5
+VISIT001851,2024-08-01 09:00:00,/about,2317,Mobile,Firefox,Organic Search,Germany,False,False,17
+VISIT001365,2024-08-01 09:00:00,/contact,2695,Mobile,Chrome,Social Media,USA,True,False,2
+VISIT001523,2024-08-01 10:00:00,/product/clothing,2948,Mobile,Chrome,Organic Search,France,True,False,19
+VISIT001217,2024-08-01 10:00:00,/products,2414,Desktop,Edge,Social Media,Canada,False,False,18
+VISIT000108,2024-08-01 11:00:00,/blog,523,Mobile,Safari,Paid Ads,Canada,False,False,9
+VISIT001875,2024-08-01 12:00:00,/product/electronics,1240,Desktop,Opera,Organic Search,Japan,False,False,4
+VISIT001857,2024-08-01 14:00:00,/product/clothing,1924,Desktop,Safari,Direct,Canada,False,False,19
+VISIT001132,2024-08-01 20:00:00,/product/sports,2943,Tablet,Chrome,Social Media,USA,True,False,13
+VISIT000393,2024-08-01 21:00:00,/contact,899,Mobile,Chrome,Organic Search,UK,False,False,6
+VISIT000191,2024-08-01 23:00:00,/product/sports,385,Desktop,Edge,Organic Search,Australia,True,False,5
+VISIT001316,2024-08-02 18:00:00,/product/electronics,26,Mobile,Opera,Organic Search,France,False,False,17
+VISIT000195,2024-08-02 20:00:00,/cart,2148,Desktop,Chrome,Organic Search,Canada,False,False,18
+VISIT000542,2024-08-02 21:00:00,/blog,1169,Desktop,Chrome,Direct,Australia,True,False,13
+VISIT001019,2024-08-02 23:00:00,/checkout,158,Desktop,Safari,Email,Germany,False,False,3
+VISIT000230,2024-08-03 02:00:00,/products,496,Desktop,Safari,Organic Search,Japan,True,False,15
+VISIT000999,2024-08-03 06:00:00,/about,1571,Desktop,Chrome,Direct,Australia,True,False,13
+VISIT001155,2024-08-03 09:00:00,/about,1921,Desktop,Chrome,Paid Ads,Canada,False,False,12
+VISIT001065,2024-08-03 11:00:00,/product/clothing,818,Tablet,Edge,Organic Search,Germany,False,False,9
+VISIT000399,2024-08-03 14:00:00,/cart,3541,Tablet,Firefox,Social Media,UK,False,False,12
+VISIT001059,2024-08-03 14:00:00,/about,1222,Mobile,Chrome,Direct,USA,False,False,2
+VISIT001654,2024-08-03 18:00:00,/checkout,1105,Desktop,Firefox,Organic Search,Japan,False,False,18
+VISIT001334,2024-08-04 00:00:00,/home,2979,Desktop,Chrome,Organic Search,Australia,True,False,14
+VISIT001559,2024-08-04 03:00:00,/product/electronics,608,Mobile,Chrome,Social Media,France,True,False,7
+VISIT000475,2024-08-04 06:00:00,/contact,1571,Mobile,Firefox,Paid Ads,USA,True,False,19
+VISIT000848,2024-08-04 06:00:00,/home,2403,Mobile,Chrome,Organic Search,USA,True,False,14
+VISIT000063,2024-08-04 07:00:00,/product/clothing,2836,Desktop,Chrome,Direct,UK,False,False,9
+VISIT001652,2024-08-04 08:00:00,/blog,2441,Tablet,Chrome,Organic Search,Australia,True,False,5
+VISIT000275,2024-08-04 10:00:00,/product/clothing,450,Desktop,Chrome,Email,Australia,False,True,2
+VISIT001157,2024-08-05 00:00:00,/product/electronics,1190,Desktop,Chrome,Organic Search,Germany,True,False,10
+VISIT000729,2024-08-05 01:00:00,/checkout,1966,Mobile,Chrome,Organic Search,UK,False,False,3
+VISIT001926,2024-08-05 09:00:00,/contact,1398,Desktop,Safari,Direct,France,True,False,9
+VISIT001237,2024-08-05 09:00:00,/product/sports,266,Mobile,Chrome,Social Media,USA,False,False,4
+VISIT000555,2024-08-05 15:00:00,/cart,2974,Desktop,Firefox,Direct,Japan,True,False,8
+VISIT001425,2024-08-05 18:00:00,/products,835,Desktop,Safari,Organic Search,Japan,False,False,8
+VISIT001325,2024-08-05 22:00:00,/home,889,Desktop,Safari,Paid Ads,France,True,False,6
+VISIT001532,2024-08-05 23:00:00,/blog,1340,Desktop,Chrome,Organic Search,France,False,False,13
+VISIT001492,2024-08-06 02:00:00,/products,1504,Desktop,Safari,Organic Search,Japan,True,False,5
+VISIT001162,2024-08-06 07:00:00,/product/sports,2015,Desktop,Firefox,Email,Canada,True,False,13
+VISIT001161,2024-08-06 09:00:00,/about,1911,Tablet,Chrome,Organic Search,UK,True,False,14
+VISIT000756,2024-08-06 13:00:00,/cart,1972,Desktop,Firefox,Organic Search,Japan,True,False,14
+VISIT001062,2024-08-06 15:00:00,/product/sports,2956,Mobile,Chrome,Direct,Germany,False,True,10
+VISIT000366,2024-08-06 17:00:00,/product/clothing,1843,Mobile,Safari,Organic Search,USA,True,False,2
+VISIT001453,2024-08-06 18:00:00,/checkout,1982,Desktop,Chrome,Direct,USA,True,False,13
+VISIT000240,2024-08-06 22:00:00,/products,3409,Mobile,Opera,Direct,UK,False,False,4
+VISIT001471,2024-08-07 01:00:00,/products,1604,Mobile,Chrome,Email,Canada,False,False,8
+VISIT001631,2024-08-07 05:00:00,/product/clothing,396,Mobile,Edge,Direct,UK,False,True,11
+VISIT000156,2024-08-07 05:00:00,/product/clothing,956,Desktop,Safari,Organic Search,Germany,False,False,16
+VISIT000509,2024-08-07 15:00:00,/blog,2496,Mobile,Safari,Organic Search,USA,True,False,7
+VISIT001380,2024-08-08 00:00:00,/home,2623,Tablet,Safari,Paid Ads,Australia,False,False,19
+VISIT001369,2024-08-08 00:00:00,/product/clothing,2394,Mobile,Firefox,Paid Ads,Germany,False,False,10
+VISIT001081,2024-08-08 00:00:00,/product/electronics,807,Desktop,Chrome,Direct,Germany,False,False,3
+VISIT000320,2024-08-08 01:00:00,/products,828,Desktop,Firefox,Organic Search,France,False,False,11
+VISIT000384,2024-08-08 08:00:00,/checkout,1946,Desktop,Edge,Direct,Canada,False,False,3
+VISIT000303,2024-08-08 11:00:00,/product/electronics,3430,Desktop,Chrome,Direct,Japan,False,False,19
+VISIT001210,2024-08-08 11:00:00,/contact,2296,Desktop,Chrome,Email,Japan,True,False,7
+VISIT000207,2024-08-08 16:00:00,/checkout,566,Desktop,Chrome,Email,Germany,True,False,4
+VISIT000036,2024-08-08 21:00:00,/cart,1219,Desktop,Safari,Paid Ads,Australia,False,False,1
+VISIT000532,2024-08-08 22:00:00,/cart,1859,Desktop,Chrome,Paid Ads,UK,False,False,14
+VISIT000066,2024-08-09 01:00:00,/cart,3067,Desktop,Firefox,Paid Ads,USA,False,False,4
+VISIT000280,2024-08-09 03:00:00,/home,2377,Desktop,Chrome,Organic Search,Canada,True,False,19
+VISIT000470,2024-08-09 08:00:00,/products,577,Desktop,Chrome,Direct,Australia,False,False,5
+VISIT001226,2024-08-09 08:00:00,/home,3512,Mobile,Edge,Organic Search,Japan,False,False,3
+VISIT001041,2024-08-09 13:00:00,/home,2387,Desktop,Chrome,Direct,USA,False,False,14
+VISIT000620,2024-08-09 14:00:00,/product/sports,3384,Desktop,Chrome,Organic Search,UK,False,False,9
+VISIT001818,2024-08-09 15:00:00,/cart,3104,Desktop,Edge,Organic Search,USA,True,True,6
+VISIT000149,2024-08-09 15:00:00,/products,715,Desktop,Safari,Organic Search,Australia,True,False,5
+VISIT001959,2024-08-09 17:00:00,/products,3360,Mobile,Edge,Organic Search,USA,False,False,1
+VISIT001040,2024-08-09 19:00:00,/blog,717,Mobile,Safari,Social Media,Australia,False,False,16
+VISIT000674,2024-08-10 09:00:00,/checkout,3169,Desktop,Chrome,Organic Search,Australia,True,False,11
+VISIT000180,2024-08-10 09:00:00,/product/electronics,1449,Desktop,Chrome,Organic Search,USA,True,False,5
+VISIT001709,2024-08-10 15:00:00,/product/electronics,2399,Mobile,Chrome,Direct,UK,True,False,9
+VISIT001890,2024-08-10 17:00:00,/blog,1190,Desktop,Chrome,Email,Germany,False,False,8
+VISIT001649,2024-08-10 19:00:00,/home,1545,Desktop,Safari,Organic Search,Germany,False,False,15
+VISIT001076,2024-08-10 21:00:00,/about,1647,Mobile,Safari,Organic Search,USA,False,False,12
+VISIT000488,2024-08-11 00:00:00,/product/sports,982,Desktop,Safari,Organic Search,Japan,True,False,8
+VISIT000484,2024-08-11 02:00:00,/checkout,677,Desktop,Opera,Organic Search,Canada,False,False,4
+VISIT000413,2024-08-11 04:00:00,/blog,1790,Mobile,Chrome,Direct,UK,True,False,11
+VISIT000665,2024-08-11 10:00:00,/product/electronics,2306,Mobile,Chrome,Organic Search,UK,True,False,10
+VISIT001806,2024-08-11 11:00:00,/checkout,955,Desktop,Chrome,Organic Search,Canada,True,False,8
+VISIT001124,2024-08-11 12:00:00,/product/electronics,133,Mobile,Chrome,Direct,Australia,False,False,14
+VISIT000778,2024-08-11 13:00:00,/product/electronics,277,Tablet,Firefox,Direct,Australia,False,False,15
+VISIT000336,2024-08-11 17:00:00,/home,2957,Mobile,Opera,Direct,Canada,False,False,17
+VISIT001736,2024-08-11 17:00:00,/cart,217,Tablet,Safari,Direct,Germany,False,False,5
+VISIT001488,2024-08-11 19:00:00,/cart,1764,Desktop,Safari,Direct,UK,False,True,1
+VISIT000748,2024-08-11 23:00:00,/blog,1242,Desktop,Chrome,Direct,Canada,False,False,7
+VISIT001905,2024-08-11 23:00:00,/checkout,368,Desktop,Safari,Direct,Australia,False,False,11
+VISIT001520,2024-08-12 05:00:00,/blog,2847,Mobile,Edge,Organic Search,Germany,True,False,16
+VISIT000761,2024-08-12 05:00:00,/checkout,673,Desktop,Chrome,Email,Australia,True,False,8
+VISIT001867,2024-08-12 05:00:00,/home,98,Mobile,Safari,Organic Search,Germany,False,False,2
+VISIT001547,2024-08-12 10:00:00,/product/electronics,1597,Mobile,Chrome,Paid Ads,France,False,False,16
+VISIT001473,2024-08-12 13:00:00,/product/clothing,522,Tablet,Safari,Organic Search,France,False,False,10
+VISIT001439,2024-08-12 16:00:00,/products,1371,Mobile,Opera,Direct,USA,False,False,10
+VISIT001458,2024-08-12 21:00:00,/contact,2842,Mobile,Safari,Paid Ads,France,False,False,9
+VISIT000707,2024-08-13 00:00:00,/cart,2636,Mobile,Safari,Organic Search,UK,False,False,4
+VISIT000445,2024-08-13 01:00:00,/about,3149,Tablet,Chrome,Direct,Canada,False,False,9
+VISIT000348,2024-08-13 01:00:00,/product/clothing,752,Tablet,Safari,Social Media,UK,True,False,1
+VISIT000613,2024-08-13 01:00:00,/contact,2970,Desktop,Firefox,Email,France,False,False,10
+VISIT000576,2024-08-13 03:00:00,/home,2565,Desktop,Safari,Social Media,Australia,True,True,14
+VISIT001813,2024-08-13 07:00:00,/products,2283,Tablet,Safari,Direct,Japan,False,False,18
+VISIT001810,2024-08-13 09:00:00,/product/clothing,3254,Desktop,Firefox,Email,France,False,False,12
+VISIT000264,2024-08-13 12:00:00,/contact,2597,Desktop,Chrome,Organic Search,Japan,False,False,13
+VISIT000519,2024-08-13 15:00:00,/products,2521,Tablet,Firefox,Direct,France,False,False,9
+VISIT000559,2024-08-13 21:00:00,/about,2348,Mobile,Chrome,Direct,USA,False,False,3
+VISIT000110,2024-08-13 22:00:00,/contact,2141,Desktop,Firefox,Organic Search,France,True,False,13
+VISIT001098,2024-08-13 23:00:00,/blog,2607,Mobile,Firefox,Paid Ads,Australia,False,False,5
+VISIT000432,2024-08-14 04:00:00,/cart,1949,Mobile,Firefox,Direct,UK,False,False,4
+VISIT001812,2024-08-14 07:00:00,/cart,3137,Desktop,Chrome,Organic Search,USA,True,False,15
+VISIT000137,2024-08-14 10:00:00,/blog,874,Mobile,Chrome,Paid Ads,Canada,True,False,10
+VISIT000901,2024-08-14 10:00:00,/contact,3347,Mobile,Chrome,Social Media,Australia,False,False,16
+VISIT001139,2024-08-14 11:00:00,/contact,1751,Desktop,Firefox,Social Media,Australia,False,False,17
+VISIT001792,2024-08-14 11:00:00,/product/sports,2753,Desktop,Opera,Paid Ads,Canada,True,False,16
+VISIT000045,2024-08-14 19:00:00,/home,882,Desktop,Edge,Social Media,Canada,True,False,12
+VISIT001538,2024-08-15 01:00:00,/product/electronics,1743,Desktop,Chrome,Direct,UK,False,False,18
+VISIT001308,2024-08-15 07:00:00,/product/electronics,3044,Desktop,Chrome,Organic Search,France,True,False,17
+VISIT001330,2024-08-15 13:00:00,/product/electronics,1658,Desktop,Firefox,Paid Ads,USA,False,False,19
+VISIT001788,2024-08-16 02:00:00,/contact,666,Mobile,Chrome,Email,USA,False,False,8
+VISIT000461,2024-08-16 05:00:00,/home,2534,Desktop,Chrome,Social Media,Australia,False,False,9
+VISIT000152,2024-08-16 07:00:00,/blog,1783,Desktop,Safari,Social Media,UK,False,False,18
+VISIT000786,2024-08-16 13:00:00,/product/sports,3592,Mobile,Chrome,Organic Search,UK,False,False,7
+VISIT000008,2024-08-16 18:00:00,/product/sports,712,Desktop,Safari,Organic Search,France,False,False,4
+VISIT000194,2024-08-16 19:00:00,/contact,317,Mobile,Chrome,Organic Search,UK,False,False,14
+VISIT000314,2024-08-17 00:00:00,/contact,1741,Tablet,Edge,Social Media,USA,True,False,7
+VISIT000335,2024-08-17 03:00:00,/product/clothing,1816,Mobile,Chrome,Paid Ads,Australia,True,False,11
+VISIT001977,2024-08-17 03:00:00,/product/clothing,2644,Desktop,Chrome,Organic Search,Australia,True,False,12
+VISIT001727,2024-08-17 06:00:00,/checkout,2718,Tablet,Chrome,Direct,Japan,False,False,10
+VISIT000324,2024-08-17 06:00:00,/blog,1134,Tablet,Firefox,Direct,Germany,False,False,15
+VISIT001048,2024-08-17 18:00:00,/checkout,3170,Desktop,Chrome,Organic Search,Japan,False,False,2
+VISIT000236,2024-08-17 19:00:00,/products,201,Mobile,Chrome,Organic Search,Germany,True,False,5
+VISIT000866,2024-08-17 22:00:00,/product/electronics,1048,Desktop,Chrome,Email,Australia,True,False,2
+VISIT001670,2024-08-17 22:00:00,/product/sports,901,Desktop,Firefox,Organic Search,USA,True,False,15
+VISIT000774,2024-08-18 01:00:00,/cart,2041,Mobile,Chrome,Organic Search,Japan,False,False,15
+VISIT000946,2024-08-18 02:00:00,/blog,39,Desktop,Chrome,Direct,UK,False,False,14
+VISIT001535,2024-08-18 05:00:00,/products,1450,Desktop,Chrome,Social Media,Japan,True,False,1
+VISIT000526,2024-08-18 11:00:00,/cart,2077,Mobile,Safari,Social Media,USA,False,True,10
+VISIT000031,2024-08-18 13:00:00,/contact,3029,Mobile,Chrome,Organic Search,Germany,True,False,15
+VISIT000900,2024-08-18 16:00:00,/checkout,114,Mobile,Safari,Direct,UK,True,False,5
+VISIT000851,2024-08-19 01:00:00,/product/sports,1225,Mobile,Chrome,Social Media,Japan,False,False,6
+VISIT000278,2024-08-19 04:00:00,/product/electronics,1539,Desktop,Chrome,Organic Search,France,True,False,6
+VISIT001873,2024-08-19 10:00:00,/product/electronics,2969,Desktop,Chrome,Email,USA,False,False,5
+VISIT000619,2024-08-19 14:00:00,/cart,772,Mobile,Chrome,Social Media,Japan,False,False,7
+VISIT000371,2024-08-19 23:00:00,/cart,3401,Mobile,Chrome,Organic Search,Japan,True,False,6
+VISIT001035,2024-08-19 23:00:00,/product/clothing,3125,Desktop,Chrome,Direct,UK,False,False,13
+VISIT000684,2024-08-20 07:00:00,/blog,1899,Desktop,Firefox,Organic Search,Japan,False,False,14
+VISIT001312,2024-08-20 14:00:00,/product/electronics,3373,Mobile,Chrome,Paid Ads,Canada,True,False,13
+VISIT000839,2024-08-20 15:00:00,/cart,382,Desktop,Edge,Direct,UK,True,False,10
+VISIT000161,2024-08-20 23:00:00,/contact,858,Mobile,Chrome,Organic Search,USA,True,False,10
+VISIT000080,2024-08-21 00:00:00,/blog,2185,Tablet,Chrome,Social Media,USA,False,False,15
+VISIT001444,2024-08-21 04:00:00,/about,681,Desktop,Safari,Organic Search,Germany,False,False,2
+VISIT000880,2024-08-21 04:00:00,/products,1799,Desktop,Chrome,Organic Search,Australia,False,False,15
+VISIT000016,2024-08-21 06:00:00,/products,2234,Desktop,Chrome,Direct,France,True,False,14
+VISIT001894,2024-08-21 11:00:00,/home,992,Desktop,Safari,Organic Search,Japan,False,False,16
+VISIT000435,2024-08-21 12:00:00,/contact,2235,Desktop,Chrome,Paid Ads,Japan,False,False,15
+VISIT001848,2024-08-21 13:00:00,/checkout,1092,Desktop,Chrome,Paid Ads,France,True,False,11
+VISIT000596,2024-08-21 14:00:00,/checkout,3158,Mobile,Chrome,Organic Search,Japan,False,False,8
+VISIT000724,2024-08-21 15:00:00,/home,2168,Desktop,Opera,Paid Ads,Canada,False,False,2
+VISIT001223,2024-08-21 16:00:00,/checkout,1081,Mobile,Firefox,Organic Search,France,True,False,16
+VISIT001723,2024-08-21 17:00:00,/product/clothing,3140,Desktop,Chrome,Organic Search,Australia,False,False,17
+VISIT000051,2024-08-21 20:00:00,/blog,2927,Mobile,Chrome,Social Media,Germany,False,False,6
+VISIT000198,2024-08-21 22:00:00,/checkout,119,Mobile,Chrome,Social Media,Australia,False,False,17
+VISIT001750,2024-08-21 22:00:00,/product/electronics,2396,Desktop,Safari,Organic Search,Australia,True,False,18
+VISIT000581,2024-08-22 00:00:00,/products,3154,Desktop,Chrome,Paid Ads,Australia,False,False,7
+VISIT000255,2024-08-22 02:00:00,/about,2701,Desktop,Safari,Organic Search,Japan,False,False,15
+VISIT000980,2024-08-22 03:00:00,/blog,421,Mobile,Chrome,Social Media,France,True,False,12
+VISIT001361,2024-08-22 03:00:00,/about,1035,Desktop,Opera,Direct,Germany,False,False,3
+VISIT000210,2024-08-22 04:00:00,/product/clothing,114,Tablet,Firefox,Direct,UK,True,False,2
+VISIT000934,2024-08-22 06:00:00,/products,2730,Desktop,Chrome,Direct,Japan,True,False,19
+VISIT001876,2024-08-22 07:00:00,/blog,2390,Tablet,Chrome,Direct,Germany,True,False,1
+VISIT001947,2024-08-22 14:00:00,/about,2664,Desktop,Chrome,Organic Search,Japan,False,False,18
+VISIT001986,2024-08-22 18:00:00,/product/sports,1876,Desktop,Firefox,Paid Ads,Japan,False,False,12
+VISIT000667,2024-08-22 18:00:00,/product/electronics,949,Desktop,Chrome,Organic Search,UK,False,False,10
+VISIT001187,2024-08-22 18:00:00,/cart,2916,Mobile,Chrome,Direct,Japan,False,False,18
+VISIT001951,2024-08-22 21:00:00,/product/electronics,1110,Mobile,Firefox,Social Media,Australia,False,False,11
+VISIT001351,2024-08-22 23:00:00,/blog,1199,Mobile,Firefox,Direct,Germany,True,False,19
+VISIT001898,2024-08-23 00:00:00,/product/electronics,3536,Tablet,Firefox,Social Media,UK,True,False,14
+VISIT000943,2024-08-23 06:00:00,/about,2811,Mobile,Opera,Social Media,Japan,True,False,8
+VISIT001387,2024-08-23 06:00:00,/product/sports,2299,Tablet,Safari,Organic Search,USA,False,True,1
+VISIT001626,2024-08-23 09:00:00,/contact,700,Desktop,Chrome,Organic Search,Canada,False,False,5
+VISIT001593,2024-08-23 10:00:00,/product/clothing,1515,Mobile,Chrome,Organic Search,Germany,True,False,2
+VISIT001013,2024-08-23 16:00:00,/product/sports,1286,Desktop,Firefox,Organic Search,Germany,False,False,7
+VISIT000020,2024-08-23 17:00:00,/product/sports,457,Mobile,Chrome,Paid Ads,Canada,False,False,19
+VISIT001349,2024-08-23 18:00:00,/product/sports,1355,Tablet,Firefox,Paid Ads,Germany,False,False,10
+VISIT000044,2024-08-24 12:00:00,/product/sports,1055,Mobile,Firefox,Social Media,USA,True,False,16
+VISIT000350,2024-08-24 16:00:00,/about,1299,Desktop,Safari,Social Media,France,True,False,4
+VISIT001765,2024-08-24 19:00:00,/blog,1578,Tablet,Chrome,Organic Search,UK,True,False,7
+VISIT001222,2024-08-24 20:00:00,/product/sports,3514,Desktop,Chrome,Organic Search,UK,False,False,18
+VISIT000828,2024-08-24 22:00:00,/contact,3499,Tablet,Edge,Social Media,Germany,False,False,15
+VISIT001786,2024-08-25 06:00:00,/product/sports,2201,Desktop,Firefox,Direct,Germany,True,False,15
+VISIT000042,2024-08-25 14:00:00,/product/electronics,2447,Desktop,Chrome,Organic Search,Canada,True,True,13
+VISIT001801,2024-08-25 17:00:00,/cart,1473,Mobile,Safari,Organic Search,UK,False,False,6
+VISIT000638,2024-08-25 19:00:00,/product/clothing,2120,Desktop,Chrome,Organic Search,France,False,False,17
+VISIT001274,2024-08-25 21:00:00,/about,801,Desktop,Opera,Social Media,USA,False,False,12
+VISIT000723,2024-08-25 22:00:00,/checkout,1516,Tablet,Firefox,Social Media,Germany,False,False,8
+VISIT001400,2024-08-25 22:00:00,/product/sports,56,Desktop,Firefox,Email,Japan,False,False,12
+VISIT001149,2024-08-26 02:00:00,/blog,100,Mobile,Chrome,Organic Search,France,False,True,17
+VISIT000626,2024-08-26 03:00:00,/product/electronics,52,Mobile,Chrome,Social Media,Germany,True,False,12
+VISIT001700,2024-08-26 04:00:00,/product/electronics,2640,Desktop,Edge,Email,USA,False,False,2
+VISIT001666,2024-08-26 04:00:00,/home,2547,Desktop,Safari,Organic Search,USA,False,False,9
+VISIT000939,2024-08-26 08:00:00,/products,1019,Mobile,Firefox,Social Media,USA,False,False,12
+VISIT000770,2024-08-26 09:00:00,/blog,1735,Tablet,Safari,Organic Search,Germany,True,False,9
+VISIT001787,2024-08-26 12:00:00,/blog,2645,Desktop,Safari,Email,Japan,True,False,8
+VISIT000713,2024-08-26 16:00:00,/blog,740,Desktop,Opera,Social Media,Australia,True,False,13
+VISIT001242,2024-08-27 02:00:00,/checkout,1692,Mobile,Firefox,Organic Search,Australia,True,False,19
+VISIT001101,2024-08-27 04:00:00,/blog,804,Desktop,Chrome,Organic Search,Australia,True,False,5
+VISIT000969,2024-08-27 04:00:00,/home,1816,Mobile,Firefox,Social Media,Australia,False,False,16
+VISIT000248,2024-08-27 05:00:00,/products,1396,Mobile,Chrome,Organic Search,Australia,False,False,16
+VISIT000860,2024-08-27 05:00:00,/products,673,Mobile,Chrome,Direct,USA,True,False,5
+VISIT000852,2024-08-27 08:00:00,/products,1705,Mobile,Safari,Email,UK,False,False,15
+VISIT001477,2024-08-27 09:00:00,/products,610,Desktop,Chrome,Direct,Germany,True,False,15
+VISIT001371,2024-08-27 09:00:00,/product/sports,3553,Mobile,Firefox,Organic Search,UK,True,False,8
+VISIT001537,2024-08-27 19:00:00,/product/clothing,2382,Desktop,Chrome,Organic Search,USA,False,False,10
+VISIT000203,2024-08-27 20:00:00,/blog,988,Mobile,Chrome,Organic Search,USA,True,False,15
+VISIT001627,2024-08-27 21:00:00,/products,537,Mobile,Safari,Social Media,UK,False,False,5
+VISIT000794,2024-08-28 04:00:00,/checkout,1242,Mobile,Opera,Organic Search,UK,True,False,19
+VISIT000473,2024-08-28 05:00:00,/products,540,Mobile,Chrome,Direct,France,False,True,11
+VISIT000064,2024-08-28 12:00:00,/checkout,2325,Tablet,Chrome,Direct,Canada,True,False,4
+VISIT001899,2024-08-28 16:00:00,/product/sports,2797,Desktop,Firefox,Direct,UK,True,False,12
+VISIT000703,2024-08-28 19:00:00,/about,1755,Desktop,Safari,Social Media,Canada,False,False,16
+VISIT001395,2024-08-29 04:00:00,/product/clothing,2448,Desktop,Firefox,Direct,France,True,False,11
+VISIT000725,2024-08-29 06:00:00,/cart,2926,Mobile,Edge,Social Media,Australia,False,False,7
+VISIT000119,2024-08-29 13:00:00,/contact,1098,Desktop,Firefox,Direct,Australia,True,False,15
+VISIT001499,2024-08-29 19:00:00,/product/clothing,3252,Desktop,Edge,Social Media,USA,True,False,14
+VISIT000655,2024-08-30 01:00:00,/products,615,Mobile,Firefox,Email,UK,True,False,12
+VISIT000065,2024-08-30 04:00:00,/product/clothing,3251,Desktop,Firefox,Paid Ads,France,True,False,7
+VISIT001823,2024-08-30 05:00:00,/product/sports,2976,Desktop,Chrome,Direct,Australia,False,False,18
+VISIT000100,2024-08-30 05:00:00,/about,1090,Desktop,Safari,Organic Search,France,True,False,19
+VISIT001078,2024-08-30 11:00:00,/about,1722,Mobile,Edge,Social Media,France,False,False,16
+VISIT000751,2024-08-30 21:00:00,/product/clothing,3132,Desktop,Chrome,Social Media,Australia,True,False,12
+VISIT001958,2024-08-31 00:00:00,/product/sports,2222,Desktop,Chrome,Paid Ads,Australia,True,False,19
+VISIT000364,2024-08-31 02:00:00,/blog,3450,Desktop,Opera,Paid Ads,UK,False,False,17
+VISIT001835,2024-08-31 04:00:00,/contact,2943,Desktop,Chrome,Direct,Australia,False,False,4
+VISIT001294,2024-08-31 22:00:00,/products,1252,Desktop,Chrome,Direct,Canada,False,False,19
+VISIT001208,2024-09-01 00:00:00,/cart,266,Mobile,Chrome,Direct,UK,False,False,14
+VISIT001257,2024-09-01 02:00:00,/product/sports,443,Mobile,Chrome,Paid Ads,Canada,True,False,14
+VISIT000214,2024-09-01 16:00:00,/about,2773,Mobile,Chrome,Organic Search,Canada,True,False,7
+VISIT000517,2024-09-01 20:00:00,/product/electronics,405,Mobile,Chrome,Direct,USA,True,False,13
+VISIT001484,2024-09-02 00:00:00,/product/electronics,397,Mobile,Safari,Social Media,UK,False,False,9
+VISIT001912,2024-09-02 13:00:00,/checkout,1841,Desktop,Chrome,Direct,France,False,False,12
+VISIT000557,2024-09-02 14:00:00,/product/clothing,1172,Mobile,Opera,Email,France,False,False,16
+VISIT001997,2024-09-02 19:00:00,/blog,1604,Mobile,Safari,Organic Search,France,True,False,2
+VISIT000523,2024-09-02 20:00:00,/blog,1996,Desktop,Firefox,Direct,Canada,True,False,17
+VISIT000241,2024-09-02 20:00:00,/product/sports,966,Mobile,Firefox,Organic Search,Japan,False,False,1
+VISIT001002,2024-09-02 22:00:00,/product/sports,1670,Mobile,Chrome,Social Media,Germany,True,False,2
+VISIT000983,2024-09-03 00:00:00,/cart,127,Mobile,Chrome,Organic Search,Canada,True,False,14
+VISIT001437,2024-09-03 02:00:00,/product/clothing,1566,Desktop,Firefox,Social Media,UK,True,False,14
+VISIT001621,2024-09-03 23:00:00,/about,2700,Mobile,Firefox,Organic Search,Germany,True,False,9
+VISIT000168,2024-09-04 02:00:00,/product/clothing,396,Desktop,Safari,Social Media,USA,False,False,16
+VISIT000580,2024-09-04 04:00:00,/contact,2438,Mobile,Safari,Organic Search,Germany,True,False,2
+VISIT001390,2024-09-04 06:00:00,/product/electronics,1495,Mobile,Chrome,Social Media,France,True,False,9
+VISIT000744,2024-09-04 07:00:00,/products,933,Tablet,Safari,Organic Search,UK,True,False,5
+VISIT000075,2024-09-04 10:00:00,/contact,3506,Desktop,Safari,Organic Search,Japan,True,False,1
+VISIT001513,2024-09-04 12:00:00,/about,1861,Mobile,Safari,Direct,Germany,False,False,14
+VISIT000329,2024-09-04 16:00:00,/blog,1139,Desktop,Safari,Paid Ads,Australia,False,False,15
+VISIT001561,2024-09-04 18:00:00,/products,1001,Desktop,Chrome,Organic Search,Australia,True,False,15
+VISIT000299,2024-09-04 18:00:00,/product/electronics,3368,Mobile,Chrome,Email,USA,True,False,18
+VISIT000799,2024-09-04 20:00:00,/product/sports,398,Mobile,Chrome,Social Media,Germany,False,False,18
+VISIT001578,2024-09-04 21:00:00,/contact,2369,Mobile,Firefox,Organic Search,Australia,True,False,15
+VISIT001259,2024-09-05 04:00:00,/home,1588,Tablet,Firefox,Email,Australia,True,False,10
+VISIT001917,2024-09-05 04:00:00,/blog,2946,Mobile,Firefox,Paid Ads,UK,True,False,2
+VISIT000395,2024-09-05 07:00:00,/checkout,3468,Desktop,Chrome,Organic Search,France,True,False,12
+VISIT001096,2024-09-05 09:00:00,/products,305,Tablet,Firefox,Organic Search,Australia,True,False,5
+VISIT000558,2024-09-05 11:00:00,/about,1309,Mobile,Edge,Direct,Japan,True,False,17
+VISIT001317,2024-09-05 13:00:00,/checkout,502,Tablet,Chrome,Direct,France,True,False,9
+VISIT001754,2024-09-05 15:00:00,/contact,396,Desktop,Chrome,Organic Search,France,False,False,18
+VISIT000279,2024-09-05 22:00:00,/product/clothing,2975,Mobile,Chrome,Email,UK,False,False,4
+VISIT001870,2024-09-06 03:00:00,/checkout,222,Desktop,Chrome,Organic Search,Germany,False,False,5
+VISIT001784,2024-09-06 03:00:00,/products,2877,Tablet,Chrome,Organic Search,Australia,False,False,10
+VISIT001634,2024-09-06 10:00:00,/product/clothing,1787,Desktop,Safari,Organic Search,Japan,True,False,14
+VISIT001671,2024-09-06 17:00:00,/home,98,Mobile,Chrome,Email,USA,True,False,8
+VISIT000448,2024-09-06 20:00:00,/product/clothing,3407,Desktop,Safari,Social Media,Germany,False,False,15
+VISIT001408,2024-09-06 23:00:00,/product/clothing,2191,Desktop,Chrome,Paid Ads,UK,True,False,19
+VISIT000372,2024-09-07 04:00:00,/product/sports,2856,Desktop,Chrome,Organic Search,USA,False,False,17
+VISIT001384,2024-09-07 06:00:00,/cart,2656,Mobile,Chrome,Organic Search,USA,False,False,13
+VISIT000421,2024-09-07 06:00:00,/checkout,3411,Mobile,Safari,Organic Search,Canada,False,False,2
+VISIT000392,2024-09-07 09:00:00,/contact,1087,Mobile,Opera,Social Media,Japan,False,False,15
+VISIT001428,2024-09-07 10:00:00,/contact,666,Mobile,Chrome,Direct,Canada,True,False,14
+VISIT001619,2024-09-07 15:00:00,/product/clothing,842,Desktop,Edge,Paid Ads,Australia,False,False,8
+VISIT001505,2024-09-07 15:00:00,/product/sports,3308,Mobile,Chrome,Social Media,Australia,False,False,1
+VISIT000084,2024-09-07 21:00:00,/product/electronics,2443,Desktop,Firefox,Direct,France,True,False,8
+VISIT001995,2024-09-07 23:00:00,/home,3550,Mobile,Chrome,Social Media,Canada,False,False,9
+VISIT001304,2024-09-07 23:00:00,/product/clothing,3422,Tablet,Edge,Paid Ads,USA,False,False,3
+VISIT000886,2024-09-08 00:00:00,/cart,1786,Desktop,Opera,Organic Search,Germany,False,False,17
+VISIT001714,2024-09-08 02:00:00,/products,1217,Desktop,Chrome,Email,France,True,False,18
+VISIT000705,2024-09-08 03:00:00,/home,3442,Desktop,Opera,Organic Search,UK,True,True,19
+VISIT000447,2024-09-08 04:00:00,/home,2502,Desktop,Chrome,Social Media,Canada,True,False,12
+VISIT001052,2024-09-08 09:00:00,/cart,721,Mobile,Safari,Organic Search,Canada,True,False,18
+VISIT000793,2024-09-08 12:00:00,/product/electronics,1290,Desktop,Safari,Social Media,Japan,False,False,3
+VISIT001209,2024-09-08 14:00:00,/product/electronics,586,Tablet,Edge,Organic Search,Japan,True,False,12
+VISIT000883,2024-09-08 14:00:00,/home,3512,Desktop,Chrome,Email,Australia,True,False,2
+VISIT001300,2024-09-08 18:00:00,/checkout,1010,Mobile,Edge,Social Media,UK,False,False,12
+VISIT001129,2024-09-08 18:00:00,/product/electronics,1701,Mobile,Safari,Organic Search,USA,True,False,3
+VISIT001927,2024-09-09 00:00:00,/blog,99,Mobile,Chrome,Email,USA,False,False,5
+VISIT000071,2024-09-09 01:00:00,/home,1832,Desktop,Firefox,Organic Search,UK,False,False,8
+VISIT000991,2024-09-09 02:00:00,/checkout,792,Desktop,Firefox,Organic Search,Canada,True,False,16
+VISIT000032,2024-09-09 09:00:00,/blog,2612,Mobile,Safari,Organic Search,USA,False,False,13
+VISIT001757,2024-09-09 10:00:00,/product/clothing,2563,Desktop,Firefox,Direct,France,False,False,12
+VISIT000365,2024-09-09 12:00:00,/checkout,2966,Desktop,Chrome,Social Media,Germany,False,False,14
+VISIT001773,2024-09-09 14:00:00,/products,1881,Mobile,Firefox,Paid Ads,Japan,False,False,8
+VISIT000204,2024-09-10 01:00:00,/blog,2413,Tablet,Chrome,Organic Search,UK,False,False,16
+VISIT000636,2024-09-10 01:00:00,/product/sports,1022,Mobile,Opera,Paid Ads,Japan,False,False,17
+VISIT000298,2024-09-10 01:00:00,/blog,591,Desktop,Edge,Organic Search,Germany,False,False,8
+VISIT000477,2024-09-10 05:00:00,/cart,690,Mobile,Safari,Direct,Australia,False,False,16
+VISIT001976,2024-09-10 09:00:00,/home,2752,Desktop,Chrome,Organic Search,Canada,False,False,7
+VISIT000035,2024-09-10 09:00:00,/checkout,2212,Desktop,Chrome,Organic Search,Australia,True,False,10
+VISIT001227,2024-09-10 14:00:00,/products,65,Mobile,Chrome,Organic Search,Canada,False,False,8
+VISIT001496,2024-09-10 18:00:00,/product/clothing,461,Mobile,Chrome,Social Media,USA,False,False,18
+VISIT000656,2024-09-10 19:00:00,/product/electronics,2887,Mobile,Chrome,Email,France,False,False,18
+VISIT000056,2024-09-10 20:00:00,/about,1139,Mobile,Firefox,Direct,Germany,False,False,2
+VISIT001100,2024-09-10 21:00:00,/home,1901,Tablet,Firefox,Organic Search,France,False,False,13
+VISIT001844,2024-09-11 02:00:00,/home,2399,Desktop,Edge,Organic Search,France,False,False,1
+VISIT001022,2024-09-11 03:00:00,/blog,3292,Desktop,Chrome,Organic Search,Canada,False,False,1
+VISIT001571,2024-09-11 03:00:00,/contact,2760,Desktop,Chrome,Direct,France,True,False,19
+VISIT001319,2024-09-11 04:00:00,/home,2983,Desktop,Edge,Organic Search,Canada,False,False,15
+VISIT001690,2024-09-11 09:00:00,/product/electronics,2468,Desktop,Chrome,Organic Search,France,True,False,19
+VISIT001925,2024-09-11 12:00:00,/about,636,Desktop,Safari,Social Media,Japan,False,False,12
+VISIT000245,2024-09-11 14:00:00,/blog,248,Desktop,Edge,Organic Search,Germany,False,False,17
+VISIT000879,2024-09-11 16:00:00,/contact,3310,Desktop,Edge,Organic Search,France,True,False,4
+VISIT001529,2024-09-11 16:00:00,/products,3578,Desktop,Chrome,Social Media,France,False,False,13
+VISIT000271,2024-09-11 21:00:00,/home,2450,Desktop,Safari,Paid Ads,Australia,True,False,13
+VISIT000209,2024-09-11 22:00:00,/product/electronics,914,Mobile,Chrome,Organic Search,UK,False,False,17
+VISIT001648,2024-09-12 04:00:00,/product/sports,1481,Tablet,Chrome,Social Media,Australia,True,False,3
+VISIT001087,2024-09-12 06:00:00,/checkout,296,Desktop,Firefox,Organic Search,USA,False,False,14
+VISIT000709,2024-09-12 06:00:00,/about,58,Mobile,Firefox,Paid Ads,Japan,False,False,1
+VISIT000297,2024-09-12 10:00:00,/contact,2757,Desktop,Chrome,Direct,Australia,False,False,3
+VISIT000867,2024-09-12 14:00:00,/product/electronics,2835,Desktop,Chrome,Direct,UK,False,True,7
+VISIT001156,2024-09-12 15:00:00,/products,525,Desktop,Firefox,Direct,Japan,False,False,10
+VISIT001526,2024-09-12 17:00:00,/checkout,153,Mobile,Safari,Direct,Germany,False,False,13
+VISIT001102,2024-09-12 21:00:00,/home,212,Mobile,Edge,Email,Japan,True,False,19
+VISIT000922,2024-09-13 01:00:00,/product/sports,2438,Desktop,Chrome,Organic Search,UK,False,False,8
+VISIT000012,2024-09-13 01:00:00,/about,486,Desktop,Chrome,Direct,Canada,False,False,13
+VISIT001779,2024-09-13 02:00:00,/cart,1864,Mobile,Chrome,Paid Ads,Australia,True,False,16
+VISIT001278,2024-09-13 04:00:00,/product/clothing,747,Desktop,Firefox,Email,Germany,False,False,19
+VISIT000317,2024-09-13 08:00:00,/product/sports,3551,Desktop,Chrome,Direct,France,False,False,1
+VISIT000148,2024-09-13 17:00:00,/cart,2495,Desktop,Edge,Organic Search,France,False,False,14
+VISIT000970,2024-09-13 17:00:00,/product/electronics,3177,Desktop,Firefox,Direct,Japan,True,False,6
+VISIT000609,2024-09-13 19:00:00,/checkout,3165,Desktop,Edge,Social Media,France,False,False,18
+VISIT000143,2024-09-13 21:00:00,/blog,1896,Desktop,Firefox,Organic Search,Germany,True,False,16
+VISIT001674,2024-09-13 23:00:00,/cart,2407,Mobile,Chrome,Organic Search,Germany,False,False,12
+VISIT000024,2024-09-14 05:00:00,/blog,211,Desktop,Opera,Direct,USA,False,False,14
+VISIT000686,2024-09-14 16:00:00,/product/electronics,3424,Desktop,Safari,Social Media,Japan,True,False,15
+VISIT000068,2024-09-14 17:00:00,/product/sports,1488,Mobile,Safari,Social Media,UK,True,False,2
+VISIT001189,2024-09-14 20:00:00,/product/clothing,2045,Desktop,Chrome,Direct,France,False,False,9
+VISIT000244,2024-09-15 00:00:00,/products,807,Mobile,Chrome,Direct,UK,False,False,3
+VISIT001381,2024-09-15 06:00:00,/product/electronics,625,Mobile,Chrome,Organic Search,USA,True,False,16
+VISIT000437,2024-09-15 11:00:00,/product/sports,1387,Desktop,Chrome,Social Media,Australia,True,True,5
+VISIT000835,2024-09-15 13:00:00,/product/sports,997,Desktop,Chrome,Organic Search,UK,False,False,1
+VISIT001979,2024-09-15 15:00:00,/home,1216,Desktop,Firefox,Social Media,Germany,True,False,10
+VISIT001753,2024-09-15 15:00:00,/products,1169,Desktop,Chrome,Organic Search,Japan,True,False,17
+VISIT001180,2024-09-15 19:00:00,/blog,2255,Desktop,Firefox,Organic Search,France,True,False,17
+VISIT001364,2024-09-16 06:00:00,/products,1460,Desktop,Safari,Organic Search,Japan,False,False,17
+VISIT000453,2024-09-16 21:00:00,/product/sports,1392,Desktop,Chrome,Organic Search,UK,False,False,1
+VISIT000637,2024-09-16 22:00:00,/home,2234,Desktop,Chrome,Social Media,Australia,True,False,3
+VISIT001702,2024-09-17 02:00:00,/blog,390,Desktop,Chrome,Direct,France,False,False,11
+VISIT001936,2024-09-17 05:00:00,/home,1623,Desktop,Chrome,Paid Ads,Japan,True,False,11
+VISIT000905,2024-09-17 20:00:00,/contact,2725,Desktop,Edge,Paid Ads,Germany,False,False,7
+VISIT001558,2024-09-17 20:00:00,/product/electronics,476,Mobile,Chrome,Paid Ads,USA,False,False,5
+VISIT000917,2024-09-17 20:00:00,/cart,2389,Desktop,Edge,Organic Search,Australia,False,False,19
+VISIT001971,2024-09-17 23:00:00,/product/sports,998,Mobile,Firefox,Social Media,France,False,True,7
+VISIT001220,2024-09-17 23:00:00,/product/electronics,3239,Mobile,Firefox,Organic Search,Germany,True,False,4
+VISIT001117,2024-09-18 02:00:00,/product/electronics,1658,Desktop,Firefox,Organic Search,USA,False,False,7
+VISIT000260,2024-09-18 05:00:00,/home,3257,Tablet,Chrome,Paid Ads,Japan,True,False,16
+VISIT001919,2024-09-18 06:00:00,/product/sports,1180,Desktop,Opera,Direct,UK,False,False,1
+VISIT001569,2024-09-18 08:00:00,/blog,2630,Mobile,Chrome,Paid Ads,Australia,False,False,19
+VISIT001446,2024-09-18 08:00:00,/about,841,Mobile,Firefox,Direct,France,False,False,6
+VISIT000645,2024-09-18 09:00:00,/checkout,1831,Mobile,Edge,Direct,France,False,False,11
+VISIT001193,2024-09-18 10:00:00,/product/sports,334,Desktop,Chrome,Email,France,False,False,15
+VISIT001531,2024-09-18 13:00:00,/product/electronics,64,Desktop,Chrome,Email,UK,True,False,11
+VISIT000573,2024-09-18 23:00:00,/product/clothing,2270,Desktop,Chrome,Social Media,Canada,False,False,1
+VISIT001293,2024-09-19 04:00:00,/product/clothing,707,Mobile,Chrome,Direct,Canada,False,False,10
+VISIT000632,2024-09-19 08:00:00,/cart,3097,Desktop,Chrome,Organic Search,Germany,False,False,7
+VISIT000404,2024-09-19 13:00:00,/product/sports,2919,Mobile,Edge,Social Media,Canada,True,False,6
+VISIT001738,2024-09-19 17:00:00,/product/electronics,1670,Tablet,Firefox,Organic Search,Australia,True,False,9
+VISIT000833,2024-09-19 19:00:00,/checkout,506,Desktop,Safari,Email,Japan,False,False,18
+VISIT001903,2024-09-19 20:00:00,/products,2252,Mobile,Safari,Direct,USA,False,False,2
+VISIT001646,2024-09-19 23:00:00,/contact,426,Mobile,Chrome,Direct,UK,False,False,11
+VISIT000172,2024-09-19 23:00:00,/cart,2035,Mobile,Chrome,Paid Ads,USA,True,False,13
+VISIT001355,2024-09-20 02:00:00,/blog,2518,Mobile,Chrome,Organic Search,France,True,False,8
+VISIT001305,2024-09-20 03:00:00,/products,1491,Desktop,Safari,Email,USA,False,True,7
+VISIT001640,2024-09-20 03:00:00,/cart,2696,Mobile,Chrome,Social Media,Germany,False,False,13
+VISIT001114,2024-09-20 03:00:00,/product/clothing,3423,Desktop,Firefox,Email,UK,False,False,2
+VISIT001297,2024-09-20 05:00:00,/products,3496,Mobile,Edge,Social Media,Australia,False,False,5
+VISIT001592,2024-09-20 08:00:00,/cart,1230,Mobile,Safari,Organic Search,UK,True,False,3
+VISIT000419,2024-09-20 13:00:00,/about,2997,Desktop,Chrome,Organic Search,France,False,False,4
+VISIT000187,2024-09-20 23:00:00,/product/sports,115,Desktop,Chrome,Email,France,False,False,14
+VISIT000754,2024-09-21 01:00:00,/checkout,1713,Desktop,Chrome,Organic Search,Australia,True,False,1
+VISIT000196,2024-09-21 01:00:00,/product/clothing,3474,Desktop,Chrome,Direct,USA,False,False,1
+VISIT000107,2024-09-21 01:00:00,/checkout,609,Mobile,Chrome,Organic Search,Canada,True,False,4
+VISIT001699,2024-09-21 03:00:00,/product/electronics,1070,Desktop,Edge,Social Media,Canada,False,False,19
+VISIT000702,2024-09-21 06:00:00,/about,1325,Desktop,Firefox,Email,Japan,False,False,7
+VISIT001051,2024-09-21 10:00:00,/contact,803,Mobile,Chrome,Direct,Japan,False,False,10
+VISIT000378,2024-09-21 10:00:00,/product/sports,926,Mobile,Chrome,Direct,Canada,False,False,10
+VISIT000618,2024-09-21 11:00:00,/products,3015,Desktop,Safari,Email,Germany,True,False,16
+VISIT000205,2024-09-21 14:00:00,/cart,1925,Desktop,Firefox,Email,Canada,False,False,8
+VISIT000414,2024-09-21 14:00:00,/contact,593,Desktop,Chrome,Organic Search,Japan,True,False,10
+VISIT000837,2024-09-21 17:00:00,/product/electronics,919,Desktop,Edge,Organic Search,Japan,True,False,6
+VISIT001282,2024-09-21 18:00:00,/product/clothing,722,Desktop,Safari,Direct,UK,False,False,5
+VISIT001424,2024-09-21 20:00:00,/blog,1804,Mobile,Safari,Direct,Australia,False,False,3
+VISIT000935,2024-09-21 20:00:00,/about,1561,Desktop,Chrome,Organic Search,France,False,False,10
+VISIT001433,2024-09-21 21:00:00,/blog,566,Mobile,Safari,Direct,Japan,False,False,15
+VISIT001992,2024-09-21 22:00:00,/products,2664,Desktop,Safari,Organic Search,Japan,False,False,13
+VISIT000074,2024-09-21 22:00:00,/product/sports,3227,Desktop,Chrome,Organic Search,Canada,True,False,2
+VISIT001720,2024-09-22 03:00:00,/checkout,2532,Mobile,Edge,Paid Ads,Australia,False,False,19
+VISIT001653,2024-09-22 08:00:00,/checkout,2525,Tablet,Chrome,Organic Search,France,True,False,17
+VISIT000896,2024-09-22 21:00:00,/cart,3416,Desktop,Chrome,Social Media,Canada,True,True,11
+VISIT001930,2024-09-22 22:00:00,/product/sports,490,Mobile,Firefox,Email,Australia,False,False,16
+VISIT000783,2024-09-23 03:00:00,/checkout,135,Desktop,Firefox,Email,France,True,False,16
+VISIT001952,2024-09-23 04:00:00,/contact,1751,Tablet,Chrome,Direct,USA,True,False,1
+VISIT001638,2024-09-23 06:00:00,/cart,907,Mobile,Safari,Email,Japan,True,False,4
+VISIT001044,2024-09-23 08:00:00,/product/electronics,2380,Desktop,Edge,Organic Search,UK,True,False,17
+VISIT001085,2024-09-23 13:00:00,/blog,1232,Desktop,Chrome,Social Media,UK,False,False,19
+VISIT000060,2024-09-23 13:00:00,/about,2605,Desktop,Chrome,Organic Search,Germany,True,False,17
+VISIT000712,2024-09-24 07:00:00,/products,1354,Mobile,Safari,Email,France,False,False,19
+VISIT001348,2024-09-24 10:00:00,/contact,1454,Desktop,Edge,Organic Search,Canada,False,False,1
+VISIT000690,2024-09-24 12:00:00,/contact,1553,Desktop,Chrome,Organic Search,Canada,True,False,2
+VISIT000606,2024-09-24 13:00:00,/checkout,151,Tablet,Edge,Direct,France,False,False,15
+VISIT000766,2024-09-24 14:00:00,/products,2055,Desktop,Safari,Direct,Australia,False,False,4
+VISIT000118,2024-09-24 14:00:00,/product/sports,3476,Desktop,Chrome,Direct,Canada,False,False,15
+VISIT000041,2024-09-24 17:00:00,/product/clothing,330,Mobile,Firefox,Social Media,USA,False,False,5
+VISIT000021,2024-09-24 17:00:00,/product/sports,212,Desktop,Firefox,Direct,Canada,False,False,13
+VISIT001004,2024-09-25 01:00:00,/products,1106,Desktop,Chrome,Direct,France,True,True,6
+VISIT000013,2024-09-25 03:00:00,/products,2996,Mobile,Chrome,Email,Japan,False,False,7
+VISIT001270,2024-09-25 04:00:00,/cart,2196,Desktop,Firefox,Organic Search,UK,False,False,13
+VISIT000362,2024-09-25 04:00:00,/home,2678,Mobile,Opera,Direct,Australia,False,False,11
+VISIT000719,2024-09-25 07:00:00,/blog,2114,Desktop,Chrome,Direct,UK,False,False,4
+VISIT000126,2024-09-25 09:00:00,/product/electronics,480,Desktop,Firefox,Social Media,Germany,False,False,5
+VISIT001682,2024-09-25 09:00:00,/home,2797,Tablet,Safari,Paid Ads,UK,False,False,17
+VISIT000254,2024-09-25 14:00:00,/product/clothing,46,Desktop,Chrome,Paid Ads,USA,True,False,19
+VISIT000050,2024-09-26 00:00:00,/cart,2233,Desktop,Firefox,Direct,France,True,False,15
+VISIT001379,2024-09-26 03:00:00,/product/electronics,2038,Tablet,Firefox,Direct,France,True,True,2
+VISIT000849,2024-09-26 04:00:00,/about,3184,Mobile,Edge,Social Media,Australia,True,False,11
+VISIT001343,2024-09-26 08:00:00,/cart,677,Desktop,Chrome,Organic Search,Japan,True,True,6
+VISIT001800,2024-09-26 09:00:00,/cart,1595,Desktop,Firefox,Email,UK,True,False,4
+VISIT000657,2024-09-26 10:00:00,/home,1496,Mobile,Safari,Direct,Japan,False,False,3
+VISIT000631,2024-09-26 12:00:00,/cart,605,Desktop,Firefox,Email,Germany,True,False,14
+VISIT000113,2024-09-26 14:00:00,/blog,2896,Mobile,Opera,Email,Australia,False,False,13
